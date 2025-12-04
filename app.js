@@ -44,7 +44,8 @@ function selectCountry(country) {
         }
     });
     
-    // Apply country-specific background
+    // Remove white background and apply country-specific background
+    document.body.classList.remove('country-selection-active');
     document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
     document.body.classList.add(`country-${country}`);
     
@@ -77,6 +78,9 @@ function showCountrySelection() {
     
     // Remove country-specific background
     document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    
+    // Add white background for country selection
+    document.body.classList.add('country-selection-active');
     
     countrySelection.classList.remove('hidden');
     categorySelection.classList.add('hidden');
