@@ -141,7 +141,4 @@ setTimeout(() => {
     });
 }, 100);
 
-// Set initial white background for country selection
-document.body.classList.add('country-selection-active');
-
 console.log('Cultural User Manual initialized successfully!');
