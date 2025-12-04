@@ -14,7 +14,7 @@ const culturalData = {
                 <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
 
                 <div class="warning">
-                    <strong>🔞 The Age of Consent is 16</strong>
+                    <strong>🔞 The Age of Consent is 16 (England & Wales)</strong>
                     <ul>
                         <li>It is a <strong>serious crime</strong> to have any kind of sexual contact with someone under 16. The law is absolute on this.</li>
                         <li>"I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
@@ -69,8 +69,8 @@ const culturalData = {
                 <ul>
                     <li>🍻 <strong>Alcohol is Involved:</strong> A huge amount of socialising and dating revolves around alcohol. "Going for a drink" is the standard first date. It's casual, low-pressure, and has an easy time limit. ⏰</li>
                     <li>💸 <strong>Who Pays?:</strong> The old "man always pays" rule is dead. ⚰️ Often, people will "get a round" in turn, or the bill is split ("going Dutch" 🇳🇱). A good policy is to always offer to pay your share.</li>
-                    <li>📅 <strong>Age Gaps:</strong> Large age gaps are not especially common and can sometimes be viewed with suspicion 🤔, especially if one person is very young (e.g., under 21). It's not illegal, but it's something to be aware of.</li>
-                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, the only acceptable response is a polite, "No problem, have a good evening," 👋 and then you move on. Pestering them is social suicide. ☠️</li>
+                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are less common and can sometimes be viewed with suspicion 🤔, especially if one person is very young (e.g., under 21). It's not illegal, but it's something to be aware of.</li>
+                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, the only acceptable response is a polite, "No problem, have a good evening," 👋 and then you move on. Pestering someone after rejection is considered socially unacceptable and will seriously damage your reputation. 🚫</li>
                     <li>💔 <strong>Infidelity ("Cheating"):</strong> Loyalty is highly valued. Cheating on a partner is seen as a massive betrayal and a deeply dishonourable thing to do.</li>
                     <li>🌙 <strong>The End of the Night:</strong> Do not assume a date will end in physical intimacy. It usually doesn't. A simple "I had a really nice time" 😊 is the best way to end the evening. If they feel the same, you can arrange another date. 📱</li>
                 </ul>
