@@ -4,7 +4,7 @@
 
 ## About
 
-The Cultural User Manual is a web application designed to help migrants successfully assimilate into the cultures of four European countries:
+The Cultural User Manual is a web application designed designed to help migrants assimilate into the non-urban, traditional culture of a host country.
 
 - 🇬🇧 **England**
 - 🇩🇪 **Germany**
