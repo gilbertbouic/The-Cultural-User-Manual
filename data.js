@@ -1279,6 +1279,359 @@ const culturalData = {
                     <p>UK bureaucracy can feel complex, but it's generally logical once you understand it. 🧩 The key is: get your essential documents sorted early, register for everything you need to, keep good records, and don't be afraid to ask for help. 🤝 Most government services are designed to be accessible – use online services where possible, and remember that staff are usually trying to help, even if the system is frustrating! 😅🇬🇧</p>
                 </div>
             `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools – A Parent's Guide to the UK School System 📚",
+            content: `
+                <p>Right, let's talk about something that matters enormously if you have children: education. 🎓 The UK school system can seem bewildering at first – different types of schools, unfamiliar terminology, and a whole culture around schooling that might be very different from what you're used to. 🤔</p>
+                
+                <p>This guide will walk you through everything you need to know: how the system works, how to get your child into a school, what to expect, and how to be an involved parent without stepping on any toes. 📋 Let's get your kids sorted! 💪</p>
+
+                <h3>🏫 Part 1: Understanding the UK School System – The Basics</h3>
+                <p>The UK education system has some unique features. Here's the fundamental structure: 📊</p>
+
+                <div class="important">
+                    <strong>📅 Key Ages and Stages</strong>
+                    <ul>
+                        <li><strong>Compulsory education:</strong> In England, children must be in education from age 5 to 18. (Note: Scotland, Wales, and Northern Ireland have slightly different requirements.) 📚</li>
+                        <li><strong>Reception (age 4-5):</strong> The first year of primary school – most children start in September after turning 4.</li>
+                        <li><strong>Primary school (ages 5-11):</strong> Years 1-6. This covers Key Stage 1 (Years 1-2) and Key Stage 2 (Years 3-6). 🏫</li>
+                        <li><strong>Secondary school (ages 11-16):</strong> Years 7-11. This covers Key Stage 3 (Years 7-9) and Key Stage 4 (Years 10-11, leading to GCSEs). 🎒</li>
+                        <li><strong>Sixth Form/College (ages 16-18):</strong> Years 12-13. A-Levels or other qualifications. This can be at school or a separate college. 🎓</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>💡 Academic Year</strong>
+                    <p>The school year runs from early September to mid-July. 📅 It's divided into three terms: Autumn (September-December), Spring (January-Easter), and Summer (Easter-July). Each term has a half-term break of about a week.</p>
+                </div>
+
+                <h4>🏫 Types of Schools:</h4>
+                <ul>
+                    <li>📗 <strong>State schools:</strong> Free, funded by the government. The vast majority of children attend these. Quality varies but many are excellent.</li>
+                    <li>📘 <strong>Academies and Free Schools:</strong> State-funded but with more independence over curriculum and policies. Still free to attend.</li>
+                    <li>⛪ <strong>Faith schools:</strong> Schools with a religious character (Church of England, Catholic, Jewish, Muslim, etc.). Many are state-funded. May have faith-based admissions criteria.</li>
+                    <li>📕 <strong>Grammar schools:</strong> State schools that select students by academic ability (entrance exam at age 11). Only exist in some areas.</li>
+                    <li>💷 <strong>Independent/Private schools:</strong> Fee-paying schools. Called "public schools" for historical reasons (confusingly!). Fees range from £10,000-£40,000+ per year.</li>
+                    <li>🏠 <strong>Home education:</strong> Legal in the UK. Parents can educate children at home, but must provide a suitable education.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Terminology Alert!</strong>
+                    <ul>
+                        <li>"Public school" in the UK means expensive private school – the opposite of what you might expect! 🎩</li>
+                        <li>"State school" is what Americans would call "public school".</li>
+                        <li>"Reception" is the first year – not a place where you wait!</li>
+                        <li>"Sixth Form" is ages 16-18, not a type of form you fill in.</li>
+                    </ul>
+                </div>
+
+                <h3>📝 Part 2: Getting Your Child into School – The Admissions Process</h3>
+                <p>Finding and securing a school place requires planning. Here's how it works: 📋</p>
+
+                <h4>🔍 Finding Schools:</h4>
+                <ul>
+                    <li>🌐 <strong>GOV.UK:</strong> Use the "Find a School" service to search by location and see school details.</li>
+                    <li>⭐ <strong>Ofsted reports:</strong> Every school is inspected by Ofsted (Office for Standards in Education). Ratings are Outstanding, Good, Requires Improvement, or Inadequate. Check reports online.</li>
+                    <li>📊 <strong>League tables:</strong> Published exam results help compare academic performance, but don't tell the whole story.</li>
+                    <li>👥 <strong>Word of mouth:</strong> Talk to local parents. Reputation matters, but remember opinions are subjective!</li>
+                    <li>🚶 <strong>Open days:</strong> Schools hold open evenings/days. Attend these – you'll get a feel for the school and can ask questions.</li>
+                </ul>
+
+                <h4>📅 Application Timeline (Primary School - Reception):</h4>
+                <ul>
+                    <li>📋 <strong>September-October:</strong> Research schools, attend open days.</li>
+                    <li>📝 <strong>By 15th January:</strong> Submit your application through your local council's website. You can list 3-6 preferences depending on your area.</li>
+                    <li>📬 <strong>16th April (National Offer Day):</strong> You'll receive your offer. This is the same day across England.</li>
+                    <li>✅ <strong>Accept your place:</strong> You must respond by the deadline given, usually 2 weeks.</li>
+                </ul>
+
+                <h4>📅 Application Timeline (Secondary School - Year 7):</h4>
+                <ul>
+                    <li>📋 <strong>September-October:</strong> Research schools, attend open evenings.</li>
+                    <li>📝 <strong>By 31st October:</strong> Submit your application.</li>
+                    <li>📬 <strong>1st March (National Offer Day):</strong> You'll receive your offer.</li>
+                    <li>✅ <strong>Accept your place:</strong> Respond by the deadline.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>📍 Admissions Criteria – How Places Are Allocated</strong>
+                    <p>When schools are oversubscribed, they use criteria to decide who gets in. Common criteria include:</p>
+                    <ul>
+                        <li>👶 <strong>Siblings:</strong> Children with siblings already at the school often get priority.</li>
+                        <li>📏 <strong>Distance:</strong> How close you live to the school (measured by the council's method – usually straight line).</li>
+                        <li>⛪ <strong>Faith criteria:</strong> For faith schools – church attendance, baptism certificates, etc.</li>
+                        <li>👩‍⚕️ <strong>Medical/social needs:</strong> If the school is essential for your child's specific needs.</li>
+                        <li>🎓 <strong>Selective schools:</strong> Grammar schools use entrance exams (11+).</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>💡 Tips for Applications</strong>
+                    <ul>
+                        <li>📍 Put your most realistic choice first, not necessarily your "dream" school.</li>
+                        <li>📋 Use all your preferences – there's no advantage to listing fewer schools.</li>
+                        <li>🏠 Check catchment areas – use previous years' admission distances as a guide.</li>
+                        <li>📄 Keep evidence of your address ready – councils check!</li>
+                        <li>⏰ Apply on time – late applications go to the back of the queue.</li>
+                    </ul>
+                </div>
+
+                <h4>🆘 What if You Don't Get Your Preferred School?</h4>
+                <ul>
+                    <li>📝 <strong>Accept the offer:</strong> Accept the place you're given – you can still appeal or stay on waiting lists.</li>
+                    <li>📋 <strong>Waiting lists:</strong> Ask to be added to waiting lists for preferred schools. Your position depends on the admissions criteria.</li>
+                    <li>⚖️ <strong>Appeals:</strong> You have the right to appeal. You'll present your case to an independent panel. Success isn't guaranteed, but it's worth trying if you have strong grounds.</li>
+                    <li>🔄 <strong>In-year applications:</strong> If you move to the area mid-year, apply directly to schools or through the council.</li>
+                </ul>
+
+                <h3>📚 Part 3: What to Expect – School Life in the UK</h3>
+                <p>UK school culture might be different from what you're used to. Here's what to expect: 🎒</p>
+
+                <h4>⏰ The School Day:</h4>
+                <ul>
+                    <li>🌅 <strong>Start time:</strong> Usually 8:30-9:00 AM. Arriving late is taken seriously!</li>
+                    <li>🌆 <strong>End time:</strong> Primary schools finish around 3:00-3:30 PM. Secondary schools around 3:00-4:00 PM.</li>
+                    <li>🍎 <strong>Break times:</strong> Morning break and lunch break. Younger children may have afternoon break too.</li>
+                    <li>🏫 <strong>After-school clubs:</strong> Many schools offer activities like sports, music, drama, homework clubs. Often free.</li>
+                    <li>📚 <strong>Homework:</strong> Starts light in primary school and increases. By secondary school, expect regular homework in most subjects.</li>
+                </ul>
+
+                <h4>👔 Uniform:</h4>
+                <ul>
+                    <li>👕 <strong>Most schools require uniform:</strong> This typically includes specific colours/styles for polo shirts, jumpers, trousers/skirts, and shoes.</li>
+                    <li>🏷️ <strong>Where to buy:</strong> Supermarkets (cheapest), school suppliers, or the school itself. Many schools have second-hand uniform sales.</li>
+                    <li>💰 <strong>Cost help:</strong> If you're on a low income, you may be eligible for help with uniform costs through your council.</li>
+                    <li>📋 <strong>Rules are strict:</strong> Schools take uniform seriously. Wrong shoes, jewellery, or extreme hairstyles can result in being sent home!</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Uniform Tip</strong>
+                    <p>Label everything! 🏷️ Kids lose things constantly. A permanent marker or iron-on labels on every item will save you money and frustration. Check lost property regularly.</p>
+                </div>
+
+                <h4>🍽️ School Meals:</h4>
+                <ul>
+                    <li>🆓 <strong>Universal Infant Free School Meals:</strong> All children in Reception, Year 1, and Year 2 get free school meals regardless of income.</li>
+                    <li>💰 <strong>Free School Meals (FSM):</strong> Children from low-income families are entitled to free meals. Apply through your council – don't be embarrassed, it's your right!</li>
+                    <li>🥪 <strong>Packed lunches:</strong> Allowed in most schools. Many schools have rules about what can be included (often no nuts, no sweets, no fizzy drinks).</li>
+                    <li>💳 <strong>ParentPay/online systems:</strong> Many schools use cashless payment systems. You load money online and your child uses a card or fingerprint to pay.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🆓 Why Applying for Free School Meals Matters</strong>
+                    <p>Even if your child doesn't want school meals, APPLY if you're eligible! 📝 Schools receive extra funding (Pupil Premium) for every child registered for FSM. This money helps all children. It also gives access to other benefits like free trips and activities.</p>
+                </div>
+
+                <h4>📖 The Curriculum:</h4>
+                <ul>
+                    <li>📚 <strong>National Curriculum:</strong> Most state schools follow this. Core subjects are English, Maths, and Science.</li>
+                    <li>🎨 <strong>Other subjects:</strong> History, Geography, Art, Music, PE, Computing, Languages (from age 7), and more.</li>
+                    <li>🙏 <strong>Religious Education:</strong> Taught in all schools. You can withdraw your child if you wish.</li>
+                    <li>💕 <strong>PSHE/Relationships Education:</strong> Personal, Social, Health and Economic education. Includes relationships and sex education (parents can withdraw from some elements).</li>
+                    <li>📝 <strong>SATs:</strong> Standardised tests at the end of Year 2 and Year 6. Used to measure school performance and pupil progress.</li>
+                    <li>🎓 <strong>GCSEs:</strong> Exams at age 16 (Year 11). Crucial for future education and employment. Graded 9-1 (9 is highest). Grade 4 is a "standard pass", grade 5 is a "strong pass".</li>
+                </ul>
+
+                <h3>🤝 Part 4: Being an Involved Parent – Rights and Expectations</h3>
+                <p>UK schools expect parents to be involved – but in specific ways. Here's how to navigate this: 👨‍👩‍👧</p>
+
+                <h4>📞 Communication with School:</h4>
+                <ul>
+                    <li>📱 <strong>School apps:</strong> Most schools use apps (ClassDojo, Seesaw, ParentMail, etc.) for communication. Download these and check regularly!</li>
+                    <li>📧 <strong>Emails and letters:</strong> Important information comes this way. Read everything – missing a deadline can cause problems.</li>
+                    <li>📅 <strong>Parents' evenings:</strong> Usually once or twice a year. You meet your child's teachers to discuss progress. Attendance is expected.</li>
+                    <li>📊 <strong>Reports:</strong> Written reports at least once a year. These detail your child's progress and areas to improve.</li>
+                    <li>📝 <strong>Homework diary/planner:</strong> Used for communication between home and school. Check and sign it regularly.</li>
+                </ul>
+
+                <h4>✅ What Schools Expect from Parents:</h4>
+                <ul>
+                    <li>⏰ <strong>Punctuality:</strong> Get your child to school on time, every day. Persistent lateness is monitored and can result in fines.</li>
+                    <li>📅 <strong>Attendance:</strong> Aim for 100% attendance. Below 90% is considered "persistent absence" and triggers intervention.</li>
+                    <li>✈️ <strong>Term-time holidays:</strong> Not allowed without exceptional circumstances. Schools can issue fines (check current rates – typically £60-£160 per parent, per child).</li>
+                    <li>👔 <strong>Uniform and equipment:</strong> Send your child properly equipped and in correct uniform.</li>
+                    <li>📚 <strong>Support learning:</strong> Help with homework, read with younger children, attend school events.</li>
+                    <li>🤝 <strong>Respect staff:</strong> Aggressive behaviour towards staff is never acceptable and can result in you being banned from school premises.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Attendance and Fines</strong>
+                    <p>UK schools take attendance very seriously. 📊 Every absence is recorded and categorised. Unauthorised absence (including term-time holidays) can result in fixed penalty notices. Persistent non-attendance can lead to court proceedings. If your child is genuinely ill, always inform the school on the first day of absence.</p>
+                </div>
+
+                <h4>🙋 Getting Involved (Positively):</h4>
+                <ul>
+                    <li>👥 <strong>PTA/PFA:</strong> Parent Teacher Association – helps with fundraising and events. A good way to meet other parents and contribute.</li>
+                    <li>🎉 <strong>School events:</strong> Assemblies, plays, sports days, fairs. Attending shows your child you care.</li>
+                    <li>🤝 <strong>Volunteering:</strong> Many schools welcome parent helpers for reading, trips, or events. You'll need a DBS check.</li>
+                    <li>📋 <strong>Parent governors:</strong> Schools have governing bodies that include parent representatives. You can stand for election.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Cultural Tip</strong>
+                    <p>In the UK, there's a line between "involved" and "interfering." 🎭 Being supportive, attending events, and communicating appropriately is valued. Constantly complaining, questioning teachers' methods, or trying to control how the school operates is not. Trust the professionals, but speak up if something is genuinely wrong.</p>
+                </div>
+
+                <h3>📋 Part 5: Special Educational Needs and Disabilities (SEND)</h3>
+                <p>If your child has additional needs, the UK has a framework to support them: 🤝</p>
+
+                <h4>🔍 Understanding SEND:</h4>
+                <ul>
+                    <li>📚 <strong>SEN (Special Educational Needs):</strong> Children who need extra help with learning, behaviour, or physical needs.</li>
+                    <li>🏫 <strong>SEND Code of Practice:</strong> The legal framework that schools must follow.</li>
+                    <li>👩‍🏫 <strong>SENCo:</strong> Every school has a Special Educational Needs Coordinator. They're your first point of contact.</li>
+                </ul>
+
+                <h4>📊 Levels of Support:</h4>
+                <ul>
+                    <li>📗 <strong>SEN Support:</strong> The first level. School provides extra help within normal classes. No formal assessment needed.</li>
+                    <li>📋 <strong>EHC Plan (Education, Health and Care Plan):</strong> For children with more significant needs. A legal document setting out support required. You or the school can request an assessment from the council.</li>
+                    <li>🏫 <strong>Specialist schools:</strong> For children with the most complex needs. Placement usually requires an EHC Plan.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>📝 Your Rights</strong>
+                    <ul>
+                        <li>✅ You can request an EHC needs assessment from your council.</li>
+                        <li>📄 You have the right to be involved in all decisions about your child's education.</li>
+                        <li>⚖️ You can appeal to the SEND Tribunal if you disagree with decisions.</li>
+                        <li>🤝 Organisations like IPSEA and Contact can provide free advice and support.</li>
+                    </ul>
+                </div>
+
+                <h4>🆘 Getting Help:</h4>
+                <ul>
+                    <li>👩‍🏫 <strong>Talk to the school:</strong> Start with the class teacher, then the SENCo.</li>
+                    <li>🏥 <strong>GP referral:</strong> For medical assessments (e.g., ADHD, autism diagnosis).</li>
+                    <li>📍 <strong>Local offer:</strong> Every council publishes information about local SEND services on their website.</li>
+                    <li>👥 <strong>Parent carer forums:</strong> Local groups of parents with SEND children. Great for advice and support.</li>
+                </ul>
+
+                <h3>🏫 Part 6: Types of Secondary Education and Pathways</h3>
+                <p>After primary school, there are different routes: 🎓</p>
+
+                <h4>📚 Ages 11-16:</h4>
+                <ul>
+                    <li>🏫 <strong>Comprehensive schools:</strong> Non-selective state schools. Most children attend these.</li>
+                    <li>📝 <strong>Grammar schools:</strong> Selective schools based on the 11+ exam. Only in some areas (Kent, Buckinghamshire, etc.).</li>
+                    <li>💷 <strong>Independent schools:</strong> Private schools with entrance exams and fees.</li>
+                    <li>🎯 <strong>Specialist schools:</strong> Some state schools specialise in areas like sports, performing arts, or languages.</li>
+                </ul>
+
+                <h4>🎓 Ages 16-18 (Post-GCSE Options):</h4>
+                <ul>
+                    <li>📘 <strong>A-Levels:</strong> Traditional academic qualifications. Usually 3-4 subjects studied in depth. Needed for most university courses.</li>
+                    <li>📗 <strong>BTECs and vocational qualifications:</strong> More practical, work-related qualifications. Valid alternatives to A-Levels.</li>
+                    <li>🔧 <strong>T-Levels:</strong> New technical qualifications combining classroom study with industry placements.</li>
+                    <li>👷 <strong>Apprenticeships:</strong> Paid work combined with study. Leads to qualifications while earning money.</li>
+                    <li>🏫 <strong>Where to study:</strong> School sixth form, sixth form college, or further education (FE) college.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 University Isn't the Only Path</strong>
+                    <p>The UK has a strong apprenticeship and vocational training system. 🔧 High-quality apprenticeships (including degree apprenticeships) can lead to excellent careers without university debt. Don't assume university is the only "successful" route – skilled trades are in high demand!</p>
+                </div>
+
+                <h3>💰 Part 7: Financial Help and Support</h3>
+                <p>Education is free, but there are still costs. Here's how to get help: 💷</p>
+
+                <h4>🆓 Free Support Available:</h4>
+                <ul>
+                    <li>🍽️ <strong>Free School Meals:</strong> Apply through your council if on low income or certain benefits.</li>
+                    <li>🚌 <strong>Free school transport:</strong> For children living more than 2 miles (under 8) or 3 miles (over 8) from their nearest suitable school.</li>
+                    <li>👔 <strong>Uniform grants:</strong> Many councils offer help with uniform costs. Apply through your local council.</li>
+                    <li>🎨 <strong>Pupil Premium:</strong> Schools receive extra funding for disadvantaged pupils. This should support your child's education.</li>
+                    <li>📚 <strong>16-19 Bursary Fund:</strong> Financial help for students aged 16-19 in education. Apply through your school or college.</li>
+                </ul>
+
+                <h4>💳 Childcare and Before/After School:</h4>
+                <ul>
+                    <li>🏫 <strong>Breakfast clubs:</strong> Many schools offer affordable or free breakfast clubs starting from 7:30-8:00 AM.</li>
+                    <li>🌆 <strong>After-school clubs:</strong> Schools and private providers offer care until 5:30-6:00 PM.</li>
+                    <li>💰 <strong>Tax-Free Childcare:</strong> Government scheme where for every £8 you pay, the government adds £2. Use for registered childcare including some after-school clubs.</li>
+                    <li>🎁 <strong>Childcare vouchers:</strong> If you were signed up before October 2018, you may still be using these.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>📝 Don't Miss Out!</strong>
+                    <p>Many families don't claim support they're entitled to. Always check:</p>
+                    <ul>
+                        <li>🍽️ Free School Meals eligibility (even if your child takes packed lunch – schools get funding!)</li>
+                        <li>🚌 School transport entitlement</li>
+                        <li>👔 Uniform grants from your council</li>
+                        <li>💰 Tax-Free Childcare (worth up to £2,000 per child per year)</li>
+                    </ul>
+                </div>
+
+                <h3>🎯 Part 8: Navigating the School System – Practical Tips</h3>
+                <p>Here's some hard-earned wisdom for navigating UK schools: 🎓</p>
+
+                <h4>✅ Do's:</h4>
+                <ul>
+                    <li>📱 <strong>Download all the apps:</strong> Schools use multiple apps and platforms. Set them up immediately.</li>
+                    <li>📅 <strong>Use a family calendar:</strong> Track term dates, inset days, events, and deadlines. Schools give lots of notice – use it!</li>
+                    <li>👋 <strong>Introduce yourself:</strong> Get to know your child's teacher at the start of the year.</li>
+                    <li>👥 <strong>Build a network:</strong> Get to know other parents. They're your best source of information and support.</li>
+                    <li>📧 <strong>Respond promptly:</strong> When school asks for permission slips, forms, or money – do it quickly.</li>
+                    <li>📚 <strong>Read with your child:</strong> This is the single most important thing you can do for their education.</li>
+                    <li>😴 <strong>Establish routines:</strong> Regular bedtimes, morning routines, and homework times make everything easier.</li>
+                </ul>
+
+                <h4>❌ Don'ts:</h4>
+                <ul>
+                    <li>📱 <strong>Don't ignore communications:</strong> That "unimportant-looking" email might contain crucial information.</li>
+                    <li>😤 <strong>Don't confront teachers angrily:</strong> If you have concerns, request a meeting. Shouting in the playground solves nothing.</li>
+                    <li>🗣️ <strong>Don't bad-mouth the school to your child:</strong> It undermines their respect for education and makes their life harder.</li>
+                    <li>🏖️ <strong>Don't book term-time holidays:</strong> Fines are real and affect your child's education.</li>
+                    <li>🚗 <strong>Don't park dangerously at school:</strong> Nothing annoys communities more. Park and walk if necessary.</li>
+                </ul>
+
+                <h4>🆘 If Problems Arise:</h4>
+                <ul>
+                    <li>👩‍🏫 <strong>Step 1:</strong> Talk to the class teacher first. Most issues can be resolved here.</li>
+                    <li>🏫 <strong>Step 2:</strong> If unresolved, request a meeting with the head teacher or relevant senior staff.</li>
+                    <li>📝 <strong>Step 3:</strong> If still unhappy, make a formal complaint using the school's complaints procedure.</li>
+                    <li>⚖️ <strong>Step 4:</strong> Contact the governing body or, for serious issues, the local council or Ofsted.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Golden Rule of School Communication</strong>
+                    <p>Put it in writing! 📧 If something important is discussed verbally, follow up with an email summarising what was agreed. "Thank you for meeting with me today. Just to confirm, we agreed that..." This creates a record and avoids misunderstandings.</p>
+                </div>
+
+                <h3>🌍 Part 9: Supporting Your Child as a Migrant Family</h3>
+                <p>Coming from another country brings unique challenges and opportunities: 🤝</p>
+
+                <h4>🗣️ Language Support:</h4>
+                <ul>
+                    <li>📗 <strong>EAL (English as an Additional Language):</strong> Schools must support children learning English. There's often additional teaching and support available.</li>
+                    <li>🏠 <strong>Maintain home language:</strong> Bilingualism is an advantage! Continue speaking your language at home.</li>
+                    <li>📚 <strong>Reading in both languages:</strong> Read with your child in both English and your home language.</li>
+                    <li>🌐 <strong>Translation services:</strong> Schools should provide interpreters for important meetings if needed.</li>
+                </ul>
+
+                <h4>🎭 Cultural Adjustment:</h4>
+                <ul>
+                    <li>🍽️ <strong>School meals:</strong> Inform the school about dietary requirements (halal, vegetarian, allergies, etc.).</li>
+                    <li>🙏 <strong>Religious observance:</strong> Schools should accommodate religious needs. Discuss any requirements with the school.</li>
+                    <li>👔 <strong>Uniform modifications:</strong> Faith-based modifications (hijab, kippah, etc.) are usually accommodated. Check with the school.</li>
+                    <li>📅 <strong>Religious festivals:</strong> Authorised absence for important religious festivals is usually granted.</li>
+                </ul>
+
+                <h4>👨‍👩‍👧 Helping Your Child Fit In:</h4>
+                <ul>
+                    <li>🤝 <strong>Playdates:</strong> Encourage your child to invite classmates over. This builds friendships.</li>
+                    <li>⚽ <strong>Extra-curricular activities:</strong> Sports clubs, Scouts/Guides, music groups help children make friends outside school.</li>
+                    <li>🎉 <strong>Birthday parties:</strong> Parties are a big part of UK childhood. Inviting classmates (and being invited) matters to children.</li>
+                    <li>🎭 <strong>Learn the culture:</strong> Help your child understand UK culture (but don't abandon your own!).</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>The UK education system can seem complicated, but it's designed to support all children. 🏫 The key is: understand how it works, communicate with your child's school, be involved but respectful, and advocate for your child when needed. 💪 Your child's education is a partnership between home and school – when both work together, children thrive. 🌟 Good luck! 🇬🇧📚</p>
+                </div>
+            `
         }
     },
     germany: {
