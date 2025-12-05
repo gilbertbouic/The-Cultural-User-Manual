@@ -1927,6 +1927,245 @@ const culturalData = {
                     <p>Your faith is your own. It can be a source of strength, community, and meaning. 💪 Just remember that in a diverse society, the key to religious harmony is simple: mind your own business, respect others' right to mind theirs, and treat everyone with the dignity you'd want for yourself. 🌟 That's the British way! 🇬🇧</p>
                 </div>
             `
+        },
+        foodAndDrink: {
+            title: "🍽️ Module 9: Food & Drink – A Practical Guide to British Eating and Drinking Culture 🍺",
+            content: `
+                <p>Right, let's talk about something close to every Brit's heart (and stomach): food and drink! 🍽️ British cuisine might have a dodgy reputation abroad, but don't believe the hype – there's a rich culinary tradition here, and knowing how to navigate it will help you fit right in. 🇬🇧</p>
+                
+                <p>This guide will walk you through traditional British food, drinking culture, eating out, and – crucially – we'll let you in on Britain's best-kept secret for affordable eating and drinking: the mighty Wetherspoons! 🍺 Let's tuck in! 🍴</p>
+
+                <h3>🥘 Part 1: Traditional British Food – What We Actually Eat</h3>
+                <p>Forget the stereotypes. British food is hearty, comforting, and surprisingly diverse. 🍲 Here's what you need to know:</p>
+
+                <div class="important">
+                    <strong>🍳 The Full English Breakfast</strong>
+                    <p>This is the legendary "fry-up" – a cornerstone of British culture. 🥓 A proper Full English includes:</p>
+                    <ul>
+                        <li>🥓 <strong>Bacon:</strong> Back bacon (not streaky like American bacon)</li>
+                        <li>🍳 <strong>Eggs:</strong> Fried, scrambled, or poached</li>
+                        <li>🌭 <strong>Sausages:</strong> British pork sausages (called "bangers")</li>
+                        <li>🍄 <strong>Mushrooms:</strong> Fried in butter</li>
+                        <li>🫘 <strong>Baked Beans:</strong> In tomato sauce – a must!</li>
+                        <li>🍅 <strong>Grilled Tomatoes:</strong> Halved and grilled</li>
+                        <li>🍞 <strong>Toast or Fried Bread:</strong> For mopping up</li>
+                        <li>🟤 <strong>Black Pudding:</strong> A type of blood sausage (optional but traditional)</li>
+                        <li>🍟 <strong>Hash Browns:</strong> Crispy potato patties</li>
+                    </ul>
+                    <p>This is typically eaten on weekends, as a hangover cure 🍻, or as a special treat. Don't expect to eat this every day – you'd need a nap afterwards! 😴</p>
+                </div>
+
+                <h4>🍽️ Classic British Dishes You Should Know:</h4>
+                <ul>
+                    <li>🐟 <strong>Fish and Chips:</strong> Battered fish (usually cod or haddock) with thick-cut chips. Add mushy peas, curry sauce, or gravy. Eat from the paper with salt and vinegar! 🧂</li>
+                    <li>🥧 <strong>Pies:</strong> Steak and kidney, chicken and mushroom, pork pies – the British love a good pie. 🥧 Savoury, not sweet!</li>
+                    <li>🍖 <strong>Sunday Roast:</strong> The weekly family tradition – roast beef, lamb, chicken, or pork with roast potatoes, Yorkshire puddings, vegetables, and gravy. 🥔</li>
+                    <li>🍝 <strong>Shepherd's Pie / Cottage Pie:</strong> Minced meat with vegetables, topped with mashed potato and baked. 🥘</li>
+                    <li>🧅 <strong>Bangers and Mash:</strong> Sausages with creamy mashed potato and onion gravy. Simple but beautiful! 🤤</li>
+                    <li>🫕 <strong>Toad in the Hole:</strong> Sausages baked in Yorkshire pudding batter. Better than it sounds! 🐸</li>
+                    <li>🥪 <strong>Ploughman's Lunch:</strong> Cold plate of cheese, ham, bread, pickles, and salad. A pub classic. 🧀</li>
+                    <li>🍲 <strong>Lancashire Hotpot:</strong> Lamb stew with sliced potatoes on top. Northern comfort food! 🏔️</li>
+                    <li>🥟 <strong>Cornish Pasty:</strong> A pastry filled with beef, potato, swede, and onion. Perfect hand-held meal! ✋</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Regional Variations</strong>
+                    <p>British food varies by region! 🗺️ Scotland has haggis, neeps, and tatties. Wales has Welsh rarebit (posh cheese on toast) and cawl (lamb stew). Northern Ireland has the Ulster Fry. Each region is proud of its specialties – ask locals what's traditional in your area!</p>
+                </div>
+
+                <h3>☕ Part 2: Tea Culture – The National Obsession</h3>
+                <p>Tea isn't just a drink in Britain – it's a way of life, a social ritual, and the solution to every problem. 🫖</p>
+
+                <h4>🫖 The Basics of British Tea:</h4>
+                <ul>
+                    <li>☕ <strong>Builder's Tea:</strong> Strong black tea (like PG Tips or Yorkshire Tea) with milk and often sugar. This is what most people drink daily. ☕</li>
+                    <li>🫖 <strong>"Fancy a cuppa?":</strong> This is an invitation to chat. Accept it! It's a social bonding moment. 🤝</li>
+                    <li>🍵 <strong>Making tea for others:</strong> If you're making tea at work or home, always offer to make one for everyone. Not doing so is considered rude! 😬</li>
+                    <li>🥛 <strong>Milk first or last?:</strong> This is a genuine debate. Most people add milk after the tea, but some insist on milk first. Don't start arguments about it! 😅</li>
+                    <li>⏰ <strong>Tea breaks:</strong> "Elevenses" (11 AM) and afternoon tea (around 4 PM) are traditional tea times. Many workplaces have tea rounds. ☕</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Tea Etiquette</strong>
+                    <ul>
+                        <li>Never microwave water for tea – use a kettle! 🚫 Microwaved tea water is considered an abomination.</li>
+                        <li>Don't squeeze the tea bag against the side of the mug too aggressively – it makes the tea bitter. 🤮</li>
+                        <li>If someone makes you tea, always say thank you. Always. 🙏</li>
+                        <li>"Put the kettle on" is often the first thing said in any crisis. Tea solves everything! 🫖</li>
+                    </ul>
+                </div>
+
+                <h3>🍺 Part 3: Pub Culture – The Heart of British Social Life</h3>
+                <p>The pub (public house) is central to British social life. 🏚️ It's where people meet friends, watch football, celebrate, commiserate, and generally just... be. Understanding pub culture is essential! 🍻</p>
+
+                <h4>🏪 Pub Basics:</h4>
+                <ul>
+                    <li>🍺 <strong>Order at the bar:</strong> Most pubs don't have table service (though some do now). Walk to the bar, wait to be served, and take your drinks to your table. 🚶</li>
+                    <li>💳 <strong>Paying:</strong> Pay when you order, not when you leave. Card and contactless are widely accepted now. 💷</li>
+                    <li>🔄 <strong>Buying rounds:</strong> This is crucial! 🚨 If you're drinking with others, you take turns buying drinks for the whole group. This is called "getting a round in." Don't skip your turn or only buy for yourself! 🙅</li>
+                    <li>🍻 <strong>"What are you having?":</strong> This means "Can I buy you a drink?" – a friendly offer. Accept or politely decline. 🤝</li>
+                    <li>🪑 <strong>Standing at the bar:</strong> Perfectly acceptable. Many regulars prefer standing and chatting at the bar. 🧍</li>
+                </ul>
+
+                <h4>🍺 What to Drink:</h4>
+                <ul>
+                    <li>🍺 <strong>Real Ale / Cask Ale:</strong> Traditional British beer, served slightly warmer than lager. Try it! Ask the bartender for a recommendation. 🍻</li>
+                    <li>🍺 <strong>Lager:</strong> Served cold. Popular brands include Carling, Foster's, Stella Artois. 🥶</li>
+                    <li>🥃 <strong>Cider:</strong> Very popular, especially in the West Country. Strongbow, Magners, or craft ciders. 🍎</li>
+                    <li>🍷 <strong>Wine:</strong> Perfectly acceptable to order. Usually available by the glass (small, medium, large). 🍇</li>
+                    <li>🥤 <strong>Soft drinks:</strong> No shame in not drinking alcohol. J2O, Coke, or lime and soda are common choices. 🧃</li>
+                    <li>🥃 <strong>Spirits:</strong> Gin and tonic (G&T) is a classic. Whisky (no 'e' in Scottish whisky!) is also popular. 🍸</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Pub Food</strong>
+                    <p>Many pubs serve food – some are "gastropubs" with fancy menus, others serve classic pub grub like pies, fish and chips, or burgers. 🍔 Pub food is often good value and generous portions. Check if the kitchen is still open before ordering! 🍽️</p>
+                </div>
+
+                <h3>🏆 Part 4: Britain's Best-Kept Secret – Wetherspoons 🍺</h3>
+                <p>Now for the insider tip that could save you a fortune and help you experience authentic British culture: <strong>JD Wetherspoon</strong> (commonly just called "Wetherspoons" or "Spoons"). 🎯</p>
+
+                <div class="important">
+                    <strong>🏪 What is Wetherspoons?</strong>
+                    <p>Wetherspoons is a chain of over 800 pubs across the UK, found in virtually every town. 🗺️ It's beloved by students, pensioners, families, and everyone in between for one simple reason: it offers incredibly good value food and drink in a proper pub atmosphere. 💷</p>
+                    <p>Why is this a "secret"? Because many people dismiss chain pubs, but Wetherspoons has become a genuine British institution – and newcomers often don't know how affordable and accessible it is! 🤫</p>
+                </div>
+
+                <h4>💰 Why Wetherspoons is Perfect for Newcomers:</h4>
+                <ul>
+                    <li>🏷️ <strong>Affordable prices:</strong> Pints from around £2-4 (much cheaper than typical pubs), meals from £5-10. A full breakfast for under £5! 💸</li>
+                    <li>📋 <strong>Consistent menu:</strong> The same menu nationwide, so you know what to expect. Pictures of everything! 📸</li>
+                    <li>📱 <strong>Order via app:</strong> Use the Wetherspoon app to order from your table without going to the bar – perfect if you're nervous about ordering in English! 📲</li>
+                    <li>🚫 <strong>No music:</strong> Wetherspoons famously has no music, so it's easy to have conversations. 🔇</li>
+                    <li>👨‍👩‍👧 <strong>Family-friendly:</strong> Children are welcome until 9 PM in most pubs. High chairs and kids' meals available. 👶</li>
+                    <li>☕ <strong>Coffee refills:</strong> Free unlimited coffee refills with breakfast! ☕</li>
+                    <li>🌅 <strong>Open early:</strong> Many open from 8 AM for breakfast. Great for a cheap, filling start to the day! 🍳</li>
+                    <li>📍 <strong>Everywhere:</strong> There's probably one near you, wherever you are in the UK. 🗺️</li>
+                </ul>
+
+                <h4>🍽️ What to Order at Wetherspoons:</h4>
+                <ul>
+                    <li>🍳 <strong>The Big Breakfast:</strong> Full English with everything. Amazing value and absolutely massive. 🤤</li>
+                    <li>🍔 <strong>Burger and a pint:</strong> Classic pub combo at a fraction of restaurant prices. 🍺</li>
+                    <li>🐟 <strong>Fish and chips:</strong> Friday is traditionally fish and chips day – Wetherspoons does it well and cheap! 🐟</li>
+                    <li>🍖 <strong>Curry Club (Thursdays):</strong> Curry and a drink for a special price on Thursdays! 🍛</li>
+                    <li>🥩 <strong>Steak Club (Tuesdays):</strong> Steak and drink deal on Tuesdays! 🥩</li>
+                    <li>☕ <strong>Breakfast + coffee:</strong> Order breakfast and get unlimited coffee refills. Sit and read the paper like a true Brit! 📰</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Wetherspoons Pro Tips</strong>
+                    <ul>
+                        <li>📱 Download the app – order from your table without queuing at the bar!</li>
+                        <li>🕗 Go early for breakfast – it's quieter and very civilised. 🌅</li>
+                        <li>📅 Check the deals – each day has different food specials (Fish Friday, Curry Thursday, Steak Tuesday).</li>
+                        <li>🍺 Try a guest ale – Wetherspoons rotates local and craft beers at low prices.</li>
+                        <li>📚 Each pub has a booklet explaining the building's history – interesting reading! 🏛️</li>
+                        <li>🎯 "Spoons" is the cool nickname. "Shall we go to Spoons?" = "Shall we go to Wetherspoons?"</li>
+                    </ul>
+                </div>
+
+                <div class="warning">
+                    <strong>⚠️ A Word of Caution</strong>
+                    <p>Because Wetherspoons is so cheap, it can attract heavy drinkers, especially later in the evening. 🍻 It's generally fine during the day and early evening, but some locations can get rowdy late at night. Use your judgement – the breakfast and lunch crowd is lovely! 🌞</p>
+                </div>
+
+                <h3>🍴 Part 5: Eating Out – General Tips</h3>
+                <p>Whether you're at a fancy restaurant or a local café, here are the rules of the road: 🚗</p>
+
+                <h4>📋 Restaurant Etiquette:</h4>
+                <ul>
+                    <li>📅 <strong>Booking:</strong> For nicer restaurants, book ahead. For casual places, just turn up. 📞</li>
+                    <li>⏰ <strong>Punctuality:</strong> Arrive on time for reservations. Most restaurants hold tables for 15 minutes maximum. ⏱️</li>
+                    <li>💷 <strong>Tipping:</strong> 10-12.5% is standard for good service. Many restaurants add a "service charge" automatically – check your bill! 📝</li>
+                    <li>🙋 <strong>Getting attention:</strong> Make eye contact and raise your hand slightly. Never snap fingers or shout! 🙅</li>
+                    <li>💳 <strong>Splitting bills:</strong> It's normal to ask for separate bills or to split. "Can we pay separately?" is fine to ask. 💸</li>
+                </ul>
+
+                <h4>🥡 Takeaways and Delivery:</h4>
+                <ul>
+                    <li>🍕 <strong>Deliveroo, Just Eat, Uber Eats:</strong> The main delivery apps. Wide choice but delivery fees add up! 📱</li>
+                    <li>🥡 <strong>Chinese and Indian takeaways:</strong> Local independent takeaways are often better value and quality than chains. 🍜</li>
+                    <li>🍟 <strong>Fish and chip shops ("chippies"):</strong> Every town has one. Cash often preferred. Ask for "scraps" (free batter bits) if you're lucky! 🐟</li>
+                    <li>🥙 <strong>Kebab shops:</strong> The classic late-night food. A "doner" with salad and sauce in pitta bread. 🌙</li>
+                </ul>
+
+                <h4>🏪 Supermarket Meal Deals:</h4>
+                <ul>
+                    <li>🥪 <strong>The legendary meal deal:</strong> Most supermarkets (Tesco, Sainsbury's, Boots, Co-op) offer a sandwich + snack + drink for around £3-5. Essential knowledge! 🎯</li>
+                    <li>🍱 <strong>Ready meals:</strong> Supermarket ready meals are decent quality and very convenient. M&S food is considered the poshest! 🛒</li>
+                    <li>🔖 <strong>Yellow sticker bargains:</strong> Look for reduced items near closing time – fresh food discounted to clear! 💰</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Money-Saving Food Tips</strong>
+                    <ul>
+                        <li>🏪 <strong>Aldi and Lidl:</strong> German discount supermarkets with excellent prices. Don't be snobby – everyone shops there! 🛒</li>
+                        <li>📱 <strong>Too Good To Go app:</strong> Buy surplus food from restaurants and shops at big discounts. 📲</li>
+                        <li>🍽️ <strong>Lunch vs dinner:</strong> Many restaurants offer cheaper lunch menus – same food, lower prices! 🌞</li>
+                        <li>🎓 <strong>Student discounts:</strong> If you're a student, always ask. Many places offer 10-20% off. 📚</li>
+                    </ul>
+                </div>
+
+                <h3>🚫 Part 6: Food and Drink Mistakes to Avoid</h3>
+                <p>Here are some cultural faux pas to steer clear of: ❌</p>
+
+                <ul>
+                    <li>🍺 <strong>Not buying your round:</strong> If you're in a group taking turns to buy drinks, don't skip your turn. This is social suicide! ☠️</li>
+                    <li>🍵 <strong>Refusing tea:</strong> If someone offers you tea, accept if you can. Refusing can seem cold. At least say "maybe later." 🫖</li>
+                    <li>🍴 <strong>Being loud in restaurants:</strong> Keep your voice down. Loud conversations disturb other diners. 🔇</li>
+                    <li>📱 <strong>Phone calls at the table:</strong> Step away from the table to take calls. 📵</li>
+                    <li>🍽️ <strong>Not saying please and thank you:</strong> To waiters, bar staff, everyone. Every interaction needs these magic words! 🙏</li>
+                    <li>😤 <strong>Complaining loudly:</strong> If something's wrong with your food, mention it quietly and politely. Making a scene is very un-British. 🤫</li>
+                    <li>💷 <strong>Not tipping for table service:</strong> If you've had proper sit-down service, leaving no tip is noticed and not appreciated. 💸</li>
+                    <li>🥄 <strong>Starting before everyone's served:</strong> Wait until everyone has their food before you start eating. 🍴</li>
+                </ul>
+
+                <h3>🏠 Part 7: Home Entertaining</h3>
+                <p>Being invited to someone's home for food or drinks is a sign of friendship. 🏡 Here's how to be a good guest:</p>
+
+                <h4>🎁 What to Bring:</h4>
+                <ul>
+                    <li>🍷 <strong>Wine:</strong> A bottle of wine is the classic gift. Nothing too cheap, nothing too expensive (£8-15 is fine). 🍇</li>
+                    <li>🍺 <strong>Beer or cider:</strong> If you know they prefer beer, bring a nice pack of craft beers. 🍻</li>
+                    <li>🍫 <strong>Chocolates:</strong> Always appreciated. Something nicer than corner shop stuff. 🎁</li>
+                    <li>💐 <strong>Flowers:</strong> Lovely for a dinner party. Nothing too extravagant. 🌸</li>
+                    <li>🧁 <strong>Dessert:</strong> If they say "just bring yourself," a dessert or pudding is always welcome. 🍰</li>
+                </ul>
+
+                <h4>🍽️ Dinner Party Etiquette:</h4>
+                <ul>
+                    <li>⏰ <strong>Arrive on time:</strong> 5-15 minutes late is acceptable. Too early is awkward! 🕐</li>
+                    <li>🍽️ <strong>Offer to help:</strong> "Can I help with anything?" is polite. The host will usually say no, but the offer matters. 🤝</li>
+                    <li>🍴 <strong>Compliment the food:</strong> Even if it's not amazing, find something positive to say! 😊</li>
+                    <li>🧹 <strong>Offer to help clear up:</strong> At the end of the evening, offer to help with dishes. 🍽️</li>
+                    <li>🙏 <strong>Thank you message:</strong> Send a thank you text the next day. This is expected and appreciated! 📱</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🍲 Dietary Requirements</strong>
+                    <p>If you have dietary restrictions (vegetarian, vegan, halal, kosher, allergies), <strong>always tell your host in advance</strong>. 📝 Don't wait until you arrive! Most people are happy to accommodate but need time to plan. It's not rude to mention it – it's ruder to spring it on them at dinner time! 🚫</p>
+                </div>
+
+                <h3>🌍 Part 8: Embracing British Food Culture</h3>
+                <p>The best way to fit in is to embrace the food culture fully. 🤗 Here's how:</p>
+
+                <ul>
+                    <li>🥧 <strong>Try everything:</strong> Even things that sound odd (black pudding, haggis, mushy peas). You might be surprised! 🎲</li>
+                    <li>🍻 <strong>Go to the pub:</strong> Even if you don't drink alcohol, the pub is a social space. Order a lime and soda and soak up the atmosphere. 🏚️</li>
+                    <li>🫖 <strong>Learn to make tea properly:</strong> Boiling water, let it brew, milk after. Master this and you'll earn respect! ☕</li>
+                    <li>🐟 <strong>Find your local chippy:</strong> Everyone has a favourite fish and chip shop. Find yours! 🍟</li>
+                    <li>🌞 <strong>Sunday roast:</strong> Experience a proper Sunday roast – either at a pub or cook one yourself. It's a British institution! 🍖</li>
+                    <li>🏪 <strong>Visit your local Wetherspoons:</strong> Seriously – it's a great way to experience affordable British life. No shame! 🍺</li>
+                    <li>🍰 <strong>Afternoon tea:</strong> Treat yourself at least once. Scones, clotted cream, finger sandwiches, and tiny cakes. Very British! 🫖</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>British food and drink culture is about more than just eating and drinking – it's about <strong>community, ritual, and comfort</strong>. 🤝 Whether it's a cuppa with a colleague, a round at the pub with mates, or a Sunday roast with family, food brings people together. 👨‍👩‍👧‍👦</p>
+                    <p>Don't overthink it. Be willing to try new things, buy your round, say please and thank you, and remember – when in doubt, put the kettle on. 🫖 That's the British way! 🇬🇧✨</p>
+                </div>
+            `
         }
     },
     germany: {
