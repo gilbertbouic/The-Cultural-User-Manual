@@ -2058,6 +2058,265 @@ const culturalData = {
                 </div>
             `
         },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct – A Practical Guide to Getting Along and Fitting In 🤝",
+            content: `
+                <p>So, let's get into the practical stuff: how to behave in public and be a good neighbour in Germany. 🏘️ This is essential – get it wrong and you'll stand out for all the wrong reasons. Get it right, and you'll earn respect and acceptance (which is exactly the goal 🎯).</p>
+                
+                <p>This isn't about changing who you are. It's about understanding the unwritten rules that keep German society running smoothly. ⚙️ Think of it as learning the local dialect of "Ordnung" (order) and "Rücksichtnahme" (consideration). Los geht's! 💪</p>
+
+                <h3>🚨 Part 1: The Legal Essentials – What Can Actually Get You In Trouble ⚖️</h3>
+                <p>Before we get to the social stuff, here are the legal bits. Breaking these can result in fines (Bußgelder) 💸 or worse.</p>
+
+                <div class="warning">
+                    <strong>🚯 Ordnungswidrigkeiten (Administrative Offences)</strong>
+                    <ul>
+                        <li><strong>Littering (Vermüllung):</strong> Dropping litter is an offence. Fines range from €20-€100 for small items, but can reach €500+ for larger waste or illegal dumping. 🗑️</li>
+                        <li><strong>Noise Violations (Lärmbelästigung):</strong> Making excessive noise during Ruhezeiten (quiet hours) can result in fines from €50-€5,000 depending on severity. 🌙 Police can confiscate equipment.</li>
+                        <li><strong>Dog Fouling (Hundekot):</strong> Not cleaning up after your dog 🐕 can result in fines from €10-€150 depending on the municipality. Always carry bags (Hundekotbeutel).</li>
+                        <li><strong>Jaywalking (Bei Rot über die Ampel):</strong> Crossing on a red light can result in a €5-€10 fine – but more importantly, you'll be judged harshly by everyone watching, especially if children are present. 🚦</li>
+                    </ul>
+                </div>
+
+                <div class="important">
+                    <strong>⚠️ Serious Public Order Offences (Straftaten)</strong>
+                    <ul>
+                        <li><strong>Volksverhetzung (Incitement to Hatred):</strong> Hate speech against protected groups is a criminal offence. This includes racist, antisemitic, or homophobic statements. 🚫</li>
+                        <li><strong>Nazi Symbols and Gestures:</strong> Displaying swastikas, giving the Hitler salute, or using Nazi slogans is <strong>strictly illegal</strong> and can result in prison time. No exceptions, no "jokes." ⛔</li>
+                        <li><strong>Beleidigung (Insult):</strong> Publicly insulting someone, including using crude gestures (like the middle finger 🖕), can lead to fines or prosecution. Road rage gestures are taken seriously.</li>
+                        <li><strong>Public Drunkenness (Trunkenheit):</strong> While not illegal per se, causing a disturbance while drunk can lead to fines or being taken into custody. 🍻</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>📢 Freedom of Speech (Meinungsfreiheit) – And Its Limits</strong>
+                    <p>You have the right to express opinions and protest peacefully ✊ under the Grundgesetz (Basic Law). However, Germany takes hate speech and historical responsibility very seriously. 🎭 Denying the Holocaust is a crime. The line between "robust debate" and prosecutable speech is different here than in some countries – be mindful.</p>
+                </div>
+
+                <h3>🤫 Part 2: Ruhezeiten – The Sacred Quiet Hours</h3>
+                <p>This is perhaps the most important cultural concept in German neighbourhood life. Ruhezeiten (quiet hours) are taken <strong>extremely seriously</strong>. 🧐</p>
+
+                <h4>⏰ The Standard Ruhezeiten:</h4>
+                <ul>
+                    <li>🌙 <strong>Night-time (Nachtruhe):</strong> 10 PM to 6 AM (sometimes 7 AM). Complete quiet expected. No loud conversations, music, or noise.</li>
+                    <li>🌸 <strong>Mittagsruhe (Midday Rest):</strong> Often 1 PM to 3 PM. Still observed in many areas, especially rural ones. Avoid noisy activities.</li>
+                    <li>☀️ <strong>Sundays and Public Holidays (Sonn- und Feiertage):</strong> <strong>All day quiet</strong>. This is sacred. No mowing lawns 🌿, no drilling 🔨, no loud activities. Many things are literally illegal on Sundays.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Sunday Laws (Sonntagsruhe)</strong>
+                    <p>Sunday in Germany isn't just culturally quiet – it's legally enforced. 📜 You cannot mow your lawn, operate loud machinery, or do construction work on Sundays. Most shops are closed. Even car washing at home can be restricted. This applies to public holidays too. Respect this, or face fines AND angry neighbours.</p>
+                </div>
+
+                <h4>🔇 What This Means in Practice:</h4>
+                <ul>
+                    <li>🎵 <strong>Music:</strong> Keep it at apartment-friendly levels. Never play loud music during Ruhezeiten. If you want to practise instruments 🎸, discuss appropriate times with neighbours.</li>
+                    <li>🔨 <strong>DIY and Repairs:</strong> Weekday daytime only for noisy work (typically 8 AM - 1 PM, 3 PM - 8 PM). Never on Sundays. Warn neighbours in advance for major projects.</li>
+                    <li>👞 <strong>Walking Noise:</strong> In apartment buildings, avoid wearing shoes that make noise on hard floors. "Hausschuhe" (house slippers) are the norm. 🥿</li>
+                    <li>🚿 <strong>Bathroom Use:</strong> Avoid showering or using loud appliances very late at night or early morning in apartments.</li>
+                    <li>🐕 <strong>Pets:</strong> Persistent barking is a major source of complaints. You're responsible for keeping your dog quiet, especially during Ruhezeiten.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Golden Rule</strong>
+                    <p>"Nach 22 Uhr und vor 6 Uhr – Ruhe!" (After 10 PM and before 6 AM – quiet!). Germans take this seriously. Even legitimate activities like a party should be quieted down by 10 PM. Always inform neighbours if you're planning something louder. 🤫</p>
+                </div>
+
+                <h3>🏡 Part 3: Being a Good Neighbour (Nachbarschaft)</h3>
+                <p>German neighbourly relations are formal but important. You don't need to be best friends, but mutual respect is essential. 🤝</p>
+
+                <h4>👋 Greetings and Basic Interaction:</h4>
+                <ul>
+                    <li>🗣️ <strong>Greet Your Neighbours:</strong> A "Guten Tag" or "Hallo" when you see them is expected. In rural areas, greet everyone you pass. Ignoring people is rude. 👀</li>
+                    <li>🏠 <strong>Introduce Yourself:</strong> When you move in, it's good practice to introduce yourself to immediate neighbours. A brief, polite introduction goes a long way. 🙂</li>
+                    <li>🚪 <strong>Respect Privacy:</strong> Don't ask personal questions. Don't visit unannounced. Germans value their private sphere (Privatsphäre) highly.</li>
+                    <li>📦 <strong>Parcels:</strong> Accepting parcels for neighbours is common and appreciated. Return the favour when you can. 📬</li>
+                </ul>
+
+                <h4>🏢 Apartment Living (Mehrfamilienhaus):</h4>
+                <ul>
+                    <li>🧹 <strong>Kehrwoche (Cleaning Duty):</strong> In many buildings, residents take turns cleaning common areas (stairwell, pavement). Check if your building has a Kehrwoche schedule and follow it strictly. 🗓️</li>
+                    <li>🗑️ <strong>Mülltrennung (Waste Separation):</strong> Follow the recycling rules exactly. Neighbours will notice if you put the wrong items in the wrong bin. It reflects on you. ♻️</li>
+                    <li>🚗 <strong>Parking:</strong> Only use your designated parking spot. Never block entrances or driveways. Visitor parking rules vary – check your building. 🅿️</li>
+                    <li>🚪 <strong>Common Areas:</strong> Don't leave personal items in hallways (fire safety). Keep the entrance tidy. Close doors quietly.</li>
+                    <li>🌿 <strong>Balconies:</strong> Be mindful of neighbours below when watering plants. Don't shake out rugs or dust blankets over the railing. Grilling may be restricted – check house rules.</li>
+                </ul>
+
+                <h4>🏠 House and Garden:</h4>
+                <ul>
+                    <li>🌳 <strong>Garden Maintenance:</strong> Keep your garden tidy. Overgrown hedges, especially if they grow onto neighbours' property, cause disputes. Know your boundary lines.</li>
+                    <li>🍂 <strong>Leaves and Snow:</strong> You're responsible for clearing leaves and snow from the pavement in front of your property. This is often a legal requirement. ❄️</li>
+                    <li>🔥 <strong>Grilling (Grillen):</strong> Check local rules. Some areas restrict how often you can grill or require you to inform neighbours. Charcoal smoke drifting into a neighbour's window causes conflict. 🍖</li>
+                </ul>
+
+                <h4>📢 Communication with Neighbours:</h4>
+                <ul>
+                    <li>🎉 <strong>Parties:</strong> Inform neighbours in advance if you're having a gathering. A note in the letterbox is appropriate: "Wir feiern am Samstag..." ("We're celebrating on Saturday..."). Promise to keep it down after 10 PM. ✉️</li>
+                    <li>🔧 <strong>Problems:</strong> If something bothers you, speak to your neighbour directly and politely first. Going straight to the Hausverwaltung (building management) or police without trying to resolve it is seen as aggressive. 💬</li>
+                    <li>⚖️ <strong>Disputes:</strong> If direct communication fails, many areas have Schiedsstellen (mediation offices) for neighbour disputes. Use them before things escalate legally. 🤝</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🏠 The "Hausordnung" (House Rules)</strong>
+                    <p>Most apartment buildings have a Hausordnung – a set of rules covering Ruhezeiten, cleaning duties, rubbish, pets, and common areas. Read it carefully when you move in and follow it! 📋 Violations can lead to warnings from the landlord or even termination of your lease.</p>
+                </div>
+
+                <h3>🚇 Part 4: Public Transport and Shared Spaces – Getting It Right</h3>
+                <p>Germans have clear expectations about behaviour in public spaces. Follow these, and you'll blend in perfectly. 🚶</p>
+
+                <h4>🎫 Public Transport (Öffentliche Verkehrsmittel):</h4>
+                <ul>
+                    <li>🎟️ <strong>Always Have a Valid Ticket:</strong> "Schwarzfahren" (fare dodging) is taken seriously. Fines are €60 or more, and repeat offenders can face criminal prosecution. Buy your ticket and validate it! ✅</li>
+                    <li>🚪 <strong>Let People Off First:</strong> Wait at the side of the door. Let passengers exit before you board. This is universal German public transport etiquette. 🚌</li>
+                    <li>👴 <strong>Priority Seating:</strong> Give up your seat for elderly, pregnant, or disabled passengers. Look for the designated seats, but offer your seat regardless. It's expected.</li>
+                    <li>🔇 <strong>Keep Quiet:</strong> Speak quietly. Phone calls should be brief or avoided entirely. Nobody wants to hear your conversation. 📵</li>
+                    <li>🎧 <strong>Headphones Only:</strong> Never play music or videos out loud. Use headphones. Audio leakage is annoying – keep volume reasonable. 🎶</li>
+                    <li>🍔 <strong>No Eating (Sometimes):</strong> Many cities prohibit eating on public transport. Even where allowed, avoid smelly foods. Drinks are usually okay (but not alcohol on some systems).</li>
+                    <li>💼 <strong>Bags Off Seats:</strong> Don't take up extra seats with your bags when others are standing. Be mindful of space.</li>
+                </ul>
+
+                <h4>⬆️ Escalators and Stairs:</h4>
+                <ul>
+                    <li>➡️ <strong>Stand Right, Walk Left:</strong> If you're standing still, stand on the right side of the escalator. The left side is for people walking up or down.</li>
+                    <li>🚶 <strong>Keep Moving on Stairs:</strong> Don't stop suddenly. If you need to pause, move to the side.</li>
+                </ul>
+
+                <h4>🚶 Pavements and Pedestrian Areas:</h4>
+                <ul>
+                    <li>🚴 <strong>Watch for Cyclists:</strong> Germany has extensive cycling infrastructure. Don't walk in the bike lane (Radweg) – cyclists will let you know, loudly. 🔔</li>
+                    <li>👣 <strong>Keep Right:</strong> Generally, walk on the right side of the pavement. Don't block the way for others.</li>
+                    <li>📱 <strong>No Phone Zombies:</strong> Walking slowly while staring at your phone, blocking the pavement, is frustrating for everyone behind you. Step aside.</li>
+                    <li>🚦 <strong>Respect Traffic Lights:</strong> Even when the street is empty, wait for the green pedestrian light. This is especially important when children might be watching and learning. 🚸</li>
+                </ul>
+
+                <h4>🚪 Doors and Personal Space:</h4>
+                <ul>
+                    <li>🙌 <strong>Hold Doors:</strong> If someone is right behind you, hold the door. A quick "Bitte" (you're welcome) or "Danke" (thank you) exchange is normal.</li>
+                    <li>📏 <strong>Maintain Distance:</strong> In queues, leave a reasonable gap. Standing too close makes people uncomfortable. 🧍</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Queuing Rule</strong>
+                    <p>Germans form orderly queues at bakeries 🥨, banks, and anywhere with a ticket system (Nummernziehsystem). Take a number if available. Wait your turn. Attempting to skip ahead will be called out immediately and publicly. 😤</p>
+                </div>
+
+                <h3>🛒 Part 5: Shops, Restaurants, and Public Services</h3>
+
+                <h4>🏪 Shopping (Einkaufen):</h4>
+                <ul>
+                    <li>👋 <strong>Greet Staff:</strong> A "Guten Tag" when entering a small shop and "Auf Wiedersehen" or "Tschüss" when leaving is expected. 👋</li>
+                    <li>🛒 <strong>Bring Your Own Bags:</strong> Plastic bags cost money. Bring reusable bags (Stoffbeutel). This is standard practice. 🛍️</li>
+                    <li>💶 <strong>Cash is Still King:</strong> Many smaller shops and restaurants don't accept cards, or only accept EC cards (not credit cards). Always carry some cash. 💵</li>
+                    <li>⏰ <strong>Shopping Hours:</strong> Most shops close by 8 PM on weekdays and 4 PM on Saturdays. Sundays, almost everything is closed. Plan ahead! 🗓️</li>
+                    <li>🧾 <strong>Bon Pflicht:</strong> Shops must give you a receipt. You don't have to take it, but it's offered.</li>
+                    <li>⚖️ <strong>Prices Include Tax:</strong> The price on the tag is what you pay. No surprises at the checkout.</li>
+                </ul>
+
+                <h4>🍽️ Restaurants and Cafés (Gaststätten):</h4>
+                <ul>
+                    <li>🪑 <strong>Seating:</strong> In traditional Gasthöfe, you may share tables with strangers if the place is busy. Ask "Ist hier noch frei?" ("Is this seat free?"). It's normal and not intrusive.</li>
+                    <li>🍻 <strong>Ordering:</strong> Make eye contact with the server or raise your hand slightly. Don't snap fingers or shout. Patience is valued. 🙋</li>
+                    <li>💳 <strong>Paying:</strong> Usually pay at the table. Say "Zahlen, bitte" ("I'd like to pay, please"). The server brings a handheld device or calculates it there.</li>
+                    <li>💰 <strong>Tipping (Trinkgeld):</strong> Round up or add 5-10%. For good service at a restaurant, 10% is generous. Say the total you want to pay when handing over cash (e.g., "Mach zwanzig" – "Make it twenty"). 👍</li>
+                    <li>💧 <strong>Water:</strong> Tap water isn't automatically free. If you want water, order "Leitungswasser" (tap water) or buy bottled water. Most order bottled (still or sparkling: "still" or "mit Kohlensäure").</li>
+                </ul>
+
+                <h4>🍺 Traditional Pubs and Beer Gardens (Gasthäuser und Biergärten):</h4>
+                <ul>
+                    <li>🥨 <strong>Bring Your Own Food (Biergarten):</strong> In traditional Bavarian beer gardens, you can bring your own food to the tables without tablecloths. Only drinks must be purchased. 🧺</li>
+                    <li>🍻 <strong>Prost!:</strong> When toasting, make eye contact with each person and clink glasses. It's considered bad luck (and rude) not to make eye contact. 👀</li>
+                    <li>🪑 <strong>Stammtisch:</strong> Some tables are reserved for regulars (Stammtisch). Look for signs or ask before sitting. 🪧</li>
+                </ul>
+
+                <h4>🏥 Public Services (Behörden):</h4>
+                <ul>
+                    <li>📅 <strong>Appointments (Termine):</strong> Many offices require appointments. The word is "Termin." Book online or by phone. Walking in without one often means being turned away.</li>
+                    <li>📄 <strong>Bring Documents:</strong> Germans love paperwork. Bring originals AND copies of everything you might need. ID, proof of address, forms filled out in advance. 📋</li>
+                    <li>⏰ <strong>Be Punctual:</strong> Arriving late for an appointment may mean you lose it and have to rebook – sometimes weeks later. ⏳</li>
+                    <li>🗣️ <strong>Language:</strong> Many offices don't provide English service. Learn key phrases or bring someone who speaks German.</li>
+                    <li>😌 <strong>Be Patient:</strong> Bureaucracy (Bürokratie) moves slowly. Don't show frustration – it won't help. Polite persistence gets results. 🤝</li>
+                </ul>
+
+                <h3>🌍 Part 6: Community Integration – Becoming Part of the Community</h3>
+                <p>Being part of a German community isn't just about not annoying people. It's about actively participating. 🤗</p>
+
+                <h4>🎉 Vereine – The Heart of German Social Life:</h4>
+                <ul>
+                    <li>🏆 <strong>Join a Club:</strong> Germany has clubs (Vereine) for everything: sports ⚽, music 🎵, gardening 🌻, shooting 🎯, volunteer fire brigade 🚒, carnival 🎭. This is THE way to integrate and meet people.</li>
+                    <li>🤝 <strong>Active Participation:</strong> Don't just pay membership – show up regularly. Volunteer for events. Germans notice and appreciate consistent involvement.</li>
+                    <li>🏅 <strong>It Takes Time:</strong> Acceptance in a Verein takes time. Keep showing up, be reliable, and gradually you'll become "einer von uns" (one of us).</li>
+                </ul>
+
+                <h4>🏘️ Local Events and Traditions:</h4>
+                <ul>
+                    <li>🎪 <strong>Dorffeste and Stadtfeste:</strong> Local festivals are important community events. Attend them! It shows you're interested in local life. 🎉</li>
+                    <li>🎄 <strong>Seasonal Traditions:</strong> Christmas markets (Weihnachtsmärkte) 🎅, carnival (Karneval/Fasching) 🎭, Oktoberfest 🍺, Easter fires (Osterfeuer) 🔥 – participate where you can.</li>
+                    <li>⛪ <strong>Church and Community Events:</strong> Even if you're not religious, church-affiliated events (bazaars, concerts) are often community gatherings worth attending. ⛪</li>
+                </ul>
+
+                <h4>🙋 Volunteering (Ehrenamt):</h4>
+                <ul>
+                    <li>💪 <strong>Highly Valued:</strong> Volunteering is deeply respected in Germany. It shows you want to contribute, not just take.</li>
+                    <li>🚒 <strong>Freiwillige Feuerwehr:</strong> The volunteer fire brigade is a major social institution in rural areas. Joining (if you're fit and willing) is one of the best integration moves you can make.</li>
+                    <li>🤲 <strong>Other Options:</strong> Refugee aid, environmental groups, elderly care, youth sports coaching – there are many ways to give back.</li>
+                </ul>
+
+                <h4>👨‍👩‍👧 School and Family:</h4>
+                <ul>
+                    <li>🏫 <strong>School Events:</strong> If you have children, get involved with the school. Attend parent evenings (Elternabende), school festivals, and volunteer when possible. 🧒</li>
+                    <li>👨‍👩‍👧 <strong>Other Parents:</strong> The school community is a natural way to meet other families. Be open and friendly.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Integration Takes Time</strong>
+                    <p>Germans are often described as "hard to befriend but friends for life." 🤝 Initial reserve is normal – it's not rejection. Consistent presence, reliability, and genuine interest in the community will gradually earn trust and real friendships. Don't give up! 🌟</p>
+                </div>
+
+                <h3>♻️ Part 7: Environmental Responsibility – Mülltrennung and More</h3>
+                <p>Germans take environmental responsibility very seriously. 🌱 It's not optional – it's expected.</p>
+
+                <h4>🗑️ Mülltrennung (Waste Separation):</h4>
+                <ul>
+                    <li>⚫ <strong>Restmüll (Black/Grey Bin):</strong> General waste that can't be recycled. 🗑️</li>
+                    <li>🟡 <strong>Gelber Sack/Gelbe Tonne (Yellow Bag/Bin):</strong> Packaging with the "Grüner Punkt" – plastics, tetrapaks, metal cans. 📦</li>
+                    <li>🔵 <strong>Papier (Blue Bin):</strong> Paper and cardboard. 📰</li>
+                    <li>🟤 <strong>Biomüll (Brown/Green Bin):</strong> Organic waste – food scraps, garden waste. 🥕</li>
+                    <li>🍾 <strong>Glass (Altglascontainer):</strong> Sorted by colour (white, green, brown) at local collection points. Don't throw glass during Ruhezeiten! 🔇</li>
+                    <li>🔋 <strong>Sondermüll:</strong> Batteries, electronics, and hazardous waste go to special collection points (Wertstoffhof). Never in regular bins. ⚠️</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Pfand (Deposit System)</strong>
+                    <p>Most bottles and cans have a deposit (Pfand) – usually €0.25. Return them to machines in supermarkets to get your deposit back. 🛒 This includes plastic bottles, glass bottles (some), and cans. Look for the Pfand symbol. Don't throw them in regular recycling!</p>
+                </div>
+
+                <h4>🌳 Other Environmental Expectations:</h4>
+                <ul>
+                    <li>💧 <strong>Water Conservation:</strong> Don't waste water. This includes not leaving taps running unnecessarily. 🚿</li>
+                    <li>💡 <strong>Energy:</strong> Turn off lights, don't heat unnecessarily, be mindful of energy use. It's both environmentally and economically sensible. 🔌</li>
+                    <li>🛒 <strong>Reusable Bags:</strong> Bring your own bags shopping. Single-use plastic bags are discouraged and cost money. 🛍️</li>
+                    <li>🐕 <strong>Dog Walking:</strong> Always clean up after your dog. Carry Hundekotbeutel (poop bags). Use designated bins. 🗑️</li>
+                    <li>🌲 <strong>Nature (Naturschutz):</strong> Respect nature. Stay on paths in protected areas. Don't pick protected plants. Keep dogs on leads in forests during breeding seasons. 🦌</li>
+                </ul>
+
+                <h3>🚗 Part 8: Driving and the Road</h3>
+                <p>If you drive in Germany, there are specific expectations beyond just following traffic rules. 🚗</p>
+
+                <ul>
+                    <li>🛣️ <strong>Autobahn Etiquette:</strong> Keep right except when overtaking. The left lane is for passing only. Driving slowly in the left lane will earn you aggressive flashing lights. 💡</li>
+                    <li>🚔 <strong>Speed Limits:</strong> Follow them precisely. Speed cameras (Blitzer) are everywhere, and fines are swift. In towns, it's usually 50 km/h unless marked otherwise. 📸</li>
+                    <li>🖕 <strong>No Gestures:</strong> Road rage gestures (middle finger, tapping your forehead "Vogel zeigen") are prosecutable offences. Keep calm. 😤➡️😌</li>
+                    <li>🚗 <strong>Right of Way:</strong> "Rechts vor Links" – vehicles from the right have priority at unmarked intersections. This catches many newcomers out.</li>
+                    <li>❄️ <strong>Winter Tyres:</strong> Required by law when conditions demand it (roughly November-March). "Von O bis O" – October to Easter.</li>
+                    <li>🚗 <strong>TÜV:</strong> Your car must pass regular inspections (TÜV). Don't let it expire – the sticker on your license plate shows when it's due.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Public and community conduct in Germany can be summed up in three words: <strong>Ordnung, Ruhe, Rücksicht</strong> (Order, Quiet, Consideration). 🤫📋🤝 Respect the rules, respect quiet hours, and be considerate of others. Follow the recycling rules, be punctual, and participate in community life. Do these things consistently, and you won't just fit in – you'll be respected. That's the real goal. ✅🇩🇪</p>
+                </div>
+            `
+        },
         social: {
             title: "Social Ethics in Germany",
             content: `
