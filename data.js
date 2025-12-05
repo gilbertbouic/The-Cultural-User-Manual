@@ -1959,7 +1959,7 @@ const culturalData = {
                     <ul>
                         <li>You must have clear consent. 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
                         <li>"Nein" means "Nein." 🛑 It is the end of the conversation. Continuing to pressure someone after a "no" is harassment (Belästigung).</li>
-                        <li>Germany's sexual criminal law was reformed in 2016 with the principle of "Nein heißt Nein" (No means No). Non-consensual sexual acts are prosecutable.</li>
+                        <li>Germany's sexual criminal law (StGB §177) was reformed in 2016 with the principle of "Nein heißt Nein" (No means No). Non-consensual sexual acts are prosecutable.</li>
                     </ul>
                 </div>
 
