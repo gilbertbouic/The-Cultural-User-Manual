@@ -6,6 +6,8 @@ let video = null;
 let isTracking = false;
 let lastHandDistance = 0;
 let starScaleFactor = 1;
+let lastCircleScale = 1;
+let lastRotationAngle = 0;
 
 // Initialize hand tracking
 async function initHandTracking() {
@@ -79,12 +81,41 @@ async function detectHands() {
             // Smooth the transition
             lastHandDistance = lastHandDistance * 0.8 + starScaleFactor * 0.2;
             
-            // Update star scales
-            updateStarScales(lastHandDistance);
+            // Calculate pinch distance for circle expansion/reduction
+            // Distance between thumb tip (4) and index finger tip (8)
+            const thumbTip = landmarks[4];
+            const indexTip = landmarks[8];
+            
+            const pinchDistance = Math.sqrt(
+                Math.pow(indexTip[0] - thumbTip[0], 2) +
+                Math.pow(indexTip[1] - thumbTip[1], 2)
+            );
+            
+            // Normalize pinch distance to circle scale (0.5 to 2.0)
+            const minPinch = 20;
+            const maxPinch = 150;
+            const normalizedPinch = Math.max(minPinch, Math.min(maxPinch, pinchDistance));
+            const circleScale = 0.5 + ((normalizedPinch - minPinch) / (maxPinch - minPinch)) * 1.5;
+            
+            // Smooth the circle scale transition
+            lastCircleScale = lastCircleScale * 0.8 + circleScale * 0.2;
+            
+            // Calculate rotation angle based on hand orientation
+            // Use angle between wrist and middle finger tip
+            const angle = Math.atan2(middleTip[1] - wrist[1], middleTip[0] - wrist[0]);
+            const rotationDegrees = (angle * 180 / Math.PI) - 90; // Offset to make vertical hand = 0 degrees
+            
+            // Smooth the rotation transition
+            lastRotationAngle = lastRotationAngle * 0.8 + rotationDegrees * 0.2;
+            
+            // Update star scales, circle size, and rotation
+            updateStarTransforms(lastHandDistance, lastCircleScale, lastRotationAngle);
         } else {
             // Gradually return to normal size when no hand detected
             lastHandDistance = lastHandDistance * 0.95 + 1.0 * 0.05;
-            updateStarScales(lastHandDistance);
+            lastCircleScale = lastCircleScale * 0.95 + 1.0 * 0.05;
+            lastRotationAngle = lastRotationAngle * 0.95;
+            updateStarTransforms(lastHandDistance, lastCircleScale, lastRotationAngle);
         }
     } catch (error) {
         console.error('Hand detection error:', error);
@@ -94,9 +125,11 @@ async function detectHands() {
     requestAnimationFrame(detectHands);
 }
 
-// Update the scale of all stars using CSS custom property
-function updateStarScales(scale) {
+// Update the scale and rotation of all stars using CSS custom properties
+function updateStarTransforms(scale, circleScale, rotation) {
     document.documentElement.style.setProperty('--star-scale', scale);
+    document.documentElement.style.setProperty('--circle-scale', circleScale);
+    document.documentElement.style.setProperty('--circle-rotation', `${rotation}deg`);
 }
 
 // Toggle hand tracking on/off
@@ -119,7 +152,7 @@ function stopHandTracking() {
     }
     
     // Reset star scales
-    updateStarScales(1);
+    updateStarTransforms(1, 1, 0);
     
     console.log('Hand tracking stopped');
 }
