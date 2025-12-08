@@ -1,4 +1,8 @@
 /* Base Styles */
+:root {
+    --star-scale: 1; /* Default scale for hand-tracked stars */
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -12,14 +16,46 @@ body {
     color: #333;
 }
 
-/* White background for country selection section */
+/* EU Flag background for country selection section */
 body.country-selection-active {
-    background: #ffffff;
+    background-color: #003399;
+    background-image: 
+        /* Circle of 12 stars - positioned in a circle, made larger and more visible */
+        radial-gradient(circle at 50% 30%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Top star (12 o'clock) */
+        radial-gradient(circle at 57.32% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 1 o'clock */
+        radial-gradient(circle at 62.99% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 2 o'clock */
+        radial-gradient(circle at 65.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 3 o'clock */
+        radial-gradient(circle at 62.99% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 4 o'clock */
+        radial-gradient(circle at 57.32% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 5 o'clock */
+        radial-gradient(circle at 50% 61%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Bottom star (6 o'clock) */
+        radial-gradient(circle at 42.68% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 7 o'clock */
+        radial-gradient(circle at 37.01% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 8 o'clock */
+        radial-gradient(circle at 34.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 9 o'clock */
+        radial-gradient(circle at 37.01% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 10 o'clock */
+        radial-gradient(circle at 42.68% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px);  /* 11 o'clock */
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
-/* Intro page background */
+/* EU Flag background for intro page */
 body.intro-active {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-color: #003399;
+    background-image: 
+        /* Circle of 12 stars - positioned in a circle, made larger and more visible */
+        radial-gradient(circle at 50% 30%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Top star (12 o'clock) */
+        radial-gradient(circle at 57.32% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 1 o'clock */
+        radial-gradient(circle at 62.99% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 2 o'clock */
+        radial-gradient(circle at 65.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 3 o'clock */
+        radial-gradient(circle at 62.99% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 4 o'clock */
+        radial-gradient(circle at 57.32% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 5 o'clock */
+        radial-gradient(circle at 50% 61%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Bottom star (6 o'clock) */
+        radial-gradient(circle at 42.68% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 7 o'clock */
+        radial-gradient(circle at 37.01% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 8 o'clock */
+        radial-gradient(circle at 34.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 9 o'clock */
+        radial-gradient(circle at 37.01% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 10 o'clock */
+        radial-gradient(circle at 42.68% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px);  /* 11 o'clock */
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
 /* Header Styles */
@@ -49,11 +85,69 @@ main {
 }
 
 /* Selection Sections */
+/* Selection Sections */
 .selection-section {
     background: rgba(255, 255, 255, 0.95);
     border-radius: 20px;
     padding: 2rem;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+/* EU star clusters in top corners of main selection sections only */
+.selection-section::before {
+    content: '⭐⭐⭐';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale)) rotate(-15deg);
+    transition: transform 0.3s ease;
+    animation: twinkle 2s ease-in-out infinite;
+    line-height: 1;
+}
+
+.selection-section::after {
+    content: '⭐⭐⭐';
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale)) rotate(15deg);
+    transition: transform 0.3s ease;
+    animation: twinkle 2.3s ease-in-out infinite;
+    line-height: 1;
+}
+
+/* Bottom corner star clusters added via JavaScript */
+.star-cluster-bottom-left,
+.star-cluster-bottom-right {
+    position: absolute;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
+    line-height: 1;
+    pointer-events: none;
+}
+
+.star-cluster-bottom-left {
+    bottom: -10px;
+    left: -10px;
+    transform: scale(var(--star-scale)) rotate(15deg);
+    animation: twinkle 2.6s ease-in-out infinite;
+}
+
+.star-cluster-bottom-right {
+    bottom: -10px;
+    right: -10px;
+    transform: scale(var(--star-scale)) rotate(-15deg);
+    animation: twinkle 2.9s ease-in-out infinite;
 }
 
 .selection-section h2 {
@@ -84,6 +178,7 @@ main {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1), -5px -5px 15px rgba(255, 255, 255, 0.8);
     cursor: pointer;
     transition: all 0.3s ease;
+    position: relative;
 }
 
 .country-btn:hover {
@@ -321,6 +416,7 @@ footer {
     padding: 1.5rem;
     background: linear-gradient(135deg, #f8f9ff, #e8ecff);
     border-radius: 12px;
+    position: relative;
 }
 
 .intro-description p {
@@ -363,6 +459,7 @@ footer {
     text-align: center;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.08), -3px -3px 10px rgba(255, 255, 255, 0.9);
     transition: transform 0.3s ease;
+    position: relative;
 }
 
 .cultural-group:hover {
@@ -393,6 +490,7 @@ footer {
     padding: 1.5rem;
     background: linear-gradient(135deg, #e8f4e8, #d4edda);
     border-radius: 12px;
+    position: relative;
 }
 
 .intro-principles h3 {
@@ -725,4 +823,14 @@ body.country-baltics footer {
     background: rgba(0, 0, 0, 0.3);
     color: white;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Twinkle animation for EU star clusters - uses opacity only to preserve hand-tracking scale */
+@keyframes twinkle {
+    0%, 100% {
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 1;
+    }
 }
