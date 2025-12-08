@@ -1,4 +1,8 @@
 /* Base Styles */
+:root {
+    --star-scale: 1; /* Default scale for hand-tracked stars */
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -128,6 +132,8 @@ main {
     font-size: 0.8rem;
     opacity: 0.7;
     animation: twinkle 2s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .country-btn::after {
@@ -138,6 +144,8 @@ main {
     font-size: 0.6rem;
     opacity: 0.6;
     animation: twinkle 2.5s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .country-btn:hover {
@@ -387,6 +395,8 @@ footer {
     font-size: 0.9rem;
     opacity: 0.7;
     animation: twinkle 2.3s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .intro-description::after {
@@ -397,6 +407,8 @@ footer {
     font-size: 0.7rem;
     opacity: 0.6;
     animation: twinkle 2.7s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .intro-description p {
@@ -451,6 +463,8 @@ footer {
     font-size: 0.7rem;
     opacity: 0.6;
     animation: twinkle 2.2s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .cultural-group::after {
@@ -461,6 +475,8 @@ footer {
     font-size: 0.5rem;
     opacity: 0.5;
     animation: twinkle 2.8s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .cultural-group:hover {
@@ -503,6 +519,8 @@ footer {
     font-size: 0.8rem;
     opacity: 0.7;
     animation: twinkle 2.4s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .intro-principles::after {
@@ -513,6 +531,8 @@ footer {
     font-size: 0.6rem;
     opacity: 0.6;
     animation: twinkle 2.9s ease-in-out infinite;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
 }
 
 .intro-principles h3 {
