@@ -354,12 +354,22 @@ class EtiquetteScoreboard {
     }
 
     loadScores() {
-        const saved = localStorage.getItem('culturalScores');
-        return saved ? JSON.parse(saved) : {
-            quizzes: {},
-            scenarios: {},
-            overall: 0
-        };
+        try {
+            const saved = localStorage.getItem('culturalScores');
+            return saved ? JSON.parse(saved) : {
+                quizzes: {},
+                scenarios: {},
+                overall: 0
+            };
+        } catch (error) {
+            console.warn('Failed to load scores from localStorage:', error);
+            // Return default structure if parsing fails
+            return {
+                quizzes: {},
+                scenarios: {},
+                overall: 0
+            };
+        }
     }
 
     saveScores() {
@@ -437,8 +447,17 @@ class EtiquetteScoreboard {
                     ` : '<p class="no-scores">No scenarios completed yet!</p>'}
                 </div>
             </div>
-            <button class="reset-scores-btn" onclick="scoreboard.reset()">Reset All Scores</button>
+            <button class="reset-scores-btn" id="reset-scores-btn">Reset All Scores</button>
         `;
+        
+        // Attach event listener after rendering
+        setTimeout(() => {
+            const resetBtn = container.querySelector('#reset-scores-btn');
+            if (resetBtn) {
+                resetBtn.onclick = () => this.reset();
+            }
+        }, 0);
+        
         return container;
     }
 

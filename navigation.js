@@ -87,16 +87,7 @@ function showScenarioContext(contextType) {
                     <div class="situation-card">
                         <h5>📍 ${situation.scenario}</h5>
                         ${situation.dosAndDonts ? `
-                            <div id="dos-donts-${contextType}-${key}-${idx}"></div>
-                            <script>
-                                (function() {
-                                    const card = new DosAndDontsCard(${JSON.stringify(situation.dosAndDonts)});
-                                    const container = document.getElementById('dos-donts-${contextType}-${key}-${idx}');
-                                    if (container) {
-                                        container.appendChild(card.render());
-                                    }
-                                })();
-                            </script>
+                            <div class="dos-donts-container" id="dos-donts-${contextType}-${key}-${idx}"></div>
                         ` : ''}
                         ${situation.culturalNuances ? `
                             <div class="cultural-nuances">
@@ -120,6 +111,20 @@ function showScenarioContext(contextType) {
     `;
     
     scenarioContent.innerHTML = html;
+    
+    // Create DosAndDontsCard components after DOM insertion (avoiding script injection)
+    for (const [key, situationGroup] of Object.entries(context.contexts)) {
+        situationGroup.situations.forEach((situation, idx) => {
+            if (situation.dosAndDonts) {
+                const containerId = `dos-donts-${contextType}-${key}-${idx}`;
+                const container = document.getElementById(containerId);
+                if (container) {
+                    const card = new DosAndDontsCard(situation.dosAndDonts);
+                    container.appendChild(card.render());
+                }
+            }
+        });
+    }
 }
 
 // Quiz initialization
@@ -154,7 +159,7 @@ function renderRoleSelection() {
     for (const [key, profile] of Object.entries(roleProfiles)) {
         const roleCard = document.createElement('div');
         roleCard.className = 'role-card';
-        roleCard.onclick = () => selectRole(key);
+        roleCard.onclick = (event) => selectRole(key, event);
         roleCard.innerHTML = `
             <div class="role-icon">${profile.icon}</div>
             <div class="role-title">${profile.title}</div>
@@ -164,14 +169,16 @@ function renderRoleSelection() {
 }
 
 // Role selection handler
-function selectRole(roleKey) {
+function selectRole(roleKey, event) {
     localStorage.setItem('selectedRole', roleKey);
     
     // Update UI to show selection
     document.querySelectorAll('.role-card').forEach(card => {
         card.classList.remove('selected');
     });
-    event.currentTarget.classList.add('selected');
+    if (event && event.currentTarget) {
+        event.currentTarget.classList.add('selected');
+    }
     
     // Show confirmation and redirect
     setTimeout(() => {
