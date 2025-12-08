@@ -85,11 +85,69 @@ main {
 }
 
 /* Selection Sections */
+/* Selection Sections */
 .selection-section {
     background: rgba(255, 255, 255, 0.95);
     border-radius: 20px;
     padding: 2rem;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+/* EU star clusters in top corners of main selection sections only */
+.selection-section::before {
+    content: '⭐⭐⭐';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale)) rotate(-15deg);
+    transition: transform 0.3s ease;
+    animation: twinkle 2s ease-in-out infinite;
+    line-height: 1;
+}
+
+.selection-section::after {
+    content: '⭐⭐⭐';
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale)) rotate(15deg);
+    transition: transform 0.3s ease;
+    animation: twinkle 2.3s ease-in-out infinite;
+    line-height: 1;
+}
+
+/* Bottom corner star clusters added via JavaScript */
+.star-cluster-bottom-left,
+.star-cluster-bottom-right {
+    position: absolute;
+    font-size: 0.7rem;
+    opacity: 0.8;
+    letter-spacing: 2px;
+    transform: scale(var(--star-scale));
+    transition: transform 0.3s ease;
+    line-height: 1;
+    pointer-events: none;
+}
+
+.star-cluster-bottom-left {
+    bottom: -10px;
+    left: -10px;
+    transform: scale(var(--star-scale)) rotate(15deg);
+    animation: twinkle 2.6s ease-in-out infinite;
+}
+
+.star-cluster-bottom-right {
+    bottom: -10px;
+    right: -10px;
+    transform: scale(var(--star-scale)) rotate(-15deg);
+    animation: twinkle 2.9s ease-in-out infinite;
 }
 
 .selection-section h2 {
@@ -121,31 +179,6 @@ main {
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
-}
-
-/* EU star clusters around country buttons */
-.country-btn::before {
-    content: '⭐';
-    position: absolute;
-    top: -8px;
-    right: -8px;
-    font-size: 0.8rem;
-    opacity: 0.7;
-    animation: twinkle 2s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
-.country-btn::after {
-    content: '⭐';
-    position: absolute;
-    bottom: -8px;
-    left: -8px;
-    font-size: 0.6rem;
-    opacity: 0.6;
-    animation: twinkle 2.5s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
 }
 
 .country-btn:hover {
@@ -386,31 +419,6 @@ footer {
     position: relative;
 }
 
-/* EU star clusters around intro description box */
-.intro-description::before {
-    content: '⭐';
-    position: absolute;
-    top: -8px;
-    left: -8px;
-    font-size: 0.9rem;
-    opacity: 0.7;
-    animation: twinkle 2.3s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
-.intro-description::after {
-    content: '⭐';
-    position: absolute;
-    top: -8px;
-    right: -8px;
-    font-size: 0.7rem;
-    opacity: 0.6;
-    animation: twinkle 2.7s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
 .intro-description p {
     line-height: 1.7;
     color: #444;
@@ -454,31 +462,6 @@ footer {
     position: relative;
 }
 
-/* EU star clusters around cultural group boxes */
-.cultural-group::before {
-    content: '⭐';
-    position: absolute;
-    top: -6px;
-    right: -6px;
-    font-size: 0.7rem;
-    opacity: 0.6;
-    animation: twinkle 2.2s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
-.cultural-group::after {
-    content: '⭐';
-    position: absolute;
-    bottom: -6px;
-    left: -6px;
-    font-size: 0.5rem;
-    opacity: 0.5;
-    animation: twinkle 2.8s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
 .cultural-group:hover {
     transform: translateY(-3px);
 }
@@ -508,31 +491,6 @@ footer {
     background: linear-gradient(135deg, #e8f4e8, #d4edda);
     border-radius: 12px;
     position: relative;
-}
-
-/* EU star clusters around intro principles box */
-.intro-principles::before {
-    content: '⭐';
-    position: absolute;
-    bottom: -8px;
-    left: -8px;
-    font-size: 0.8rem;
-    opacity: 0.7;
-    animation: twinkle 2.4s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
-}
-
-.intro-principles::after {
-    content: '⭐';
-    position: absolute;
-    bottom: -8px;
-    right: -8px;
-    font-size: 0.6rem;
-    opacity: 0.6;
-    animation: twinkle 2.9s ease-in-out infinite;
-    transform: scale(var(--star-scale));
-    transition: transform 0.3s ease;
 }
 
 .intro-principles h3 {

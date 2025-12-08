@@ -126,6 +126,22 @@ function stopHandTracking() {
 
 // Auto-initialize when page loads
 window.addEventListener('load', () => {
+    // Add bottom corner star clusters to all selection sections
+    const selectionSections = document.querySelectorAll('.selection-section');
+    selectionSections.forEach(section => {
+        // Bottom left cluster
+        const bottomLeft = document.createElement('span');
+        bottomLeft.className = 'star-cluster-bottom-left';
+        bottomLeft.textContent = '⭐⭐⭐';
+        section.appendChild(bottomLeft);
+        
+        // Bottom right cluster
+        const bottomRight = document.createElement('span');
+        bottomRight.className = 'star-cluster-bottom-right';
+        bottomRight.textContent = '⭐⭐⭐';
+        section.appendChild(bottomRight);
+    });
+    
     // Add a small button to toggle hand tracking
     const toggleButton = document.createElement('button');
     toggleButton.id = 'hand-tracking-toggle';
