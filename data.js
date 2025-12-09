@@ -7979,6 +7979,576 @@ const culturalData = {
                     <li>Outdoor activities are popular year-round</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Baltics 💊",
+            content: `
+                <h3>Healthcare Overview</h3>
+                <p>The Baltic states (Estonia, Latvia, Lithuania) provide universal healthcare through social insurance systems. All three have modernized rapidly since independence. Estonia leads in digital health services. Quality is good, especially in cities.</p>
+                
+                <h3>Healthcare Registration</h3>
+                <ul>
+                    <li><strong>Mandatory health insurance:</strong> Required for all residents</li>
+                    <li><strong>Through employment:</strong> Employer contributions cover workers</li>
+                    <li><strong>Self-employed:</strong> Must register and pay independently</li>
+                    <li><strong>Personal ID required:</strong> Health services tied to personal identification code</li>
+                </ul>
+                
+                <h3>Estonia: Digital Healthcare Leader</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Estonian Health Insurance Fund (Haigekassa):</strong> Administers system</li>
+                    <li><strong>Coverage:</strong> Employed, children, pensioners, registered unemployed covered</li>
+                    <li><strong>E-health:</strong> Digital prescriptions, patient portal, electronic health records</li>
+                    <li><strong>Patient Portal:</strong> Access your health data online</li>
+                </ul>
+                
+                <h4>Accessing Care:</h4>
+                <ul>
+                    <li><strong>Family doctor (perearst):</strong> Choose and register with GP</li>
+                    <li><strong>Appointments:</strong> Book via phone, online, or patient portal</li>
+                    <li><strong>Specialist referral:</strong> GP refers to specialists</li>
+                    <li><strong>Emergency: 112</strong></li>
+                    <li><strong>Patient fees:</strong> Small co-payments (€5 for GP, €10 for specialist)</li>
+                </ul>
+                
+                <h3>Latvia: Healthcare System</h3>
+                <ul>
+                    <li><strong>National Health Service (NHS/VVD):</strong> Manages healthcare</li>
+                    <li><strong>Compulsory insurance:</strong> Through social tax</li>
+                    <li><strong>GP registration:</strong> Choose ģimenes ārsts (family doctor)</li>
+                    <li><strong>Patient fees:</strong> Generally low or free for insured</li>
+                    <li><strong>E-health developing:</strong> Digital services expanding</li>
+                    <li><strong>Emergency: 113</strong></li>
+                </ul>
+                
+                <h3>Lithuania: Healthcare System</h3>
+                <ul>
+                    <li><strong>National Health Insurance Fund (NHIF/PSDF):</strong> Administers system</li>
+                    <li><strong>Compulsory insurance:</strong> Through employment or state coverage</li>
+                    <li><strong>GP (šeimos gydytojas):</strong> Register with family doctor</li>
+                    <li><strong>Patient fees:</strong> Small co-payments for some services</li>
+                    <li><strong>Digital services:</strong> e-health system developing</li>
+                    <li><strong>Emergency: 112</strong></li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Common Across Baltics:</strong>
+                    <ul>
+                        <li>Free or low-cost care for insured residents</li>
+                        <li>Private healthcare available for faster service</li>
+                        <li>Quality better in capital cities than rural areas</li>
+                        <li>Waiting times exist for non-urgent specialist care</li>
+                        <li>English spoken in private clinics, less in public system</li>
+                    </ul>
+                </div>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li>Growing sector in all three countries</li>
+                    <li>Faster appointments and English-speaking doctors</li>
+                    <li>Moderate costs compared to Western Europe</li>
+                    <li>Often used alongside public system</li>
+                    <li>Major cities have modern private clinics</li>
+                </ul>
+                
+                <h3>Pharmacies (Aptieka/Vaistinė)</h3>
+                <ul>
+                    <li><strong>Well-stocked:</strong> Green cross sign</li>
+                    <li><strong>E-prescriptions:</strong> Especially Estonia (fully digital)</li>
+                    <li><strong>Prescription required:</strong> For most medications</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may offer cheaper alternatives</li>
+                    <li><strong>24-hour pharmacies:</strong> Available in larger cities</li>
+                </ul>
+                
+                <h3>Costs and Reimbursement</h3>
+                <ul>
+                    <li>Patient fees minimal for insured (€5-10 typical)</li>
+                    <li>Prescription drugs partially reimbursed</li>
+                    <li>Chronic conditions: higher reimbursement rates</li>
+                    <li>Annual caps on out-of-pocket expenses</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li>Basic emergency dental care covered</li>
+                    <li>Routine dental mostly private and out-of-pocket</li>
+                    <li>Children receive free or subsidized dental care</li>
+                    <li>Costs moderate; dental tourism destination for some</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Estonia's e-health system is world-class. 99% of prescriptions are digital, all health data is online, and you can access everything via patient portal. Latvia and Lithuania are catching up with digital services.
+                </div>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Services available but stigma still exists</li>
+                    <li>Improving awareness and access</li>
+                    <li>Private psychologists more accessible</li>
+                    <li>Crisis lines available in all three countries</li>
+                </ul>
+                
+                <h3>For EU Citizens</h3>
+                <ul>
+                    <li>European Health Insurance Card (EHIC) provides temporary coverage</li>
+                    <li>Register for permanent residence to access full benefits</li>
+                    <li>S1 form for pensioners/certain categories</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Baltics 📋",
+            content: `
+                <h3>Digital-First Governance</h3>
+                <p>The Baltic states, especially Estonia, are digital governance pioneers. E-government services are advanced, efficient, and user-friendly. Most administrative tasks can be completed online once you're registered in the system.</p>
+                
+                <div class="tip">
+                    <strong>Estonia's E-Government:</strong> Estonia is the world's most digitally advanced society. 99% of public services online, digital signatures legally binding, X-Road system connects all databases. It's a glimpse of the future - embrace it!
+                </div>
+                
+                <h3>Estonia: E-Estonia</h3>
+                
+                <h4>Essential Registration:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Within 1 month at local government</li>
+                    <li><strong>Personal identification code (isikukood):</strong> Assigned upon registration</li>
+                    <li><strong>Digital ID:</strong> ID-card or Mobile-ID enables all e-services</li>
+                    <li><strong>Health insurance:</strong> Register with Haigekassa</li>
+                    <li><strong>Tax:</strong> Register with Tax and Customs Board</li>
+                </ul>
+                
+                <h4>E-Services:</h4>
+                <ul>
+                    <li><strong>E-identity:</strong> ID-card or Mobile-ID for secure authentication</li>
+                    <li><strong>E-residency:</strong> Digital identity for non-residents (for entrepreneurs)</li>
+                    <li><strong>E-tax:</strong> File taxes online in minutes</li>
+                    <li><strong>E-prescription:</strong> 99% of prescriptions are digital</li>
+                    <li><strong>E-health:</strong> Access all health records online</li>
+                    <li><strong>E-banking:</strong> Fully integrated with government services</li>
+                    <li><strong>E-signature:</strong> Legally binding digital signatures</li>
+                </ul>
+                
+                <h3>Latvia: Latvija.lv Portal</h3>
+                
+                <h4>Essential Steps:</h4>
+                <ul>
+                    <li><strong>Register address:</strong> At Office of Citizenship and Migration Affairs (OCMA/PMLP)</li>
+                    <li><strong>Personal code (personas kods):</strong> Assigned upon registration</li>
+                    <li><strong>eParaksts:</strong> Electronic signature system</li>
+                    <li><strong>Tax registration:</strong> State Revenue Service (VID)</li>
+                </ul>
+                
+                <h4>Digital Services:</h4>
+                <ul>
+                    <li><strong>Latvija.lv:</strong> Central e-government portal</li>
+                    <li><strong>Growing e-services:</strong> Expanding digital government</li>
+                    <li><strong>eParaksts Mobile:</strong> Mobile digital signature</li>
+                    <li><strong>E-declaration system:</strong> For taxes</li>
+                </ul>
+                
+                <h3>Lithuania: E-Government Services</h3>
+                
+                <h4>Essential Registration:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> At Migration Department</li>
+                    <li><strong>Personal code (asmens kodas):</strong> Assigned at registration</li>
+                    <li><strong>Tax registration:</strong> State Tax Inspectorate (VMI)</li>
+                    <li><strong>Social insurance:</strong> Sodra (social security)</li>
+                </ul>
+                
+                <h4>Digital Services:</h4>
+                <ul>
+                    <li><strong>eGov gateway:</strong> Access to government e-services</li>
+                    <li><strong>E-signature:</strong> Mobile and smart-ID signature</li>
+                    <li><strong>E-tax:</strong> Online tax declarations</li>
+                    <li><strong>Developing systems:</strong> Modernization ongoing</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Personal ID Code is Key:</strong> Like Scandinavia, your personal identification code unlocks everything in the Baltics. You need it for banking, healthcare, employment, housing, phone contracts - everything. Get it immediately upon arrival.
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Personal ID required:</strong> Must have identification code</li>
+                    <li><strong>Proof of residence:</strong> Rental contract or registration certificate</li>
+                    <li><strong>Major banks:</strong> Swedbank, SEB, Luminor operate across Baltics</li>
+                    <li><strong>Online banking:</strong> Sophisticated; used for authentication of e-services</li>
+                    <li><strong>Euro currency:</strong> All three countries use Euro</li>
+                </ul>
+                
+                <h3>Documentation</h3>
+                <ul>
+                    <li><strong>Translated documents:</strong> Official translations required for foreign documents</li>
+                    <li><strong>Apostille:</strong> Foreign official documents need apostille</li>
+                    <li><strong>Digital copies:</strong> Scan everything - digital systems expect this</li>
+                    <li><strong>Less paperwork:</strong> Than traditional European bureaucracies</li>
+                </ul>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>EU citizens:</strong> Right to work; register residence</li>
+                    <li><strong>Non-EU:</strong> Work permit required</li>
+                    <li><strong>Employment contract:</strong> Registered digitally with authorities</li>
+                    <li><strong>Social contributions:</strong> Automatic through employment</li>
+                    <li><strong>Unemployment:</strong> Register with employment service if needed</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Estonia:</strong> 20% flat income tax; unique system (no tax on retained corporate profits)</li>
+                    <li><strong>Latvia:</strong> Progressive 20-31% income tax</li>
+                    <li><strong>Lithuania:</strong> 20% or 32% (two rates) income tax</li>
+                    <li><strong>Social contributions:</strong> Additional deductions for social security</li>
+                    <li><strong>E-declarations:</strong> File taxes online; often pre-filled</li>
+                </ul>
+                
+                <h3>Property and Utilities</h3>
+                <ul>
+                    <li>Rental contracts should be registered</li>
+                    <li>Utilities often included in rent or paid separately</li>
+                    <li>Online payment systems well-developed</li>
+                    <li>Property ownership: foreigners can buy (some restrictions on agricultural land)</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>EU licenses valid:</strong> Can use EU/EEA license</li>
+                    <li><strong>Non-EU exchange:</strong> May need to exchange license</li>
+                    <li><strong>Vehicle registration:</strong> Straightforward if importing</li>
+                    <li><strong>Annual inspection:</strong> Required for older vehicles</li>
+                    <li><strong>Winter tires:</strong> Mandatory in winter months</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Language:</strong> While digital systems often have English, knowing some local language helps with older officials and rural areas. English widely spoken by younger people in cities.
+                </div>
+                
+                <h3>What Makes Baltic Bureaucracy Work</h3>
+                <ul>
+                    <li><strong>Digital-first mindset:</strong> Paper increasingly rare</li>
+                    <li><strong>Efficiency valued:</strong> Soviet legacy rejected; modern systems prized</li>
+                    <li><strong>Transparency:</strong> Data sharing between agencies (with privacy protections)</li>
+                    <li><strong>Innovation:</strong> Willing to try new approaches</li>
+                    <li><strong>English available:</strong> Especially online services</li>
+                </ul>
+                
+                <h3>Business and E-Residency (Estonia)</h3>
+                <ul>
+                    <li>Estonia's e-Residency allows anyone globally to establish EU company digitally</li>
+                    <li>Remote business management entirely online</li>
+                    <li>Access to EU market</li>
+                    <li>Digital nomad and startup-friendly environment</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Baltics 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Baltic education systems combine Soviet legacy with modern European standards. Strong emphasis on academic achievement, multilingualism, and increasingly, digital learning. Education is free and compulsory through secondary level. Quality is good, particularly in cities.</p>
+                
+                <h3>School Structure (Similar Across Baltics)</h3>
+                
+                <h4>Pre-Primary (Ages 1-7):</h4>
+                <ul>
+                    <li><strong>Kindergarten/Pre-school:</strong> Available from age 1-2; subsidized</li>
+                    <li>Mandatory pre-primary year before school (age 6-7)</li>
+                    <li>Focus on play-based learning and school readiness</li>
+                    <li>Language immersion options in some areas</li>
+                </ul>
+                
+                <h4>Basic Education (Ages 7-16):</h4>
+                <ul>
+                    <li><strong>9 years compulsory:</strong> Free public education</li>
+                    <li><strong>Primary (1-4):</strong> General basic skills</li>
+                    <li><strong>Lower secondary (5-9):</strong> Subject specialization begins</li>
+                    <li>Strong academic focus; homework substantial</li>
+                    <li>Foreign language from early grades (typically English)</li>
+                </ul>
+                
+                <h4>Upper Secondary (Ages 16-19):</h4>
+                <ul>
+                    <li><strong>General academic track (gymnasium):</strong> Prepares for university</li>
+                    <li><strong>Vocational track:</strong> Professional education; increasingly valued</li>
+                    <li>Free education</li>
+                    <li>Final state exams determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Multilingualism:</strong> Baltic students typically learn 2-3 languages. English taught from early grades, often Russian or German/French as third language. High proficiency is normal - don't be surprised if children become trilingual!
+                </div>
+                
+                <h3>Estonia: Education Innovation</h3>
+                <ul>
+                    <li><strong>High PISA scores:</strong> Among Europe's best in math, science, reading</li>
+                    <li><strong>Digital education:</strong> E-schoolbag system; digital textbooks; coding from Grade 1</li>
+                    <li><strong>Teacher quality:</strong> Well-trained, respected profession</li>
+                    <li><strong>Language policy:</strong> Estonian-medium instruction; Russian-medium schools being transitioned</li>
+                    <li><strong>E-kooli:</strong> Digital diary connecting school, parents, students</li>
+                </ul>
+                
+                <h3>Latvia: Education System</h3>
+                <ul>
+                    <li><strong>Academic focus:</strong> Strong emphasis on academic achievement</li>
+                    <li><strong>Language transition:</strong> Moving to Latvian-medium instruction in all schools</li>
+                    <li><strong>Bilingual programs:</strong> Some schools offer bilingual Latvian-minority language programs</li>
+                    <li><strong>Song and dance traditions:</strong> Choral singing and folk dancing integral to education</li>
+                </ul>
+                
+                <h3>Lithuania: Education System</h3>
+                <ul>
+                    <li><strong>Traditional values:</strong> Academic rigor, respect for teachers</li>
+                    <li><strong>Lithuanian-medium:</strong> Instruction primarily in Lithuanian; minority language schools exist</li>
+                    <li><strong>Reform ongoing:</strong> Modernizing curriculum and teaching methods</li>
+                    <li><strong>Strong humanities:</strong> Literature, history emphasized</li>
+                </ul>
+                
+                <h3>School Culture</h3>
+                <ul>
+                    <li><strong>Respect for teachers:</strong> Authority figures; formal relationships</li>
+                    <li><strong>Academic pressure:</strong> Achievement valued; competitive environment</li>
+                    <li><strong>Homework substantial:</strong> From primary school onward</li>
+                    <li><strong>Grading:</strong> 1-10 scale typical; high standards</li>
+                    <li><strong>Exams important:</strong> State exams determine university entrance</li>
+                </ul>
+                
+                <h3>School Day</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 2:00/3:00 PM</li>
+                    <li><strong>Lunch:</strong> School meals provided (sometimes paid, often free/subsidized)</li>
+                    <li><strong>After-school:</strong> Activities and extended day programs available</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, high quality, majority attend</li>
+                    <li><strong>Private schools:</strong> Growing sector; often emphasize languages or alternative pedagogies</li>
+                    <li><strong>International schools:</strong> Available in capital cities; English instruction; expensive</li>
+                </ul>
+                
+                <h3>Higher Education</h3>
+                <ul>
+                    <li><strong>Universities and colleges:</strong> Academic and applied tracks</li>
+                    <li><strong>State-funded places:</strong> Free tuition for top performers</li>
+                    <li><strong>Paid places:</strong> Available for those not qualifying for state funding</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system (Bachelor, Master, PhD)</li>
+                    <li><strong>English programs:</strong> Many master's programs offered in English</li>
+                    <li><strong>Quality:</strong> Several ranked universities; strong in IT, sciences</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Estonia's Tech Education:</strong> Estonia has highest number of startups per capita in Europe. Education system emphasizes digital skills, entrepreneurship, and innovation. Children learn coding from Grade 1. Great for tech-oriented families!
+                </div>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Language barrier:</strong> Learning local language essential for public schools</li>
+                    <li><strong>Language support:</strong> Programs exist but vary by school and region</li>
+                    <li><strong>International schools:</strong> Easier transition but expensive</li>
+                    <li><strong>Fast integration:</strong> Children often pick up language quickly through immersion</li>
+                    <li><strong>Credential recognition:</strong> Foreign qualifications assessed for appropriate placement</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings regularly (quarterly or twice yearly)</li>
+                    <li>Digital communication systems (e-kooli in Estonia, etc.)</li>
+                    <li>Parents monitor homework and academic progress</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Active parent communities in most schools</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-August (3 months)</li>
+                    <li><strong>Winter:</strong> Christmas/New Year (2 weeks)</li>
+                    <li><strong>Spring:</strong> Easter break (1 week)</li>
+                    <li><strong>Autumn:</strong> Short break (1 week)</li>
+                    <li><strong>National holidays:</strong> Independence Days, Midsummer</li>
+                </ul>
+                
+                <h3>Unique Cultural Elements</h3>
+                <ul>
+                    <li><strong>Song festivals:</strong> Massive choral events involving thousands; schools participate</li>
+                    <li><strong>Outdoor education:</strong> Forest schools, nature education emphasized</li>
+                    <li><strong>National pride:</strong> History and national identity important in curriculum</li>
+                    <li><strong>STEM focus:</strong> Especially Estonia - strong math, science, IT education</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Teacher salaries modest (though improving)</li>
+                    <li>Rural-urban quality gap exists</li>
+                    <li>Language policy changes can be contentious</li>
+                    <li>Brain drain - educated youth often emigrate</li>
+                    <li>Declining birth rates affecting school populations</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Baltics 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Baltic states have diverse religious histories influenced by various occupations and migrations. Current religiosity is low compared to most of Europe, with secularism strong especially in Estonia. Each country has different religious composition and relationship with faith.</p>
+                
+                <h3>Estonia: Most Secular Country in Europe</h3>
+                <p>Estonia is one of the world's least religious societies:</p>
+                <ul>
+                    <li><strong>Non-religious:</strong> ~70-75% claim no religious affiliation</li>
+                    <li><strong>Lutheran heritage:</strong> Historically Protestant but very secularized</li>
+                    <li><strong>Orthodox minority:</strong> ~15% (mainly ethnic Russians)</li>
+                    <li><strong>Church attendance:</strong> Minimal (~5%)</li>
+                    <li><strong>Religion very private:</strong> Rarely discussed or displayed publicly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Estonian Secularity:</strong> Estonians often joke they worship nature and the internet more than God. Religion is deeply private. Even church buildings used primarily as cultural venues. Don't expect religious discussions or displays.
+                </div>
+                
+                <h3>Latvia: Lutheran and Catholic Mix</h3>
+                <ul>
+                    <li><strong>Lutheran:</strong> ~35% (traditional faith of ethnic Latvians)</li>
+                    <li><strong>Catholic:</strong> ~25% (particularly Latgale region)</li>
+                    <li><strong>Orthodox:</strong> ~15% (mainly ethnic Russians)</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among youth</li>
+                    <li><strong>More religious:</strong> Than Estonia but still largely secular</li>
+                </ul>
+                
+                <h3>Lithuania: Most Religious Baltic State</h3>
+                <ul>
+                    <li><strong>Catholic:</strong> ~80% identify as Catholic (though many non-practicing)</li>
+                    <li><strong>Orthodox:</strong> Small minority</li>
+                    <li><strong>Church attendance:</strong> Higher than other Baltics but declining</li>
+                    <li><strong>Catholic identity:</strong> Intertwined with Lithuanian national identity</li>
+                    <li><strong>More traditional:</strong> Religion plays larger cultural role than Estonia/Latvia</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Complete freedom of religion in all three countries</li>
+                    <li>No state church (though Lutheran churches have historical significance)</li>
+                    <li>Right to practice any faith or none</li>
+                    <li>Religious discrimination illegal</li>
+                    <li>Growing religious diversity through immigration</li>
+                </ul>
+                
+                <h3>Major Religious Traditions</h3>
+                
+                <h4>Lutheranism (Estonia, Latvia):</h4>
+                <ul>
+                    <li>Historical state religion</li>
+                    <li>Beautiful historic churches (often now museums or concert venues)</li>
+                    <li>Christmas and Easter observed culturally more than religiously</li>
+                    <li>Low church attendance</li>
+                </ul>
+                
+                <h4>Catholicism (Lithuania, Latgale region of Latvia):</h4>
+                <ul>
+                    <li>Stronger presence in Lithuania</li>
+                    <li>Pilgrimage sites (Hill of Crosses in Lithuania)</li>
+                    <li>Catholic holidays observed</li>
+                    <li>Pope John Paul II important figure for Lithuanians</li>
+                </ul>
+                
+                <h4>Orthodox Christianity:</h4>
+                <ul>
+                    <li>Primarily ethnic Russian communities</li>
+                    <li>Beautiful Orthodox churches and cathedrals</li>
+                    <li>Alexander Nevsky Cathedral (Tallinn), Orthodox churches (Riga)</li>
+                    <li>Follow Julian calendar (different holiday dates)</li>
+                </ul>
+                
+                <h3>Religious Holidays</h3>
+                <ul>
+                    <li><strong>Christmas:</strong> December 24-26 (public holidays in all three)</li>
+                    <li><strong>Easter:</strong> Western Easter (public holiday)</li>
+                    <li><strong>All Saints' Day:</strong> November 1 (particularly Lithuania)</li>
+                    <li>Holidays often observed as secular time off rather than religious observance</li>
+                </ul>
+                
+                <h3>Unique Cultural Celebrations</h3>
+                
+                <h4>Midsummer (Jāņi/Joninės/Jaanipäev):</h4>
+                <p>Most important holiday - pre-Christian, pagan-rooted celebration:</p>
+                <ul>
+                    <li><strong>June 23-24:</strong> Summer solstice celebration</li>
+                    <li><strong>Bonfires:</strong> All-night festivities</li>
+                    <li><strong>Nature rituals:</strong> Flower crowns, jumping over fires, searching for fern flower</li>
+                    <li><strong>Beer and singing:</strong> Traditional foods and folk songs</li>
+                    <li><strong>National holiday:</strong> Most important summer celebration</li>
+                </ul>
+                
+                <h4>Song Festivals:</h4>
+                <ul>
+                    <li>Mass choral events with thousands of singers</li>
+                    <li>Deeply cultural/national, not religious</li>
+                    <li>UNESCO Intangible Cultural Heritage</li>
+                    <li>Singing Revolution legacy - songs helped achieve independence</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Nature Spirituality:</strong> Like Finns, many Balts describe connection to nature as their "religion." Forests, Baltic Sea, ancient oak groves have spiritual significance. Midsummer celebration connects to pre-Christian nature worship.
+                </div>
+                
+                <h3>Other Religious Communities</h3>
+                <ul>
+                    <li><strong>Muslims:</strong> Small but growing communities, mainly in capitals</li>
+                    <li><strong>Jews:</strong> Historic communities decimated in Holocaust; small communities remain</li>
+                    <li><strong>Various Christian denominations:</strong> Baptists, Pentecostals, others</li>
+                    <li><strong>New Age/Spiritual:</strong> Growing interest in alternative spirituality</li>
+                </ul>
+                
+                <h3>Religion in Daily Life</h3>
+                <ul>
+                    <li><strong>Very private:</strong> Religion rarely discussed in social/work settings</li>
+                    <li><strong>Secularism strong:</strong> Especially Estonia and Latvia</li>
+                    <li><strong>Lifecycle events:</strong> Some still mark with religious ceremonies (baptisms, church weddings, funerals)</li>
+                    <li><strong>Schools:</strong> Religious education optional; comparative approach</li>
+                    <li><strong>Churches as culture:</strong> Historic churches often function as museums/concert halls</li>
+                </ul>
+                
+                <h3>Religious Sites</h3>
+                <ul>
+                    <li><strong>Tallinn:</strong> Alexander Nevsky Cathedral, St. Mary's Cathedral</li>
+                    <li><strong>Riga:</strong> Riga Cathedral, St. Peter's Church</li>
+                    <li><strong>Vilnius:</strong> Vilnius Cathedral, Gates of Dawn, Hill of Three Crosses</li>
+                    <li><strong>Hill of Crosses (Lithuania):</strong> Major pilgrimage site; powerful symbol of faith and resistance</li>
+                    <li>Most churches welcome respectful visitors</li>
+                </ul>
+                
+                <h3>Soviet Legacy</h3>
+                <ul>
+                    <li>50 years of Soviet atheism deeply affected religious practice</li>
+                    <li>Churches closed, clergy persecuted, religious practice suppressed</li>
+                    <li>Created generations with little religious upbringing</li>
+                    <li>Post-independence: freedom restored but secularization continued</li>
+                    <li>Religion associated by some with resistance to Soviet occupation (especially Lithuania)</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li><strong>Practice privately:</strong> Faith is personal matter; public displays uncommon</li>
+                    <li><strong>Proselytizing unwelcome:</strong> Evangelism viewed negatively</li>
+                    <li><strong>Finding community:</strong> Religious communities exist but may be small; search online</li>
+                    <li><strong>International churches:</strong> In capitals, various denominations offer English-language services</li>
+                    <li><strong>Respect secular culture:</strong> Don't assume religious observance or knowledge</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Cultural vs. Religious Identity:</strong> Many Balts identify culturally with Lutheran or Catholic heritage without religious belief. Christmas and Easter are cultural holidays, not primarily religious. Understand this distinction when discussing faith.
+                </div>
+                
+                <h3>Social Attitudes</h3>
+                <ul>
+                    <li>Tolerance for diverse beliefs (or non-belief)</li>
+                    <li>Strong religiosity can make people uncomfortable (especially Estonia)</li>
+                    <li>LGBTQ+ rights vary: Estonia most progressive, Lithuania most traditional</li>
+                    <li>Younger generations more secular than older</li>
+                    <li>Urban-rural divide: cities more secular, rural areas more traditional</li>
+                </ul>
+            `
         }
     }
 };
