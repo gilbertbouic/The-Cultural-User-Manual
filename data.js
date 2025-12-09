@@ -4512,6 +4512,711 @@ const culturalData = {
                     <li>Right to live and work anywhere in the EU</li>
                 </ul>
             `
+        },
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in the Mediterranean 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Mediterranean culture values warmth, expressiveness, and strong family bonds. Social interactions are typically more demonstrative than in Northern Europe, with emphasis on personal connections and emotional expression.</p>
+                
+                <h3>Greetings and Personal Space</h3>
+                <ul>
+                    <li><strong>Cheek kisses (la bise, besos):</strong> Common among friends and family; number varies by region (2 in France, 2-3 in Spain/Italy)</li>
+                    <li><strong>Formal greetings essential:</strong> Always say "Bonjour/Buongiorno/Buenos días" before any interaction, even in shops</li>
+                    <li><strong>Handshakes:</strong> Standard for business and first meetings</li>
+                    <li><strong>Closer personal space:</strong> Physical proximity during conversation is normal; touching arms or shoulders shows warmth</li>
+                    <li><strong>Eye contact:</strong> Direct and important for showing sincerity and engagement</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> In France particularly, not saying "Bonjour" when entering a shop or "Au revoir" when leaving is considered extremely rude. These formalities matter!
+                </div>
+                
+                <h3>Family Values</h3>
+                <p>Family is central to Mediterranean life:</p>
+                <ul>
+                    <li><strong>Extended family ties:</strong> Close relationships with grandparents, aunts, uncles, cousins</li>
+                    <li><strong>Multi-generational gatherings:</strong> Sunday meals, holidays, celebrations involve entire family</li>
+                    <li><strong>Adult children:</strong> Often live at home longer (into 20s-30s) for economic and cultural reasons</li>
+                    <li><strong>Parental involvement:</strong> Parents remain actively involved in adult children's lives</li>
+                    <li><strong>Childcare:</strong> Grandparents frequently provide care; strong intergenerational bonds</li>
+                </ul>
+                
+                <h3>Social Etiquette</h3>
+                <ul>
+                    <li><strong>Vouvoyer/Lei/Usted (formal you):</strong> Use formal address initially; switch to informal only when invited</li>
+                    <li><strong>Titles matter:</strong> Use professional titles (Doctor, Professor, Monsieur, Signora)</li>
+                    <li><strong>Punctuality nuanced:</strong> Business meetings require punctuality; social events allow "fashionably late" (15-30 minutes)</li>
+                    <li><strong>Gift-giving:</strong> Bring wine, flowers, or sweets when visiting homes (avoid chrysanthemums in France/Italy - funeral flowers)</li>
+                    <li><strong>Dress well:</strong> Appearance matters; dress stylishly even for casual outings</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Mediterranean cultures value "la dolce vita" / "joie de vivre" - taking time to enjoy life, savor meals, and appreciate beauty. Don't rush social interactions!
+                </div>
+                
+                <h3>Dating and Relationships</h3>
+                <ul>
+                    <li>Meeting through social circles remains common alongside apps</li>
+                    <li>Men often take initiative in asking someone out (though this is changing)</li>
+                    <li>Romantic gestures appreciated - compliments, flowers, thoughtful dates</li>
+                    <li>Relationships develop through conversation and shared meals</li>
+                    <li>Meeting the family is significant - signals seriousness</li>
+                </ul>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in the Mediterranean 🤝",
+            content: `
+                <h3>Public Behavior and Social Norms</h3>
+                <p>Mediterranean public spaces blend formality with warmth. Proper etiquette and presentation are important, but social interactions are warmer and more animated than in Northern Europe.</p>
+                
+                <h3>Daily Courtesies</h3>
+                <ul>
+                    <li><strong>Greetings mandatory:</strong> Say bonjour/buongiorno/buenos días when entering ANY space - shops, elevators, waiting rooms</li>
+                    <li><strong>Please and thank you:</strong> S'il vous plaît/per favore/por favor and merci/grazie/gracias used constantly</li>
+                    <li><strong>Excuse me:</strong> Pardon/scusi/perdón when passing, bumping, or getting attention</li>
+                    <li><strong>Goodbye:</strong> Au revoir/arrivederci/adiós when leaving shops or interactions</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>France Particularly:</strong> Failure to greet shopkeepers or service staff is perceived as incredibly rude. Even if just browsing, say "Bonjour, je regarde" (I'm just looking). This applies everywhere!
+                </div>
+                
+                <h3>Noise and Quiet Hours</h3>
+                <ul>
+                    <li><strong>Animated conversation normal:</strong> Louder, more expressive public conversation than Northern Europe</li>
+                    <li><strong>Quiet hours:</strong> Typically 10 PM - 7 AM on weekdays; respect in apartments</li>
+                    <li><strong>Siesta time (Spain, parts of Italy):</strong> Reduced noise 2-5 PM in some areas; many shops close</li>
+                    <li><strong>Late evening culture:</strong> Dinner often 9-10 PM; social life extends late, especially weekends</li>
+                </ul>
+                
+                <h3>Dining Etiquette</h3>
+                <ul>
+                    <li><strong>Meals are sacred:</strong> Lunch breaks 1-2 hours; dinner is social event, not to be rushed</li>
+                    <li><strong>Restaurants:</strong> Wait to be seated; don't split bills excessively (Italians especially dislike this)</li>
+                    <li><strong>Coffee culture:</strong> Standing at bar is cheaper; sitting adds service charge</li>
+                    <li><strong>Café time:</strong> You can linger over one coffee for hours - you're paying for the space and time</li>
+                    <li><strong>Tipping:</strong> Service often included; small tips (€1-5) appreciated but not obligatory</li>
+                </ul>
+                
+                <h3>Environmental Consciousness</h3>
+                <ul>
+                    <li>Recycling programs exist but less comprehensive than Northern Europe</li>
+                    <li>Bring reusable bags for shopping (plastic bags often charged)</li>
+                    <li>Water conservation important in southern regions</li>
+                    <li>Historic city centers - drive carefully, many pedestrian zones</li>
+                </ul>
+                
+                <h3>Dress Code</h3>
+                <ul>
+                    <li><strong>Appearance matters:</strong> Dress well even for routine activities</li>
+                    <li><strong>Church visits:</strong> Cover shoulders and knees; remove hats</li>
+                    <li><strong>Beach to city:</strong> Don't wear swimwear away from beach; cover up appropriately</li>
+                    <li><strong>Business:</strong> Formal, elegant attire expected</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Embrace the "passegiata" (Italy) or evening stroll culture. Many locals walk through town centers in early evening - it's social ritual and people-watching, not just exercise.
+                </div>
+                
+                <h3>Public Transport and Driving</h3>
+                <ul>
+                    <li><strong>Validate tickets:</strong> Public transport requires validation (fines for non-validation)</li>
+                    <li><strong>Driving style:</strong> More aggressive than Northern Europe; horns used liberally</li>
+                    <li><strong>Parking:</strong> Creative parking common; rules sometimes loosely interpreted</li>
+                    <li><strong>Strikes:</strong> Public transport strikes common; plan accordingly</li>
+                </ul>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in the Mediterranean 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Mediterranean communication is expressive, nuanced, and relationship-oriented. Style varies: French favor intellectual debate, Italians use gestures extensively, Spanish emphasize warmth and personal connection.</p>
+                
+                <h3>Key Communication Characteristics</h3>
+                <ul>
+                    <li><strong>Expressive:</strong> Animated gestures, facial expressions, vocal variation normal and expected</li>
+                    <li><strong>Indirect in some contexts:</strong> Especially in France and Italy, criticism is wrapped in politeness</li>
+                    <li><strong>Context matters:</strong> What's said often less important than how it's said and the relationship context</li>
+                    <li><strong>Interrupting acceptable:</strong> Overlapping conversation shows engagement, not rudeness</li>
+                    <li><strong>Debate valued:</strong> Particularly in France, intellectual argumentation is sport, not personal attack</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>French Communication:</strong> The French value eloquence and intellectual rigor. Debate is enjoyed. Don't take strong opinions personally - it's about ideas, not you. Learning to defend your viewpoint calmly is respected.
+                </div>
+                
+                <h3>Conversation Topics</h3>
+                <div class="tip">
+                    <strong>Good Topics:</strong>
+                    <ul>
+                        <li>Food, wine, and cuisine (passionate subject!)</li>
+                        <li>Art, culture, cinema, literature</li>
+                        <li>Travel and regional differences</li>
+                        <li>Fashion and style</li>
+                        <li>Philosophy and ideas (especially France)</li>
+                        <li>Football (soccer) - major cultural touchstone</li>
+                        <li>Local history and architecture</li>
+                    </ul>
+                </div>
+                
+                <div class="warning">
+                    <strong>Topics to Approach Carefully:</strong>
+                    <ul>
+                        <li>Personal income or finances (private)</li>
+                        <li>Oversimplified comparisons to other countries</li>
+                        <li>Stereotypes about laziness or inefficiency (offensive)</li>
+                        <li>Religious topics (France particularly secular)</li>
+                        <li>Regional rivalries (North vs. South debates can be sensitive)</li>
+                    </ul>
+                </div>
+                
+                <h3>Language and Formality</h3>
+                <ul>
+                    <li><strong>Formal vs. informal:</strong> Tu/vous, tu/lei, tú/usted distinction crucial; wait to be invited to use informal</li>
+                    <li><strong>Language pride:</strong> French particularly proud of language; attempt to speak it even if imperfect - effort appreciated</li>
+                    <li><strong>English varies:</strong> More widely spoken in business/tourism; less in everyday contexts. Learn the local language for integration</li>
+                    <li><strong>Regional languages:</strong> Catalan, Basque, Occitan, regional Italian dialects - show respect for linguistic diversity</li>
+                </ul>
+                
+                <h3>Workplace Communication</h3>
+                <ul>
+                    <li><strong>Hierarchy present:</strong> More formal than Northern Europe; respect for authority and seniority</li>
+                    <li><strong>Titles used:</strong> Monsieur, Madame, Dottore, Señor/Señora in professional contexts</li>
+                    <li><strong>Meeting style:</strong> Can be lengthy; building consensus through discussion</li>
+                    <li><strong>Email:</strong> Formal openings and closings required; French business emails quite elaborate</li>
+                    <li><strong>Lunch meetings:</strong> Business often conducted over meals; important relationship-building</li>
+                </ul>
+                
+                <h3>Gestures and Non-Verbal Communication</h3>
+                <ul>
+                    <li>Italians particularly gesture-heavy (fingers bunched tapping - "what do you want?"; hand wave under chin - "I don't care")</li>
+                    <li>French: shoulder shrug with pursed lips means "I don't know" or "what can you do?"</li>
+                    <li>Maintain good eye contact - shows honesty and engagement</li>
+                    <li>Physical touch during conversation (arm touches) shows warmth</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Appreciate the art of conversation. Mediterranean cultures value eloquence, wit, and the ability to converse on varied topics. Reading widely and staying culturally informed helps you participate fully.
+                </div>
+            `
+        },
+        economicIntegration: {
+            title: "💼 Module 4: Economic Integration in the Mediterranean 💰",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Mediterranean work culture balances professionalism with personal relationships. Hierarchies exist but are tempered by personal connections. Work-life balance and quality of life are highly valued.</p>
+                
+                <h3>Key Workplace Values</h3>
+                <ul>
+                    <li><strong>Relationships matter:</strong> Personal connections facilitate business; invest time in relationship-building</li>
+                    <li><strong>Hierarchy respected:</strong> More vertical structures than Northern Europe; formal with superiors</li>
+                    <li><strong>Long lunch breaks:</strong> 1-2 hours standard; meal times sacred</li>
+                    <li><strong>Work hours:</strong> Often 9 AM - 6/7 PM, but with substantial lunch break; "presenteeism" can be expected</li>
+                    <li><strong>Vacation sacred:</strong> August particularly - many businesses close for 2-3 weeks</li>
+                    <li><strong>Quality of life:</strong> Work to live, not live to work; family and personal time prioritized</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>French Workplace Specifics:</strong>
+                    <ul>
+                        <li>35-hour work week legally; in practice varies by sector</li>
+                        <li>Strong unions and workers' rights</li>
+                        <li>Strikes and manifestations (protests) common</li>
+                        <li>Formal communication; business relationships take time to develop</li>
+                        <li>September restart after August vacation is crucial business period</li>
+                    </ul>
+                </div>
+                
+                <h3>Finding Employment</h3>
+                <ul>
+                    <li><strong>Job boards:</strong> Pôle Emploi (France), InfoJobs (Spain), LinkedIn increasingly used</li>
+                    <li><strong>Networking crucial:</strong> Personal connections often more important than cold applications</li>
+                    <li><strong>Language requirements:</strong> Local language proficiency typically required except in specific international sectors</li>
+                    <li><strong>Contracts:</strong> CDI (permanent) vs. CDD (fixed-term) in France; similar distinctions elsewhere</li>
+                    <li><strong>Credential recognition:</strong> EU qualifications generally recognized; non-EU may need validation</li>
+                </ul>
+                
+                <h3>Employment Rights and Benefits</h3>
+                <ul>
+                    <li><strong>Vacation:</strong> Minimum 4-5 weeks annually (5 weeks in France)</li>
+                    <li><strong>Healthcare:</strong> Employer contributes to social security/health insurance</li>
+                    <li><strong>Parental leave:</strong> Available but varies by country; less generous than Scandinavia</li>
+                    <li><strong>Sick leave:</strong> Doctor's note required; employers and social security share cost</li>
+                    <li><strong>Termination protection:</strong> Strong worker protections; difficult to dismiss without cause</li>
+                </ul>
+                
+                <h3>Bureaucracy and Administration</h3>
+                <ul>
+                    <li><strong>Paperwork intensive:</strong> Employment requires substantial documentation</li>
+                    <li><strong>Social security registration:</strong> Mandatory for all workers</li>
+                    <li><strong>Bank account:</strong> Often required before employment starts</li>
+                    <li><strong>Payslips complex:</strong> French "bulletin de salaire" particularly detailed with numerous deductions</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Strikes and Labor Action:</strong> Public sector strikes common, especially France. Transport, education, public services can be disrupted. This is accepted part of social dialogue - not viewed negatively as elsewhere.
+                </div>
+                
+                <h3>Entrepreneurship</h3>
+                <ul>
+                    <li>Bureaucratic hurdles exist but support programs available</li>
+                    <li>France: Auto-entrepreneur status simplified self-employment</li>
+                    <li>Italy: Partita IVA for freelancers/small businesses</li>
+                    <li>Spain: Autónomo status for self-employed</li>
+                    <li>EU citizens have right to establish businesses</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Progressive tax systems:</strong> Higher rates than some countries (France: up to 45%)</li>
+                    <li><strong>Social charges:</strong> Substantial contributions for healthcare, pensions, unemployment (France particularly high)</li>
+                    <li><strong>Tax residence:</strong> Established by spending majority of year in country</li>
+                    <li><strong>Annual tax declarations:</strong> Required even if employer withholds taxes</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Business meals matter. Cultivate relationships over lunch or coffee. In Mediterranean culture, breaking bread together builds trust essential for professional success.
+                </div>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Mediterranean 💊",
+            content: `
+                <h3>Universal Healthcare Systems</h3>
+                <p>Mediterranean countries provide universal healthcare through social insurance systems. Quality is generally high, but systems vary by country. Registration and contributions are mandatory for residents.</p>
+                
+                <h3>France: Sécurité Sociale</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Coverage:</strong> Comprehensive healthcare for all legal residents and workers</li>
+                    <li><strong>Registration:</strong> Automatic upon employment; students and others register separately</li>
+                    <li><strong>Carte Vitale:</strong> Electronic health card containing your medical information</li>
+                    <li><strong>Reimbursement model:</strong> You pay upfront, then claim reimbursement (typically 70% of consultation cost)</li>
+                    <li><strong>Mutuelle:</strong> Supplementary insurance covers remaining costs (often provided by employer)</li>
+                </ul>
+                
+                <h4>Accessing Care in France:</h4>
+                <ul>
+                    <li><strong>Médecin traitant:</strong> Choose a primary care doctor (GP); required for optimal reimbursement</li>
+                    <li><strong>Appointments:</strong> Book directly with doctor; Doctolib app widely used</li>
+                    <li><strong>Consultations:</strong> Standard GP visit ~€25; specialists more expensive</li>
+                    <li><strong>Pharmacies:</strong> Green cross sign; pharmacists provide health advice</li>
+                    <li><strong>Emergencies:</strong> SAMU (15) for medical emergencies; Pompiers (18) for life-threatening situations</li>
+                </ul>
+                
+                <h3>Italy: Servizio Sanitario Nazionale (SSN)</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Free at point of use:</strong> For registered residents</li>
+                    <li><strong>Registration:</strong> Register at local ASL (Azienda Sanitaria Locale)</li>
+                    <li><strong>Tessera sanitaria:</strong> Health card required for accessing services</li>
+                    <li><strong>Ticket (copayment):</strong> Small fees for some services based on income</li>
+                </ul>
+                
+                <h4>Accessing Care in Italy:</h4>
+                <ul>
+                    <li><strong>Medico di base:</strong> Choose a family doctor from registered list</li>
+                    <li><strong>Appointments:</strong> Book directly; walk-in hours often available</li>
+                    <li><strong>Specialists:</strong> GP referral usually required for SSN coverage</li>
+                    <li><strong>Pharmacies:</strong> Green cross; rotating schedule for 24-hour service</li>
+                    <li><strong>Emergency:</strong> 118 for ambulance; Pronto Soccorso (ER) at hospitals</li>
+                </ul>
+                
+                <h3>Spain: Sistema Nacional de Salud</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Free universal healthcare:</strong> For residents registered with social security</li>
+                    <li><strong>Tarjeta sanitaria:</strong> Health card issued by autonomous community</li>
+                    <li><strong>Regional variations:</strong> Health managed by autonomous communities; slight differences</li>
+                    <li><strong>No co-payments:</strong> Generally free, though some regions charge for prescriptions</li>
+                </ul>
+                
+                <h4>Accessing Care in Spain:</h4>
+                <ul>
+                    <li><strong>Centro de salud:</strong> Local health center with GPs and nurses</li>
+                    <li><strong>Médico de familia:</strong> Assigned family doctor at your local center</li>
+                    <li><strong>Appointments:</strong> Book through phone or online portal</li>
+                    <li><strong>Pharmacies:</strong> Green cross; prescription medicines require receta</li>
+                    <li><strong>Emergency:</strong> 112 general emergency; Urgencias for hospital ER</li>
+                </ul>
+                
+                <h3>Portugal: Serviço Nacional de Saúde (SNS)</h3>
+                <ul>
+                    <li><strong>Free healthcare:</strong> For residents and EU citizens</li>
+                    <li><strong>Registration:</strong> Register at local health center (centro de saúde)</li>
+                    <li><strong>Número de utente:</strong> User number for accessing services</li>
+                    <li><strong>Moderate fees:</strong> Small charges for some services (€5-7 for GP visits)</li>
+                    <li><strong>Emergency:</strong> 112; SNS 24 (808 24 24 24) for health advice</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Key Points Across All Systems:</strong>
+                    <ul>
+                        <li>European Health Insurance Card (EHIC) provides temporary coverage for EU visitors</li>
+                        <li>Private healthcare available as alternative; often faster for specialists</li>
+                        <li>Prescription costs vary; reimbursement rates differ by medication type</li>
+                        <li>Dental and optical care often not fully covered; expect to pay</li>
+                    </ul>
+                </div>
+                
+                <h3>Prescriptions and Pharmacies</h3>
+                <ul>
+                    <li><strong>Prescription required:</strong> For all but basic medications</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may offer cheaper generics</li>
+                    <li><strong>Reimbursement rates:</strong> Vary by medication type (35%-100%)</li>
+                    <li><strong>Chronic conditions:</strong> Long-term prescriptions available; often 100% reimbursed</li>
+                </ul>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Available through public systems but waiting times can be long</li>
+                    <li>Private psychologists and psychiatrists more accessible</li>
+                    <li>Growing acceptance but still some stigma around mental health care</li>
+                    <li>Employee assistance programs increasingly common</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Build relationship with your pharmacist. They're knowledgeable healthcare professionals who can advise on minor ailments, saving you a doctor visit.
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Mediterranean 📋",
+            content: `
+                <h3>Bureaucracy and Administration</h3>
+                <p>Mediterranean bureaucracy has a reputation for complexity. Systems are paper-heavy, require patience, and vary significantly by country and even region. Digital services are improving but not universal.</p>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Mediterranean bureaucracy can be frustrating. Multiple visits to offices, conflicting information, and long waits are common. Patience, persistence, and keeping all documents organized are essential. Consider it a marathon, not a sprint!
+                </div>
+                
+                <h3>France: Prefecture and Essential Services</h3>
+                
+                <h4>Key Registration Steps:</h4>
+                <ul>
+                    <li><strong>Titre de séjour (residence permit):</strong> Non-EU citizens must apply at préfecture within 2 months of arrival</li>
+                    <li><strong>Carte de séjour:</strong> EU citizens can request (though not obligatory post-Brexit for Brits)</li>
+                    <li><strong>Social security:</strong> Register with CPAM (Caisse Primaire d'Assurance Maladie)</li>
+                    <li><strong>Numéro de sécurité sociale:</strong> Essential ID number for all administrative matters</li>
+                    <li><strong>Tax registration:</strong> Declare residence to tax office (centre des impôts)</li>
+                </ul>
+                
+                <h4>Essential Numbers:</h4>
+                <ul>
+                    <li><strong>NIR (Numéro d'Inscription au Répertoire):</strong> Your social security number - needed for everything</li>
+                    <li><strong>Numéro fiscal:</strong> Tax identification number</li>
+                </ul>
+                
+                <h4>Banking:</h4>
+                <ul>
+                    <li>Proof of residence required (attestation d'hébergement if staying with someone)</li>
+                    <li>French banks prefer French income/employment</li>
+                    <li>Online banks (Boursorama, N26) sometimes easier for newcomers</li>
+                </ul>
+                
+                <h3>Italy: Permesso and Residency</h3>
+                
+                <h4>Key Steps:</h4>
+                <ul>
+                    <li><strong>Permesso di soggiorno:</strong> Non-EU residents must apply within 8 days at Questura (police)</li>
+                    <li><strong>Codice fiscale:</strong> Tax code - get this first at Agenzia delle Entrate; needed for everything</li>
+                    <li><strong>Residenza:</strong> Register residence at local Anagrafe (registry office)</li>
+                    <li><strong>Carta d'identità:</strong> ID card issued after residency registration</li>
+                    <li><strong>Tessera sanitaria:</strong> Health card from ASL</li>
+                </ul>
+                
+                <h4>The Italian Queue:</h4>
+                <ul>
+                    <li>Take a number (biglietto) at offices</li>
+                    <li>Arrive early - offices have limited capacity</li>
+                    <li>Bring all original documents plus photocopies</li>
+                    <li>"Marca da bollo" (tax stamp) often required for applications</li>
+                </ul>
+                
+                <h3>Spain: NIE and Empadronamiento</h3>
+                
+                <h4>Key Steps:</h4>
+                <ul>
+                    <li><strong>NIE (Número de Identidad de Extranjero):</strong> Foreigner ID number - priority #1</li>
+                    <li><strong>Empadronamiento:</strong> Register residence at local Ayuntamiento (town hall)</li>
+                    <li><strong>TIE (Tarjeta de Identidad de Extranjero):</strong> Physical ID card for non-EU residents</li>
+                    <li><strong>Certificado digital:</strong> Digital certificate for online government services</li>
+                    <li><strong>Social security number:</strong> Assigned upon employment</li>
+                </ul>
+                
+                <h4>Cita Previa:</h4>
+                <ul>
+                    <li>Appointment system for most government offices</li>
+                    <li>Book online weeks in advance (appointments scarce)</li>
+                    <li>Check daily for cancellations - persistence pays off</li>
+                </ul>
+                
+                <h3>Portugal: NIF and Residence</h3>
+                <ul>
+                    <li><strong>NIF (Número de Identificação Fiscal):</strong> Tax number - essential for everything</li>
+                    <li><strong>Residence permit:</strong> Apply at SEF (immigration service) if non-EU</li>
+                    <li><strong>Morada fiscal:</strong> Fiscal residence address registration</li>
+                    <li><strong>Certificado de residência:</strong> Residence certificate for EU citizens</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Universal Tips for Mediterranean Bureaucracy:</strong>
+                    <ul>
+                        <li><strong>Documents:</strong> Always bring originals + photocopies; passport-sized photos often needed</li>
+                        <li><strong>Translations:</strong> Official translations may be required for foreign documents</li>
+                        <li><strong>Apostilles:</strong> Foreign official documents need apostille for recognition</li>
+                        <li><strong>Patience:</strong> Multi-hour waits are normal; bring a book!</li>
+                        <li><strong>Conflicting info:</strong> Different officials may give different answers; document everything</li>
+                        <li><strong>Receipts:</strong> Keep all receipts, application proofs, and correspondence</li>
+                        <li><strong>Local help:</strong> Having a native speaker assist is invaluable</li>
+                    </ul>
+                </div>
+                
+                <h3>Taxes</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Progressive rates; annual declarations required</li>
+                    <li><strong>Employer withholding:</strong> Taxes deducted from salary but annual declaration still needed</li>
+                    <li><strong>Tax residence:</strong> Established by spending more than 183 days/year in country</li>
+                    <li><strong>Deductions:</strong> Vary by country - healthcare, education, mortgage interest, etc.</li>
+                    <li><strong>Help available:</strong> Tax advisors (commercialisti in Italy, gestores in Spain) assist with filings</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; non-EU must exchange within 6-12 months</li>
+                    <li><strong>Vehicle registration:</strong> Complex process if importing car</li>
+                    <li><strong>Insurance mandatory:</strong> At minimum third-party liability</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Join expat forums for your city. Others share current process updates, recommended officials, and navigate bureaucracy together. Crowd-sourced knowledge is gold!
+                </div>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Mediterranean 📚",
+            content: `
+                <h3>Education Philosophy</h3>
+                <p>Mediterranean education systems emphasize academic knowledge, respect for teachers, and traditional learning methods. Systems are centralized with national curricula, though regional variations exist. Education is free and compulsory through secondary level.</p>
+                
+                <h3>School System Structure</h3>
+                
+                <h4>Early Childhood (3-6 years):</h4>
+                <ul>
+                    <li><strong>France:</strong> École maternelle (preschool) - free, optional but nearly universal attendance</li>
+                    <li><strong>Italy:</strong> Scuola dell'infanzia - optional but widely attended</li>
+                    <li><strong>Spain:</strong> Educación infantil - optional; public, private, and concertado (semi-private) options</li>
+                    <li><strong>Portugal:</strong> Educação pré-escolar - free and optional</li>
+                    <li>Focus on socialization, play-based learning, and school readiness</li>
+                </ul>
+                
+                <h4>Primary School (6-11/12 years):</h4>
+                <ul>
+                    <li><strong>Compulsory and free:</strong> All countries provide free primary education</li>
+                    <li><strong>France:</strong> École élémentaire (5 years, ages 6-11)</li>
+                    <li><strong>Italy:</strong> Scuola primaria (5 years, ages 6-11)</li>
+                    <li><strong>Spain:</strong> Educación primaria (6 years, ages 6-12)</li>
+                    <li><strong>Portugal:</strong> Ensino básico (1º ciclo: 4 years)</li>
+                    <li>Academic focus begins early; reading, writing, math, and general knowledge</li>
+                </ul>
+                
+                <h4>Secondary School (12-18 years):</h4>
+                <ul>
+                    <li><strong>Lower secondary:</strong> Collège (France), scuola media (Italy), ESO (Spain), 2º & 3º ciclos (Portugal)</li>
+                    <li><strong>Upper secondary:</strong> Lycée (France), scuola superiore (Italy), Bachillerato (Spain), Secundário (Portugal)</li>
+                    <li><strong>Academic or vocational tracks:</strong> Students choose paths around age 14-16</li>
+                    <li><strong>National exams:</strong> Baccalauréat (France), Esame di Stato (Italy), Selectividad (Spain) determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li><strong>Respect for teachers:</strong> Authority figures; vouvoyer/lei/usted used</li>
+                        <li><strong>Formal environment:</strong> More structured than Northern European schools</li>
+                        <li><strong>Homework substantial:</strong> Expect significant homework from primary school onward</li>
+                        <li><strong>Lunch breaks:</strong> Often 1.5-2 hours; students may go home (especially in Spain)</li>
+                        <li><strong>No uniforms:</strong> Generally not required in public schools</li>
+                        <li><strong>Repetition possible:</strong> Students may repeat grades if performance insufficient</li>
+                    </ul>
+                </div>
+                
+                <h3>School Schedule</h3>
+                <h4>France:</h4>
+                <ul>
+                    <li>Monday-Friday, typically 8:30 AM - 4:30 PM</li>
+                    <li>Wednesday afternoons often free (varies)</li>
+                    <li>Long lunch break (1.5-2 hours); canteen or home</li>
+                </ul>
+                
+                <h4>Italy:</h4>
+                <ul>
+                    <li>Varies: 8:00 AM - 1:00/1:30 PM (morning only) OR full day with lunch</li>
+                    <li>Saturday mornings sometimes included</li>
+                </ul>
+                
+                <h4>Spain:</h4>
+                <ul>
+                    <li>Two shifts common: 9 AM - 2 PM (mornings) or 9 AM - 5 PM (with lunch break)</li>
+                    <li>Lunch 2-4 PM (main meal of day)</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public (scuola pubblica/école publique):</strong> Free, secular, follows national curriculum</li>
+                    <li><strong>Private (privé/privato):</strong> Tuition fees; often religious; can offer different curricula</li>
+                    <li><strong>Spain's "concertado":</strong> Semi-private schools - state-funded but privately run</li>
+                    <li><strong>International schools:</strong> Available in major cities; expensive; often teach in English</li>
+                </ul>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Free or low-cost:</strong> Public universities charge minimal fees (€170-€600/year typically)</li>
+                    <li><strong>Competitive entrance:</strong> Based on secondary school exam results</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system (Bachelor 3 years, Master 2 years, Doctorate 3+ years)</li>
+                    <li><strong>Grandes Écoles (France):</strong> Elite institutions separate from university system; highly competitive</li>
+                    <li><strong>Teaching style:</strong> Lecture-based; less interactive than Anglo systems; independent study expected</li>
+                    <li><strong>Language:</strong> Most undergraduate programs in national language; some English-taught masters</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (conseils de classe) twice yearly</li>
+                    <li>Carnet de liaison/diario (communication notebook) between school and parents</li>
+                    <li>Parents less involved in classroom compared to some countries</li>
+                    <li>School councils include parent representatives</li>
+                </ul>
+                
+                <h3>Support for Foreign Students</h3>
+                <ul>
+                    <li><strong>Language support:</strong> FLE classes (French), italiano L2 (Italy), Spanish as second language</li>
+                    <li><strong>Integration programs:</strong> Vary by school and region</li>
+                    <li><strong>Credential evaluation:</strong> Foreign qualifications assessed for appropriate grade placement</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> July-August (2 months)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Spring:</strong> 2 weeks (Easter/Pâques/Pasqua)</li>
+                    <li><strong>Additional breaks:</strong> Toussaint (All Saints), Carnival (varies)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> School supplies (fournitures scolaires) are specified by teachers at start of year. Lists can be extensive - specific notebook types, colors, etc. Budget for this and shop early!
+                </div>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Mediterranean 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Mediterranean is historically Catholic/Christian, and religious heritage deeply influences culture, holidays, and architecture. However, secularization varies: France is highly secular (laïcité), while Italy remains culturally Catholic. Religious diversity is growing.</p>
+                
+                <h3>Predominant Faith: Catholicism</h3>
+                <ul>
+                    <li><strong>Italy:</strong> Historically the heart of Catholicism; Vatican City in Rome</li>
+                    <li><strong>Cultural influence strong:</strong> Even non-practicing Italians often identify as Catholic</li>
+                    <li><strong>Church attendance declining:</strong> Particularly among youth, except for holidays and lifecycle events</li>
+                    <li><strong>Spain and Portugal:</strong> Similar patterns - historically Catholic, increasingly secular</li>
+                    <li><strong>France:</strong> Historically Catholic but strictly secular state (laïcité) since 1905</li>
+                </ul>
+                
+                <h3>France: Laïcité (Secularism)</h3>
+                <p>France practices strict separation of church and state:</p>
+                <ul>
+                    <li><strong>Laïcité principle:</strong> Religion is private matter; state institutions are secular</li>
+                    <li><strong>Public schools secular:</strong> No religious instruction or symbols (including for students)</li>
+                    <li><strong>Headscarf debate:</strong> Religious headcoverings banned in schools; full face veils banned in public</li>
+                    <li><strong>Religion rarely discussed:</strong> Considered private; inappropriate in professional/public contexts</li>
+                    <li><strong>Church attendance low:</strong> Only ~5% attend mass regularly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Laïcité Expectations:</strong> In France particularly, keep religious practice private. Proselytizing is inappropriate. Public displays of religiosity (wearing prominent religious symbols, public prayer) can face social disapproval. Religion and politics are strictly separated.
+                </div>
+                
+                <h3>Religious Diversity</h3>
+                <ul>
+                    <li><strong>Islam:</strong> Second largest religion in France, Spain; growing in Italy and Portugal</li>
+                    <li><strong>Judaism:</strong> Significant communities especially in France</li>
+                    <li><strong>Protestantism:</strong> Minority but present, especially in France</li>
+                    <li><strong>Orthodoxy:</strong> Growing with immigration from Eastern Europe</li>
+                    <li><strong>Buddhism, Hinduism:</strong> Smaller communities in urban areas</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among young people</li>
+                </ul>
+                
+                <h3>Religious Freedom and Practice</h3>
+                <ul>
+                    <li><strong>Freedom guaranteed:</strong> You can practice any faith or none</li>
+                    <li><strong>Places of worship:</strong> Churches ubiquitous; mosques in cities; synagogues in larger communities</li>
+                    <li><strong>Halal/Kosher:</strong> Increasingly available in cities; less so in rural areas</li>
+                    <li><strong>Religious clothing:</strong> Generally acceptable except where secular laws apply (French schools, public service)</li>
+                </ul>
+                
+                <h3>Catholic Cultural Heritage</h3>
+                <p>Even in secular contexts, Catholic traditions influence culture:</p>
+                <ul>
+                    <li><strong>Public holidays:</strong> Christmas, Easter, Assumption (Aug 15), All Saints (Nov 1) are national holidays</li>
+                    <li><strong>First Communion:</strong> Still celebrated as major family event even by non-practicing families</li>
+                    <li><strong>Church weddings:</strong> Traditional even for non-religious couples</li>
+                    <li><strong>Saints' days:</strong> Some people celebrate name days (especially in Catholic regions)</li>
+                    <li><strong>Churches as landmarks:</strong> Central to towns; visiting them is cultural tourism</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Visiting Churches:</strong> Even if not religious, visit churches as cultural sites. Dress modestly (cover shoulders and knees), remove hats, keep voices low. No photos during services. Free entry but donations appreciated.
+                </div>
+                
+                <h3>Religious Holidays and Observances</h3>
+                <ul>
+                    <li><strong>Christmas (Noël/Natale):</strong> Major holiday; religious services + secular celebrations</li>
+                    <li><strong>Easter (Pâques/Pasqua):</strong> Holy Week important in Spain and Italy; processions common</li>
+                    <li><strong>Assumption:</strong> August 15 - major holiday, especially Italy</li>
+                    <li><strong>All Saints' Day:</strong> November 1 - visiting family graves traditional</li>
+                    <li><strong>Local saint festivals:</strong> Patron saints celebrated regionally (e.g., San Fermín in Pamplona)</li>
+                </ul>
+                
+                <h3>Muslim Community</h3>
+                <ul>
+                    <li>Mosques available in cities</li>
+                    <li>Friday prayer accommodations vary by employer</li>
+                    <li>Ramadan: fasting respected but not publicly accommodated (no adjusted work hours typically)</li>
+                    <li>Halal food: increasingly available in supermarkets and restaurants</li>
+                    <li>Hijab: legal in most contexts (except French schools/some public service)</li>
+                </ul>
+                
+                <h3>Jewish Community</h3>
+                <ul>
+                    <li>Synagogues in major cities (especially France - largest Jewish population in Western Europe)</li>
+                    <li>Kosher food available in Jewish neighborhoods</li>
+                    <li>Some public awareness of Jewish holidays</li>
+                    <li>Security presence at synagogues due to past attacks</li>
+                </ul>
+                
+                <h3>Workplace and School</h3>
+                <ul>
+                    <li><strong>Religious holidays:</strong> Christian holidays are public; others may request leave</li>
+                    <li><strong>Accommodations:</strong> Vary by employer; legal protections exist against discrimination</li>
+                    <li><strong>Prayer space:</strong> Not typically provided except in some large companies</li>
+                    <li><strong>Food:</strong> Company cafeterias may offer vegetarian but rarely halal/kosher options</li>
+                    <li><strong>School:</strong> Public schools secular (especially France); religious education at home or through community</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Social Sensitivity:</strong> Mediterranean societies have complex relationships with religion. Historical Catholicism meets modern secularism meets growing diversity. Be respectful of all faiths but understand that strong religious expression, especially evangelical or fundamentalist, can make people uncomfortable. Moderate, private practice is the social norm.
+                </div>
+                
+                <h3>Finding Community</h3>
+                <ul>
+                    <li>Search online for places of worship in your area</li>
+                    <li>Religious communities often provide social networks and support</li>
+                    <li>Cultural centers may be linked to religious communities</li>
+                    <li>International churches often conduct services in English</li>
+                </ul>
+            `
         }
     },
     scandinavia: {
@@ -4779,6 +5484,492 @@ const culturalData = {
                     <li>Consular protection worldwide</li>
                 </ul>
             `
+        },
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in Scandinavia 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Scandinavian society is characterized by strong egalitarianism, respect for personal space, and the philosophy of "lagom" (not too much, not too little). Social equality is deeply valued across all aspects of life.</p>
+                
+                <h3>Greetings and Personal Space</h3>
+                <ul>
+                    <li>Handshakes are standard for first meetings and business contexts</li>
+                    <li>"Hej" is the common informal greeting in Sweden; "Hei" in Norway</li>
+                    <li>Personal space is important - maintain distance when conversing</li>
+                    <li>Hugs are reserved for close friends and family</li>
+                    <li>Small talk is less common than in other cultures - silence is comfortable</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Scandinavians may seem reserved at first, but once you build trust, friendships are genuine and lasting. Don't mistake quietness for unfriendliness!
+                </div>
+                
+                <h3>Gender Equality</h3>
+                <p>Gender equality (jämställdhet) is fundamental. Both partners typically work, share household duties equally, and have generous parental leave. Making assumptions based on gender is inappropriate.</p>
+                
+                <h3>Family Values</h3>
+                <ul>
+                    <li>Nuclear families are common; extended family ties exist but are less central than in Southern Europe</li>
+                    <li>Children are raised with independence and autonomy</li>
+                    <li>Shared parental leave is standard - fathers actively participate in childcare</li>
+                    <li>Work-life balance is prioritized for all family members</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> "Fika" (Swedish coffee break) is a crucial social institution. It's time for genuine connection and equality - everyone participates, regardless of position.
+                </div>
+                
+                <h3>The Law of Jante (Jantelagen)</h3>
+                <p>An unwritten social code emphasizing modesty and community over individual achievement. Don't boast about accomplishments or wealth - understatement is valued. Success is celebrated quietly.</p>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in Scandinavia 🤝",
+            content: `
+                <h3>Public Behavior and Social Norms</h3>
+                <p>Scandinavian public spaces are characterized by respect for others, environmental consciousness, and adherence to social rules. Order and consideration for the collective good are paramount.</p>
+                
+                <h3>Key Public Etiquette</h3>
+                <ul>
+                    <li><strong>Queuing:</strong> Always respect queues. Take a number when available (especially in service contexts)</li>
+                    <li><strong>Public transport:</strong> Give up seats for elderly, pregnant, or disabled passengers. Keep voices low. Remove backpacks in crowded spaces</li>
+                    <li><strong>Quiet hours:</strong> Respect silence, especially after 10 PM on weekdays and 11 PM on weekends</li>
+                    <li><strong>Environmental responsibility:</strong> Recycling is mandatory. Sort waste correctly (paper, plastic, glass, metal, food waste)</li>
+                    <li><strong>Outdoor spaces:</strong> Follow "Allemansrätten" (right to roam) - you can access nature freely but must respect private property and leave no trace</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Legal Requirements:</strong> Registration with authorities is mandatory within specified timeframes (varies by country). Obtain personal identity numbers (personnummer in Sweden, personnummer in Norway, CPR in Denmark) for accessing services.
+                </div>
+                
+                <h3>Neighborhood Relations</h3>
+                <ul>
+                    <li>Minimal noise after 10 PM is expected and enforced</li>
+                    <li>Keep common areas tidy in apartment buildings</li>
+                    <li>Respect laundry room schedules if applicable</li>
+                    <li>Snow removal is often a shared responsibility - check local regulations</li>
+                </ul>
+                
+                <h3>Environmental Consciousness</h3>
+                <p>Scandinavia leads in environmental protection. Expect:</p>
+                <ul>
+                    <li>Comprehensive recycling systems with multiple categories</li>
+                    <li>Deposit systems for bottles and cans (pant)</li>
+                    <li>Strong cycling culture - bike lanes are protected</li>
+                    <li>Plastic bag fees and sustainable packaging initiatives</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Embrace the outdoor lifestyle. Scandinavians believe "there's no bad weather, only bad clothing." Invest in proper gear for year-round outdoor activities.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in Scandinavia 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Scandinavian communication is characterized by understatement, consensus-seeking, and respect for silence. Direct honesty is valued, but delivered without confrontation.</p>
+                
+                <h3>Key Communication Principles</h3>
+                <ul>
+                    <li><strong>Silence is golden:</strong> Comfortable pauses in conversation are normal. Don't feel pressured to fill silences</li>
+                    <li><strong>Understatement:</strong> Avoid exaggeration or overly enthusiastic language</li>
+                    <li><strong>Directness with tact:</strong> Honest feedback is given but wrapped in constructive language</li>
+                    <li><strong>Consensus:</strong> Group agreement is sought through discussion, not top-down decisions</li>
+                    <li><strong>Flat hierarchies:</strong> First-name basis is standard, even with bosses and professors</li>
+                </ul>
+                
+                <h3>Conversation Topics</h3>
+                <div class="tip">
+                    <strong>Good Topics:</strong>
+                    <ul>
+                        <li>Nature, hiking, outdoor activities</li>
+                        <li>Seasonal changes and weather (important cultural topic)</li>
+                        <li>Sustainable living and environmental issues</li>
+                        <li>Travel experiences</li>
+                        <li>Sports (cross-country skiing, ice hockey, football)</li>
+                        <li>Work-life balance</li>
+                    </ul>
+                </div>
+                
+                <div class="warning">
+                    <strong>Topics to Approach Carefully:</strong>
+                    <ul>
+                        <li>Personal finances or income (very private)</li>
+                        <li>Religion (mostly secular societies)</li>
+                        <li>Excessive self-promotion (violates Jantelagen)</li>
+                        <li>Comparing Scandinavian countries unfavorably to each other</li>
+                    </ul>
+                </div>
+                
+                <h3>Workplace Communication</h3>
+                <ul>
+                    <li>Flat organizational structures with minimal hierarchy</li>
+                    <li>Everyone's opinion is valued regardless of position</li>
+                    <li>Meetings focus on consensus-building</li>
+                    <li>Email communication is direct and concise</li>
+                    <li>Punctuality is essential - being late is disrespectful</li>
+                </ul>
+                
+                <h3>Digital Communication</h3>
+                <p>Scandinavia is highly digitized. Most communication with authorities, banks, and services happens online. Learn to use BankID (Sweden/Norway) or NemID (Denmark) for secure digital identification.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💼 Module 4: Economic Integration in Scandinavia 💰",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Scandinavian work culture emphasizes work-life balance, flat hierarchies, and collective decision-making. Long hours are uncommon and often frowned upon as poor planning.</p>
+                
+                <h3>Key Workplace Values</h3>
+                <ul>
+                    <li><strong>Work-life balance:</strong> Working beyond contracted hours is unusual. Family time is prioritized</li>
+                    <li><strong>Flat hierarchies:</strong> Managers are facilitators, not commanders. First names used at all levels</li>
+                    <li><strong>Consensus culture:</strong> Decisions made through group discussion (can seem slow initially)</li>
+                    <li><strong>Autonomy:</strong> Employees trusted to manage their own time and tasks</li>
+                    <li><strong>Equality:</strong> Gender pay gaps are smaller than most countries; parental leave is shared</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Punctuality is crucial. Arriving on time shows respect for others. Meeting schedules are strictly followed, and meetings often end precisely on time.
+                </div>
+                
+                <h3>Employment Benefits</h3>
+                <ul>
+                    <li>Generous vacation time (typically 5 weeks minimum)</li>
+                    <li>Shared parental leave (Sweden: 480 days total; Norway: 49-59 weeks)</li>
+                    <li>Comprehensive social safety net</li>
+                    <li>Strong trade unions protecting worker rights</li>
+                    <li>Sick leave without loss of pay</li>
+                </ul>
+                
+                <h3>Finding Employment</h3>
+                <ul>
+                    <li>Job boards: Arbetsförmedlingen (Sweden), NAV (Norway), Jobindex (Denmark)</li>
+                    <li>Networking is important but done subtly</li>
+                    <li>Language skills: English widely spoken in many sectors, but local language needed for most jobs</li>
+                    <li>Credential recognition may be required for regulated professions</li>
+                </ul>
+                
+                <h3>Taxation and Social Services</h3>
+                <p>High taxes (40-60% for higher earners) fund comprehensive social services:</p>
+                <ul>
+                    <li>Universal healthcare</li>
+                    <li>Free education (including university)</li>
+                    <li>Subsidized childcare</li>
+                    <li>Pension system</li>
+                    <li>Unemployment insurance</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Join a trade union (fackförbund in Sweden, fagforening in Norway/Denmark). They provide unemployment insurance, legal support, and salary negotiation assistance.
+                </div>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in Scandinavia 💊",
+            content: `
+                <h3>Universal Healthcare System</h3>
+                <p>Scandinavia provides universal healthcare funded through taxation. Quality is high, but systems differ by country. Registration and obtaining a personal identity number is essential for access.</p>
+                
+                <h3>Primary Care</h3>
+                <h4>In Sweden:</h4>
+                <ul>
+                    <li><strong>Vårdcentral (health center):</strong> Your first point of contact for non-emergency care</li>
+                    <li><strong>Registration:</strong> Register with a local vårdcentral after obtaining personnummer</li>
+                    <li><strong>1177 Vårdguiden:</strong> Call 1177 for medical advice and to book appointments</li>
+                    <li><strong>Costs:</strong> Small patient fees (around 100-300 SEK per visit); free for children under 18</li>
+                    <li><strong>High-cost protection:</strong> Annual cap on healthcare costs (around 1,200 SEK)</li>
+                </ul>
+                
+                <h4>In Norway:</h4>
+                <ul>
+                    <li><strong>Fastlege (GP):</strong> You're assigned a GP or can choose one</li>
+                    <li><strong>Patient fees:</strong> Around 200 NOK per visit</li>
+                    <li><strong>Frikort:</strong> Free card issued when you reach annual cap (around 2,500 NOK)</li>
+                    <li><strong>Helsenorge.no:</strong> Online portal for booking appointments and accessing health records</li>
+                </ul>
+                
+                <h4>In Denmark:</h4>
+                <ul>
+                    <li><strong>Doctor choice:</strong> Choose between Group 1 (assigned GP, free) or Group 2 (any GP, partial payment)</li>
+                    <li><strong>Most services free</strong> for Group 1 patients</li>
+                    <li><strong>sundhed.dk:</strong> National health portal for appointments and information</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Emergency Care:</strong>
+                    <ul>
+                        <li><strong>Emergency number: 112</strong> (same across Scandinavia)</li>
+                        <li><strong>Medical advice lines:</strong> 1177 (Sweden), 116117 (Norway), 1813 (Copenhagen)</li>
+                        <li><strong>Emergency rooms (akutmottagning/legevakt):</strong> For urgent but not life-threatening issues</li>
+                    </ul>
+                </div>
+                
+                <h3>Prescriptions and Pharmacies</h3>
+                <ul>
+                    <li><strong>E-prescriptions:</strong> Sent electronically to pharmacy of your choice</li>
+                    <li><strong>Pharmacy (apotek):</strong> Only pharmacies can sell prescription medicines; some over-the-counter items available in grocery stores</li>
+                    <li><strong>Costs:</strong> Prescription fees apply but have annual caps</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may substitute cheaper generic versions</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <p><strong>Not free for adults</strong> - dental care is private and can be expensive. Consider dental insurance. Children receive free dental care up to age 18-20 (varies by country).</p>
+                
+                <h3>Mental Health Services</h3>
+                <ul>
+                    <li>Accessible through GP referral</li>
+                    <li>Some waiting times for specialist care</li>
+                    <li>Employee assistance programs common through employers</li>
+                    <li>Crisis lines available 24/7</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Scandinavian healthcare emphasizes prevention. Annual health checks, vaccination programs, and screenings are encouraged and often free.
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Scandinavia 📋",
+            content: `
+                <h3>Digital-First Bureaucracy</h3>
+                <p>Scandinavia leads in digital governance. Most interactions with authorities happen online using secure digital ID systems. Embrace digital services - they're efficient and required.</p>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Upon Arrival:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Within specified timeframe (varies: 1 week in Sweden, 8 days in Norway)</li>
+                    <li><strong>Obtain personal ID number:</strong>
+                        <ul>
+                            <li>Sweden: Personnummer from Skatteverket (Tax Agency)</li>
+                            <li>Norway: Fødselsnummer/D-nummer from Skatteetaten</li>
+                            <li>Denmark: CPR-nummer from Borgerservice</li>
+                        </ul>
+                    </li>
+                    <li><strong>Set up digital ID:</strong> BankID (Sweden/Norway) or NemID/MitID (Denmark)</li>
+                    <li><strong>Register for tax:</strong> Automatic with residence registration</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Personal ID Number is Essential:</strong> You need this for nearly everything - banking, healthcare, employment, phone contracts, apartment rentals. Prioritize obtaining it immediately.
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Bank account:</strong> Needed for salary and bills. Requires personal ID number</li>
+                    <li><strong>BankID/NemID:</strong> Used for all online transactions and government services</li>
+                    <li><strong>Major banks:</strong> Swedbank, Handelsbanken, Nordea (Sweden); DNB (Norway); Danske Bank (Denmark)</li>
+                    <li><strong>Cashless society:</strong> Most places don't accept cash - cards and mobile payments dominate</li>
+                </ul>
+                
+                <h3>Housing Registration</h3>
+                <ul>
+                    <li>Register your address with population registry</li>
+                    <li>Notify authorities within days of moving</li>
+                    <li>Landlords report rentals to authorities</li>
+                    <li>Housing contracts are legally binding - read carefully</li>
+                </ul>
+                
+                <h3>Tax System</h3>
+                <p>Transparent and largely automatic:</p>
+                <ul>
+                    <li><strong>Automatic tax deduction:</strong> Employers deduct taxes from salary</li>
+                    <li><strong>Tax returns:</strong> Pre-filled; review and approve online</li>
+                    <li><strong>Tax rates:</strong> Progressive, ranging 30-60% depending on income</li>
+                    <li><strong>Tax benefits:</strong> Deductions for commuting, union fees, pension contributions</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Digital Services:</strong>
+                    <ul>
+                        <li>Sweden: Skatteverket.se, Försäkringskassan.se, 1177.se</li>
+                        <li>Norway: Skatteetaten.no, NAV.no, Helsenorge.no</li>
+                        <li>Denmark: Skat.dk, Borger.dk, Sundhed.dk</li>
+                    </ul>
+                </div>
+                
+                <h3>Driving and Transportation</h3>
+                <ul>
+                    <li><strong>Driver's license:</strong> EU licenses valid; others must exchange within 1 year</li>
+                    <li><strong>Vehicle registration:</strong> Register with transport authority if bringing a car</li>
+                    <li><strong>Public transport:</strong> Extensive and efficient; monthly passes available</li>
+                </ul>
+                
+                <h3>Unemployment and Social Insurance</h3>
+                <ul>
+                    <li>Sweden: Arbetsförmedlingen (employment office), A-kassa (unemployment insurance through unions)</li>
+                    <li>Norway: NAV (comprehensive social services)</li>
+                    <li>Denmark: Jobcenter and A-kasse</li>
+                </ul>
+                
+                <h3>Language Services</h3>
+                <ul>
+                    <li>Free Swedish/Norwegian/Danish classes (SFI/language schools)</li>
+                    <li>Integration programs for newcomers</li>
+                    <li>Many services available in English, but learning the local language is essential for integration</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Scandinavia 📚",
+            content: `
+                <h3>Education Philosophy</h3>
+                <p>Scandinavian education emphasizes equality, critical thinking, and student well-being over competition. Education is free from preschool through university, funded by taxes.</p>
+                
+                <h3>School System Structure</h3>
+                
+                <h4>Early Childhood Education (1-6 years):</h4>
+                <ul>
+                    <li><strong>Förskola/barnehage (preschool):</strong> Available from age 1; heavily subsidized</li>
+                    <li><strong>Play-based learning:</strong> Focus on social skills, outdoor play, and development</li>
+                    <li><strong>Costs:</strong> Income-based fees with maximum caps (e.g., 1,500 SEK/month in Sweden)</li>
+                    <li><strong>Guaranteed spots:</strong> Right to childcare within reasonable timeframe</li>
+                </ul>
+                
+                <h4>Primary School (6-16 years):</h4>
+                <ul>
+                    <li><strong>Grundskola/barneskole (compulsory education):</strong> 9-10 years, starting age 6-7</li>
+                    <li><strong>Free of charge:</strong> Tuition, meals, books, and materials provided</li>
+                    <li><strong>Curriculum:</strong> Broad subjects including mother tongue support for immigrant children</li>
+                    <li><strong>No standardized testing:</strong> Assessment is continuous and holistic (though varies by country)</li>
+                    <li><strong>Homework:</strong> Minimal compared to other countries; emphasis on work-life balance</li>
+                </ul>
+                
+                <h4>Upper Secondary School (16-19 years):</h4>
+                <ul>
+                    <li><strong>Gymnasium/videregående skole:</strong> Optional but 90%+ attend</li>
+                    <li><strong>Academic or vocational tracks:</strong> Both respected equally</li>
+                    <li><strong>Free education:</strong> Tuition-free with study grants available</li>
+                    <li><strong>Grades matter:</strong> Determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li>First-name basis with teachers (reflects egalitarian values)</li>
+                        <li>Student autonomy and responsibility emphasized</li>
+                        <li>Outdoor education in all weather conditions</li>
+                        <li>No school uniforms</li>
+                        <li>Anti-bullying programs standard</li>
+                    </ul>
+                </div>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Tuition-free:</strong> For EU/EEA citizens; fees for non-EU (varies by country)</li>
+                    <li><strong>Application:</strong> Centralized systems (antagning.se in Sweden)</li>
+                    <li><strong>Study grants:</strong> CSN (Sweden), Lånekassen (Norway) provide grants and loans</li>
+                    <li><strong>Teaching style:</strong> Independent study, critical thinking, group work</li>
+                    <li><strong>English-taught programs:</strong> Many master's programs offered in English</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (utvecklingssamtal) twice yearly</li>
+                    <li>Parents expected to engage but not hover</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Communication through digital platforms (Skolplattformen, etc.)</li>
+                </ul>
+                
+                <h3>Special Education and Support</h3>
+                <ul>
+                    <li>Inclusive education - children with special needs integrated when possible</li>
+                    <li>Extra support (särskilt stöd) available for those who need it</li>
+                    <li>Language support for immigrant children (mother tongue instruction)</li>
+                    <li>School health services (nurse, counselor, psychologist)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Schools emphasize outdoor time in all weather. Invest in proper clothing for your children - layers, waterproofs, and warm winter gear are essential.
+                </div>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li>Long summer break (June-August)</li>
+                    <li>Christmas break (2-3 weeks)</li>
+                    <li>Winter break (February/March - sportlov/vinterferie)</li>
+                    <li>Shorter autumn and spring breaks</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Scandinavia 🤝",
+            content: `
+                <h3>Secular Society</h3>
+                <p>Scandinavia is among the most secular regions in the world. While historically Lutheran Christian, most Scandinavians are non-practicing or non-religious. Religion is considered a private matter.</p>
+                
+                <h3>Religious Landscape</h3>
+                <ul>
+                    <li><strong>Historically Lutheran:</strong> State churches (Church of Sweden, Church of Norway, Church of Denmark) still exist but separated from state (Sweden 2000, Norway 2012)</li>
+                    <li><strong>Low church attendance:</strong> Only 2-5% attend services regularly</li>
+                    <li><strong>Cultural Christianity:</strong> Many maintain membership for baptisms, weddings, and funerals but are not religiously active</li>
+                    <li><strong>Growing diversity:</strong> Muslim communities (especially in urban areas), Catholic, Orthodox, and other faiths represented</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Religious Freedom:</strong> Complete freedom of religion guaranteed by law. You can practice any faith, wear religious symbols, and establish places of worship. Discrimination based on religion is illegal.
+                </div>
+                
+                <h3>Church Tax</h3>
+                <ul>
+                    <li>Members of state churches pay church tax (around 1% of income)</li>
+                    <li>You can opt out by leaving the church (uttrade/utmelding)</li>
+                    <li>Process is simple - online or written request</li>
+                    <li>Doesn't affect access to church ceremonies if you want them later</li>
+                </ul>
+                
+                <h3>Religious Observance in Daily Life</h3>
+                <ul>
+                    <li><strong>Christian holidays:</strong> Public holidays include Christmas, Easter, Pentecost - observed as cultural traditions more than religious ones</li>
+                    <li><strong>Christmas (Jul):</strong> Major cultural celebration focused on family, food, and traditions</li>
+                    <li><strong>Midsummer:</strong> Pre-Christian celebration, now secular festival</li>
+                    <li><strong>Lucia (Dec 13):</strong> Swedish tradition with both Christian and pagan roots</li>
+                </ul>
+                
+                <h3>Muslim Community</h3>
+                <ul>
+                    <li>Mosques available in major cities</li>
+                    <li>Halal food increasingly available in supermarkets</li>
+                    <li>Some accommodations for prayer times in workplaces (varies)</li>
+                    <li>Islamic schools and organizations active</li>
+                </ul>
+                
+                <h3>Workplace and School</h3>
+                <ul>
+                    <li><strong>Religious holidays:</strong> Can request time off for non-Christian religious holidays; employers should accommodate when possible</li>
+                    <li><strong>Religious clothing:</strong> Generally accepted, though face-covering bans exist in some contexts (varies by country and situation)</li>
+                    <li><strong>School:</strong> Religious education is comparative (learning about all religions), not confessional</li>
+                    <li><strong>Food:</strong> Halal/kosher options increasingly available but not guaranteed in all settings</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Social Attitudes:</strong>
+                    <ul>
+                        <li>Strong secularism means religion rarely discussed in social or professional settings</li>
+                        <li>Proselytizing considered inappropriate</li>
+                        <li>Religious beliefs expected to be private</li>
+                        <li>LGBTQ+ rights strongly supported - religious objections to same-sex relationships may face social disapproval</li>
+                        <li>Gender equality fundamental - religious practices perceived as restricting women's autonomy may face criticism</li>
+                    </ul>
+                </div>
+                
+                <h3>Integration and Religion</h3>
+                <p>Scandinavia values integration over multiculturalism in some aspects. You're free to practice your religion, but expected to accept core societal values: gender equality, LGBTQ+ rights, secular governance, and children's rights.</p>
+                
+                <h3>Finding Religious Communities</h3>
+                <ul>
+                    <li>Online directories for mosques, synagogues, churches, temples</li>
+                    <li>Cultural associations often linked to religious communities</li>
+                    <li>University student organizations for various faiths</li>
+                    <li>Social media groups connecting believers</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If your faith is important to you, seek out communities early. They provide social networks and cultural connections, especially valuable during dark winter months.
+                </div>
+            `
         }
     },
     balkans: {
@@ -4922,6 +6113,447 @@ const culturalData = {
                     <li>Neighborhood and community ties are strong</li>
                     <li>Religious communities play significant social roles</li>
                     <li>Volunteering through religious or community organizations is common</li>
+                </ul>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Balkans 💊",
+            content: `
+                <h3>Healthcare Overview</h3>
+                <p>Balkan healthcare systems vary significantly by country but share common challenges: mix of public and private care, infrastructure gaps, and reliance on personal connections. EU member states (Croatia, Slovenia) have more integrated systems.</p>
+                
+                <h3>Public Healthcare Access</h3>
+                <ul>
+                    <li><strong>Mandatory health insurance:</strong> Registration required for residents and workers</li>
+                    <li><strong>Health cards:</strong> Issued upon registration with health insurance authority</li>
+                    <li><strong>Primary care centers:</strong> Dom zdravlja (health centers) provide basic services</li>
+                    <li><strong>Specialist referrals:</strong> GP referral typically required for specialist visits</li>
+                    <li><strong>Hospital care:</strong> Public hospitals provide inpatient and emergency services</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Public healthcare can be underfunded with long wait times, especially for non-emergency procedures. Many residents supplement with private care or travel abroad for major treatments.
+                </div>
+                
+                <h3>Country-Specific Systems</h3>
+                
+                <h4>Serbia:</h4>
+                <ul>
+                    <li>Register with RFZO (Republican Health Insurance Fund)</li>
+                    <li>Health booklet (zdravstvena knjižica) required</li>
+                    <li>Co-payments for some services</li>
+                    <li>Private clinics widely used for faster service</li>
+                </ul>
+                
+                <h4>Croatia (EU):</h4>
+                <ul>
+                    <li>HZZO (Croatian Health Insurance Institute) administers system</li>
+                    <li>EU health insurance card valid for EU citizens</li>
+                    <li>Better integrated with EU healthcare standards</li>
+                    <li>Mix of public and private providers</li>
+                </ul>
+                
+                <h4>Bosnia and Herzegovina:</h4>
+                <ul>
+                    <li>Complex system divided by entities (Federation and Republika Srpska)</li>
+                    <li>Health insurance through employment or separate registration</li>
+                    <li>Limited resources in public system</li>
+                </ul>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li><strong>Widely used:</strong> Many use private clinics alongside public system</li>
+                    <li><strong>Costs moderate:</strong> More affordable than Western Europe</li>
+                    <li><strong>Faster service:</strong> Shorter wait times and often better facilities</li>
+                    <li><strong>Specialists accessible:</strong> Direct access without referrals</li>
+                    <li><strong>Medical tourism:</strong> Some Balkans countries (Serbia) attract medical tourists for dental, cosmetic procedures</li>
+                </ul>
+                
+                <h3>Emergency Care</h3>
+                <ul>
+                    <li><strong>Emergency number: 194</strong> (ambulance in Serbia); 112 works across most countries</li>
+                    <li><strong>Hitna pomoć:</strong> Emergency departments at hospitals</li>
+                    <li><strong>24-hour pharmacies:</strong> Available in larger cities (dežurna apoteka)</li>
+                </ul>
+                
+                <h3>Pharmacies</h3>
+                <ul>
+                    <li>Prescription required for most medications</li>
+                    <li>Some antibiotics more readily available than Western Europe</li>
+                    <li>Generic medications available and affordable</li>
+                    <li>Pharmacists knowledgeable and provide advice</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Build a relationship with a trusted GP in private practice. Personal connections can facilitate access to specialists and expedite care. Having the doctor's mobile number is common and useful.
+                </div>
+                
+                <h3>Health Insurance</h3>
+                <ul>
+                    <li>Employed: Insurance through employer contributions</li>
+                    <li>Self-employed: Must register and pay independently</li>
+                    <li>Private insurance: Optional supplemental insurance available</li>
+                    <li>International insurance: Recommended for comprehensive coverage</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Balkans 📋",
+            content: `
+                <h3>Bureaucratic Reality</h3>
+                <p>Balkan bureaucracy can be complex, slow, and frustrating. Personal connections (veze/veza) often facilitate processes. Patience, persistence, and keeping all documentation organized are essential. Systems are improving but remain challenging.</p>
+                
+                <div class="important">
+                    <strong>Key Principle:</strong> In the Balkans, personal relationships often matter as much as official procedures. Having a local friend or contact to help navigate bureaucracy is invaluable. Don't hesitate to ask for help.
+                </div>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Upon Arrival:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Report to local police station within specified timeframe (typically 24-48 hours)</li>
+                    <li><strong>Temporary residence permit:</strong> Non-EU citizens apply at police/immigration office</li>
+                    <li><strong>Address registration:</strong> Must register at local municipality (opština/općina)</li>
+                    <li><strong>Personal ID number:</strong> Essential for all transactions (JMBG in Serbia, OIB in Croatia)</li>
+                </ul>
+                
+                <h3>Key Documents and Numbers</h3>
+                <ul>
+                    <li><strong>Personal identification number:</strong> Unique ID (JMBG, OIB, etc.) needed for everything</li>
+                    <li><strong>Residence permit:</strong> Temporary or permanent (boravišna dozvola)</li>
+                    <li><strong>Work permit:</strong> Required for non-EU citizens (radna dozvola)</li>
+                    <li><strong>Tax number:</strong> For employment and business (PIB in Serbia)</li>
+                </ul>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li>Proof of residence required (landlord's confirmation)</li>
+                    <li>Personal ID number essential</li>
+                    <li>Employment contract or proof of income often needed</li>
+                    <li>International banks (Raiffeisen, UniCredit) present in many Balkan countries</li>
+                    <li>Cash still widely used; have both cash and cards</li>
+                </ul>
+                
+                <h3>Documentation Tips</h3>
+                <ul>
+                    <li><strong>Certified translations:</strong> Foreign documents must be officially translated</li>
+                    <li><strong>Apostille required:</strong> For recognizing foreign official documents</li>
+                    <li><strong>Multiple copies:</strong> Always have several certified copies of important documents</li>
+                    <li><strong>Original documents:</strong> Bring originals plus copies to every office</li>
+                    <li><strong>Notarization common:</strong> Many documents require notary certification</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Bureaucratic Challenges:</strong>
+                    <ul>
+                        <li>Information inconsistent - different officials may give different answers</li>
+                        <li>Long waiting times at offices common</li>
+                        <li>Limited English in government offices</li>
+                        <li>Processes can take longer than officially stated</li>
+                        <li>Patience and multiple visits often necessary</li>
+                    </ul>
+                </div>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>Work permit:</strong> Employer typically applies on your behalf</li>
+                    <li><strong>Employment contract:</strong> Must be registered with authorities</li>
+                    <li><strong>Social security registration:</strong> Automatic through employment</li>
+                    <li><strong>Contributions:</strong> Employer and employee both contribute to pension, health, unemployment</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Withheld by employer; rates vary by country (typically 10-20%)</li>
+                    <li><strong>Social contributions:</strong> Substantial additional deductions (25-35%)</li>
+                    <li><strong>Tax residence:</strong> Determined by where you spend most of year</li>
+                    <li><strong>Annual declaration:</strong> May be required depending on income sources</li>
+                </ul>
+                
+                <h3>Property and Utilities</h3>
+                <ul>
+                    <li><strong>Rental contracts:</strong> Should be registered with tax authorities</li>
+                    <li><strong>Utilities:</strong> Often require physical payment at post office or bank (modernizing)</li>
+                    <li><strong>Property ownership:</strong> Foreigners face restrictions in some countries; research carefully</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>Driver's license:</strong> EU licenses valid; others may need to exchange or get local license</li>
+                    <li><strong>Vehicle registration:</strong> Complex if importing; local assistance recommended</li>
+                    <li><strong>Insurance mandatory:</strong> Third-party liability minimum</li>
+                    <li><strong>Annual registration:</strong> Vehicles must be re-registered annually with technical inspection</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Consider hiring an agency or lawyer for complex bureaucratic procedures (residence permits, business registration, property purchases). The cost is often worth the time and frustration saved.
+                </div>
+                
+                <h3>Corruption and "Facilitation"</h3>
+                <p>While improving, corruption persists in some areas. Be aware:</p>
+                <ul>
+                    <li>Never offer bribes - it's illegal and risky</li>
+                    <li>"Expediting fees" through official channels sometimes exist</li>
+                    <li>Personal connections (veze) can help without corruption</li>
+                    <li>Report any demands for unofficial payments to supervisors or anti-corruption agencies</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Balkans 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Balkan education systems are undergoing reform but maintain traditional structures. Education is free and compulsory through secondary level. Quality varies significantly between urban and rural areas.</p>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Pre-Primary (3-6 years):</h4>
+                <ul>
+                    <li><strong>Vrtić/Vrtec (kindergarten):</strong> Optional, some fees apply</li>
+                    <li>Limited availability, especially in rural areas</li>
+                    <li>Waitlists common in cities</li>
+                    <li>Prepare children for primary school entry</li>
+                </ul>
+                
+                <h4>Primary School (6-14/15 years):</h4>
+                <ul>
+                    <li><strong>Osnovna škola:</strong> Compulsory, free, 8-9 years</li>
+                    <li><strong>Grade 1-4:</strong> General primary education, single teacher</li>
+                    <li><strong>Grade 5-8/9:</strong> Subject-specific teachers</li>
+                    <li>Traditional teaching methods, emphasis on memorization</li>
+                    <li>Homework substantial from early grades</li>
+                </ul>
+                
+                <h4>Secondary School (14/15-18 years):</h4>
+                <ul>
+                    <li><strong>Gimnazija (general/academic track):</strong> Prepares for university</li>
+                    <li><strong>Vocational schools:</strong> Trade-specific education (3-4 years)</li>
+                    <li><strong>Entrance exams:</strong> Required for some competitive schools</li>
+                    <li><strong>Matura/Graduation exam:</strong> Final exam determines university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li>Respect for teachers (nastavnik/učitelj) is paramount</li>
+                        <li>Formal relationships between students and teachers</li>
+                        <li>Competitive academic environment</li>
+                        <li>Private tutoring very common for extra support</li>
+                        <li>Traditional values emphasized</li>
+                    </ul>
+                </div>
+                
+                <h3>School Schedule</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 1:00/2:00 PM</li>
+                    <li><strong>Shifts:</strong> Some schools run double shifts due to space constraints</li>
+                    <li><strong>Saturday:</strong> Occasionally classes on Saturday mornings</li>
+                    <li><strong>Breaks:</strong> Short recess periods; no extended lunch break</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, majority attend these</li>
+                    <li><strong>Private schools:</strong> Growing sector, tuition fees, often higher quality facilities</li>
+                    <li><strong>International schools:</strong> Available in capitals and major cities; expensive; English instruction</li>
+                    <li><strong>Religious schools:</strong> Some church-affiliated schools exist</li>
+                </ul>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Public universities:</strong> Low tuition (often minimal or free for high achievers)</li>
+                    <li><strong>Entrance exams:</strong> Competitive; matura scores crucial</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system implemented (Bachelor, Master, PhD)</li>
+                    <li><strong>Language:</strong> Primarily taught in national language; some English programs</li>
+                    <li><strong>Student life:</strong> Vibrant student culture; affordable living</li>
+                </ul>
+                
+                <h3>Academic Approach</h3>
+                <ul>
+                    <li>Lecture-based teaching dominant</li>
+                    <li>Emphasis on theoretical knowledge</li>
+                    <li>Memorization important for exams</li>
+                    <li>Less interactive than Western European classrooms</li>
+                    <li>Respect for academic hierarchy strong</li>
+                </ul>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Language barrier:</strong> Learning local language essential for public schools</li>
+                    <li><strong>Language support:</strong> Limited; varies by school</li>
+                    <li><strong>Credential recognition:</strong> Foreign qualifications assessed for grade placement</li>
+                    <li><strong>Integration:</strong> Children often integrate faster through school friendships</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Private tutoring (instrukcije/privatni časovi) is extremely common and socially accepted. If your child needs extra help or language support, hiring a tutor is normal and affordable.
+                </div>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (roditeljski sastanak) periodically</li>
+                    <li>Parents expected to monitor homework and academic progress closely</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Fundraising for school improvements common</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-August (long break)</li>
+                    <li><strong>Winter:</strong> Two weeks around Orthodox or Catholic Christmas (varies)</li>
+                    <li><strong>Spring:</strong> Easter break (1-2 weeks)</li>
+                    <li><strong>Religious holidays:</strong> Slava, Patron Saint days (regional)</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Infrastructure can be dated, especially in rural areas</li>
+                    <li>Teacher salaries low, affecting quality in some cases</li>
+                    <li>Political interference in curricula (especially history) in some countries</li>
+                    <li>Brain drain: many educated young people emigrate</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Balkans 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Balkans is one of Europe's most religiously diverse regions. Orthodox Christianity, Catholicism, and Islam coexist, shaped by complex history. Religion is intertwined with national and cultural identity, particularly after Yugoslav Wars.</p>
+                
+                <div class="important">
+                    <strong>Historical Context:</strong> Religious identity in the Balkans is deeply connected to ethnicity and history. The 1990s conflicts were partly along religious/ethnic lines. Be respectful and sensitive - these topics can evoke strong emotions.
+                </div>
+                
+                <h3>Major Religious Communities</h3>
+                
+                <h4>Orthodox Christianity:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Serbia, Montenegro, North Macedonia, parts of Bosnia</li>
+                    <li><strong>Serbian Orthodox Church:</strong> Important national institution</li>
+                    <li><strong>Traditions:</strong> Christmas (January 7), Easter, Slava (patron saint day) celebrations</li>
+                    <li><strong>Churches:</strong> Beautiful monasteries; important cultural heritage</li>
+                    <li><strong>Practices:</strong> Icons, fasting periods, rich liturgical tradition</li>
+                </ul>
+                
+                <h4>Catholicism:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Croatia, Slovenia, parts of Bosnia</li>
+                    <li><strong>Vatican ties:</strong> Strong connection to Catholic Church</li>
+                    <li><strong>Traditions:</strong> Christmas (December 25), Easter, saints' days</li>
+                    <li><strong>Pilgrimage sites:</strong> Medjugorje in Bosnia is major Catholic pilgrimage destination</li>
+                </ul>
+                
+                <h4>Islam:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Albania, Kosovo, Bosnia (Bosniaks), parts of North Macedonia</li>
+                    <li><strong>Mainly Sunni:</strong> Ottoman heritage</li>
+                    <li><strong>Mosques:</strong> Historic mosques in cities (many from Ottoman period)</li>
+                    <li><strong>Practices:</strong> Mix of traditional and more secular approaches</li>
+                    <li><strong>Ramadan:</strong> Observed by practicing Muslims; some businesses adjust hours</li>
+                </ul>
+                
+                <h3>Religion and National Identity</h3>
+                <p>In the Balkans, religion often overlaps with ethnic identity:</p>
+                <ul>
+                    <li>Serbs: Predominantly Orthodox Christian</li>
+                    <li>Croats: Predominantly Catholic</li>
+                    <li>Bosniaks: Predominantly Muslim</li>
+                    <li>Slovenes: Predominantly Catholic</li>
+                    <li>Albanians: Predominantly Muslim, some Catholic</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Sensitivity Required:</strong> Avoid making assumptions about someone's religion based on ethnicity. Don't bring up religious/ethnic conflicts unless they raise it. Respect that for many, religious identity is cultural rather than strictly about faith.
+                </div>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Varies widely:</strong> From devout to culturally religious to secular</li>
+                    <li><strong>Life events:</strong> Baptisms, weddings, funerals often religious even for non-practicing individuals</li>
+                    <li><strong>Holidays observed:</strong> Major religious holidays are public holidays</li>
+                    <li><strong>Church attendance:</strong> Higher than Western Europe but varies by region and age</li>
+                </ul>
+                
+                <h3>Religious Holidays</h3>
+                
+                <h4>Orthodox:</h4>
+                <ul>
+                    <li>Christmas: January 7 (Julian calendar)</li>
+                    <li>Easter: Date varies (Julian calendar)</li>
+                    <li>Slava: Family patron saint day (uniquely Serbian tradition)</li>
+                    <li>St. Sava: January 27 (Serbia's patron saint)</li>
+                </ul>
+                
+                <h4>Catholic:</h4>
+                <ul>
+                    <li>Christmas: December 25</li>
+                    <li>Easter: Date varies (Gregorian calendar)</li>
+                    <li>Assumption: August 15</li>
+                    <li>All Saints: November 1</li>
+                </ul>
+                
+                <h4>Islamic:</h4>
+                <ul>
+                    <li>Ramadan: Month of fasting</li>
+                    <li>Eid al-Fitr: End of Ramadan</li>
+                    <li>Eid al-Adha: Festival of Sacrifice</li>
+                    <li>Kurban Bajram: Major celebration in Bosnia, Albania</li>
+                </ul>
+                
+                <h3>Slava - Unique Serbian Tradition</h3>
+                <p>Slava is celebration of family's patron saint - uniquely Serbian Orthodox custom:</p>
+                <ul>
+                    <li>Each family has patron saint (inherited through paternal line)</li>
+                    <li>Annual celebration with specific rituals</li>
+                    <li>Guests invited to family home</li>
+                    <li>Food, drink, blessing of bread and wheat</li>
+                    <li>Important social and religious event</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If invited to Slava, it's an honor. Bring a gift (wine, sweets), dress nicely, and participate respectfully in rituals even if not Orthodox yourself.
+                </div>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Guaranteed by law in all Balkan countries</li>
+                    <li>Freedom to practice any faith or none</li>
+                    <li>Religious discrimination illegal but social tensions can exist</li>
+                    <li>Mixed marriages exist but can face family/social challenges</li>
+                </ul>
+                
+                <h3>Interfaith Relations</h3>
+                <ul>
+                    <li>Generally peaceful coexistence in most areas</li>
+                    <li>Some regions have mixed communities with good relations</li>
+                    <li>Legacy of conflict means sensitivities remain in some areas</li>
+                    <li>Younger generations often more tolerant</li>
+                </ul>
+                
+                <h3>Religious Sites</h3>
+                <ul>
+                    <li><strong>Monasteries:</strong> Studenica, Visoki Dečani, etc. - important cultural heritage</li>
+                    <li><strong>Mosques:</strong> Gazi Husrev-beg (Sarajevo), historic Ottoman mosques</li>
+                    <li><strong>Catholic churches:</strong> Zagreb Cathedral, pilgrimage sites</li>
+                    <li>Many sites open to respectful visitors regardless of faith</li>
+                </ul>
+                
+                <h3>Workplace and Daily Life</h3>
+                <ul>
+                    <li>Religious holidays are public holidays (varies by country/region)</li>
+                    <li>Accommodation for prayer or fasting generally available</li>
+                    <li>Religious symbols worn openly by some</li>
+                    <li>Halal food available in areas with Muslim populations</li>
+                    <li>Fasting periods (Orthodox Lent, Ramadan) respected</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li>Learn about local religious landscape and history</li>
+                    <li>Respect religious observances even if not participating</li>
+                    <li>Avoid discussing religious/ethnic politics unless well-informed</li>
+                    <li>Finding your religious community can provide social network</li>
+                    <li>Churches, mosques, temples welcome those seeking their communities</li>
                 </ul>
             `
         }
@@ -5072,6 +6704,458 @@ const culturalData = {
                     <li>Name days are celebrated widely</li>
                     <li>Easter is the most important holiday</li>
                 </ul>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare System in Greece 💊",
+            content: `
+                <h3>National Healthcare System (ESY)</h3>
+                <p>Greece provides universal healthcare through ESY (Ethniko Systima Ygeias). EU citizens with European Health Insurance Card have access. The system faces challenges but provides essential care.</p>
+                
+                <h3>Healthcare Registration</h3>
+                <ul>
+                    <li><strong>AMKA number:</strong> Social security number required for healthcare access</li>
+                    <li><strong>IKA (Social Insurance Institute):</strong> Main provider for employed persons</li>
+                    <li><strong>Registration:</strong> Through employment or municipality for residents</li>
+                    <li><strong>EU citizens:</strong> EHIC provides temporary coverage; register for permanent residence</li>
+                </ul>
+                
+                <h3>Primary Care</h3>
+                <ul>
+                    <li><strong>Public health centers (Kentro Ygeias):</strong> Free basic care</li>
+                    <li><strong>GP services:</strong> Limited in public system; private GPs more accessible</li>
+                    <li><strong>Appointments:</strong> Can involve long waits in public system</li>
+                    <li><strong>No referral system:</strong> Can access specialists directly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Public vs. Private Reality:</strong> Many Greeks use public system for emergencies and serious illness but rely on private doctors for routine care. Private healthcare is more accessible but costs apply. Consider supplemental private insurance.
+                </div>
+                
+                <h3>Hospitals</h3>
+                <ul>
+                    <li><strong>Public hospitals:</strong> Free care but overcrowded; long waits common</li>
+                    <li><strong>Private clinics:</strong> Better facilities, shorter waits, English-speaking staff</li>
+                    <li><strong>Islands:</strong> Limited facilities; serious cases transferred to mainland</li>
+                    <li><strong>Emergency: 166</strong> (ambulance); 112 (general emergency)</li>
+                </ul>
+                
+                <h3>Pharmacies</h3>
+                <ul>
+                    <li><strong>Well-stocked:</strong> Green cross sign; pharmacists knowledgeable</li>
+                    <li><strong>Prescription required:</strong> For most medications</li>
+                    <li><strong>After-hours:</strong> Rotating duty pharmacies (farmakeio efimerevo) open 24/7</li>
+                    <li><strong>Costs:</strong> Prescription medicines have co-payments; reimbursement through social insurance</li>
+                </ul>
+                
+                <h3>Costs and Insurance</h3>
+                <ul>
+                    <li>Public healthcare theoretically free but unofficial payments (fakelaki) historically expected</li>
+                    <li>This practice declining but awareness helpful</li>
+                    <li>Private insurance recommended for comprehensive coverage</li>
+                    <li>International insurance useful, especially for dental and specialist care</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Islands have limited medical facilities. If living on an island, understand what care is available locally and where you'd need to travel for specialized treatment. Medical tourism to Athens is common from islands.
+                </div>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Services available but stigma still exists</li>
+                    <li>Private psychologists and psychiatrists more accessible</li>
+                    <li>Some English-speaking practitioners in Athens and major cities</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li>Not covered by public system except emergencies</li>
+                    <li>Private dentists widely available</li>
+                    <li>Costs moderate compared to Western Europe</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Greece 📋",
+            content: `
+                <h3>Greek Bureaucracy</h3>
+                <p>Greek bureaucracy has a reputation for complexity and inefficiency. Digital services are improving, but many processes still require in-person visits, patience, and persistence. Personal connections can help.</p>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Greek bureaucracy can be frustrating. Expect: multiple visits to offices, conflicting information from different officials, requests for additional documents, and longer processing times than stated. Patience is essential!
+                </div>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Key Numbers and Documents:</h4>
+                <ul>
+                    <li><strong>AFM (Tax Identification Number):</strong> Essential for everything - banking, employment, renting. Get this first!</li>
+                    <li><strong>AMKA (Social Security Number):</strong> Required for healthcare</li>
+                    <li><strong>Residence permit:</strong> Non-EU citizens apply at Immigration Office</li>
+                    <li><strong>Registration certificate:</strong> EU citizens register at municipality</li>
+                </ul>
+                
+                <h4>Where to Go:</h4>
+                <ul>
+                    <li><strong>Tax Office (Eforia):</strong> For AFM registration</li>
+                    <li><strong>Municipality (Dimos):</strong> For residence registration</li>
+                    <li><strong>AMKA office:</strong> Usually within IKA or municipality</li>
+                    <li><strong>KEP (Citizen Service Centers):</strong> One-stop shops for some services</li>
+                </ul>
+                
+                <h3>Getting Your AFM</h3>
+                <p>The tax number (AFM) is crucial:</p>
+                <ul>
+                    <li>Visit local tax office with passport and proof of residence</li>
+                    <li>May need address verification from landlord or police</li>
+                    <li>Process usually same day once you have all documents</li>
+                    <li>Some offices allow online appointment booking</li>
+                </ul>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>AFM required:</strong> Can't open bank account without tax number</li>
+                    <li><strong>Proof of residence:</strong> Rental contract or utility bill</li>
+                    <li><strong>Capital controls legacy:</strong> Some restrictions may still apply</li>
+                    <li><strong>International banks:</strong> May be easier for foreigners</li>
+                </ul>
+                
+                <h3>Documentation</h3>
+                <ul>
+                    <li><strong>Translations:</strong> Official translations required for foreign documents</li>
+                    <li><strong>Apostille:</strong> Foreign official documents need apostille stamp</li>
+                    <li><strong>Photocopies:</strong> Always bring originals plus multiple copies</li>
+                    <li><strong>Photos:</strong> Passport-style photos frequently needed</li>
+                    <li><strong>Receipts:</strong> Keep all paperwork and stamped receipts</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Survival Tips:</strong>
+                    <ul>
+                        <li>Arrive early - offices get busy and may have limited capacity</li>
+                        <li>Bring everything you might possibly need - passport, copies, photos, proof of everything</li>
+                        <li>Don't assume logic - processes may not make sense; just comply</li>
+                        <li>Be polite and patient - rudeness will not help</li>
+                        <li>Having a Greek-speaking friend is invaluable</li>
+                    </ul>
+                </div>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>Work permit:</strong> Non-EU citizens need work authorization</li>
+                    <li><strong>IKA registration:</strong> Social insurance through employer</li>
+                    <li><strong>Employment contract:</strong> Should be formalized and registered</li>
+                    <li><strong>Contributions:</strong> Both employer and employee pay into system</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Progressive rates; employer typically withholds</li>
+                    <li><strong>Annual declaration:</strong> Required even if taxes already withheld</li>
+                    <li><strong>TAXISnet:</strong> Online portal for tax declarations</li>
+                    <li><strong>Property tax (ENFIA):</strong> Annual tax on property ownership</li>
+                    <li><strong>Tax advisor:</strong> Accountant (logistis) recommended for complex situations</li>
+                </ul>
+                
+                <h3>Utilities and Services</h3>
+                <ul>
+                    <li>Electricity (DEI), water, telephone require AFM</li>
+                    <li>Contracts typically require deposit</li>
+                    <li>Bills can be paid at banks, post offices, or online</li>
+                    <li>Landlord may include some utilities in rent</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; non-EU may need Greek license</li>
+                    <li><strong>Vehicle registration:</strong> Complex if importing car</li>
+                    <li><strong>Insurance mandatory:</strong> Third-party minimum</li>
+                    <li><strong>Annual inspections (KTEO):</strong> Required for vehicles over 4 years old</li>
+                </ul>
+                
+                <h3>Real Estate</h3>
+                <ul>
+                    <li><strong>Notary required:</strong> All property transactions go through notary</li>
+                    <li><strong>Property tax (ENFIA):</strong> Annual tax based on location and value</li>
+                    <li><strong>Lawyer recommended:</strong> For property purchases to verify title</li>
+                    <li><strong>Fees substantial:</strong> Transfer taxes, legal fees, notary fees add up</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Economic Crisis Legacy:</strong> Greek bureaucracy expanded during crisis with additional taxes and controls. Some still exist. Systems are slowly modernizing with digital services, but paper processes remain common.
+                </div>
+                
+                <h3>Digital Services</h3>
+                <ul>
+                    <li><strong>TAXISnet:</strong> Tax-related services online</li>
+                    <li><strong>gov.gr:</strong> Central government services portal</li>
+                    <li><strong>Improving:</strong> More services going online but not all processes yet digital</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Greece 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Greek education is centralized with national curriculum. Education is free and compulsory through age 15. Traditional teaching methods prevail, with emphasis on classical education and memorization. Private tutoring (frontistirio) is extremely common.</p>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Pre-Primary (4-5 years):</h4>
+                <ul>
+                    <li><strong>Nipiagogio (kindergarten):</strong> Optional but free; widely attended</li>
+                    <li>Prepares children for primary school</li>
+                    <li>Play-based learning with some academic preparation</li>
+                </ul>
+                
+                <h4>Primary School (Dimotiko) - Ages 6-12:</h4>
+                <ul>
+                    <li><strong>6 grades:</strong> Compulsory, free public education</li>
+                    <li><strong>Core subjects:</strong> Greek, math, science, history, religion</li>
+                    <li><strong>Foreign language:</strong> English typically begins in Grade 3</li>
+                    <li><strong>Homework:</strong> Substantial from early grades</li>
+                    <li><strong>Traditional methods:</strong> Teacher-centered, emphasis on memorization</li>
+                </ul>
+                
+                <h4>Gymnasium (Lower Secondary) - Ages 12-15:</h4>
+                <ul>
+                    <li><strong>3 years:</strong> Compulsory, free</li>
+                    <li>Academic curriculum intensifies</li>
+                    <li>Second foreign language introduced (often French or German)</li>
+                    <li>Grading system: 0-20 scale (10+ is passing)</li>
+                </ul>
+                
+                <h4>Lykeio (Upper Secondary) - Ages 15-18:</h4>
+                <ul>
+                    <li><strong>3 years:</strong> Optional but most attend; free</li>
+                    <li><strong>General or vocational tracks</strong></li>
+                    <li>Intense preparation for university entrance exams (Panhellenic Examinations)</li>
+                    <li>Final year almost entirely focused on exam preparation</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Frontistirio Culture:</strong> Private afternoon tutoring schools (frontistiria) are ubiquitous. Most students attend them for extra lessons, especially in secondary school. This is essential for competitive university entrance. Budget for this if your child will attend Greek schools.
+                </div>
+                
+                <h3>School Schedule</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 1:30/2:30 PM (morning shift)</li>
+                    <li><strong>No lunch:</strong> Students go home after school; no cafeteria meals</li>
+                    <li><strong>Saturday:</strong> No school (used to have Saturday mornings)</li>
+                    <li><strong>Afternoon activities:</strong> Frontistirio, sports, music lessons</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, follow national curriculum, Greek language</li>
+                    <li><strong>Private schools:</strong> Tuition fees; some offer alternative curricula; better facilities often</li>
+                    <li><strong>International schools:</strong> In Athens and major cities; expensive; English or other languages; IB, British, or American curricula</li>
+                </ul>
+                
+                <h3>University Entrance</h3>
+                <ul>
+                    <li><strong>Panhellenic Examinations:</strong> National exams determine university placement</li>
+                    <li><strong>Extremely competitive:</strong> Limited university spots; high-stakes testing</li>
+                    <li><strong>Subject specialization:</strong> Students choose academic direction in Lykeio</li>
+                    <li><strong>Exam subjects:</strong> 4 subjects tested; scores determine which universities/programs possible</li>
+                    <li><strong>Frontistirio essential:</strong> School alone often insufficient for competitive exams</li>
+                </ul>
+                
+                <h3>University Education</h3>
+                <ul>
+                    <li><strong>Free public universities:</strong> No tuition at public institutions</li>
+                    <li><strong>Competitive entry:</strong> Exam-based; some programs extremely selective</li>
+                    <li><strong>Language:</strong> Taught in Greek; some postgraduate programs in English</li>
+                    <li><strong>Student life:</strong> Vibrant culture; affordable living (outside Athens)</li>
+                    <li><strong>Many study abroad:</strong> Due to competitive entrance, many Greeks study in other EU countries</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>For Foreign Students:</strong>
+                    <ul>
+                        <li>Greek language proficiency required for public schools</li>
+                        <li>Language support programs exist but vary</li>
+                        <li>International schools available for non-Greek instruction</li>
+                        <li>Foreign qualifications recognized for university with evaluation</li>
+                    </ul>
+                </div>
+                
+                <h3>School Culture</h3>
+                <ul>
+                    <li><strong>Teacher respect:</strong> Authority figures; formal relationships</li>
+                    <li><strong>Religion in curriculum:</strong> Greek Orthodox religion taught (opt-out possible)</li>
+                    <li><strong>National pride:</strong> Greek history and culture emphasized</li>
+                    <li><strong>Memorization valued:</strong> Learning by rote still common</li>
+                    <li><strong>Competitive environment:</strong> Academic pressure especially in secondary school</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings periodically</li>
+                    <li>Parents monitor homework closely</li>
+                    <li>School councils exist but teacher authority strong</li>
+                    <li>Parents often heavily involved in child's academic success</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-September (3 months!)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Easter:</strong> 2 weeks (Orthodox Easter - date varies)</li>
+                    <li><strong>Carnival:</strong> "Apokries" break</li>
+                    <li><strong>National holidays:</strong> March 25 (Independence Day), October 28 (Ohi Day)</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Underfunded public schools; infrastructure varies</li>
+                    <li>Teacher strikes occur periodically</li>
+                    <li>Frontistirio costs add up significantly</li>
+                    <li>High-stakes exam culture creates stress</li>
+                    <li>Brain drain - many educated young people emigrate</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Greece 🤝",
+            content: `
+                <h3>Greek Orthodox Christianity</h3>
+                <p>Greece is overwhelmingly Greek Orthodox Christian (90%+). The Greek Orthodox Church is closely tied to national identity and culture. Religion influences daily life, holidays, and social customs even for non-practicing Greeks.</p>
+                
+                <div class="important">
+                    <strong>Religion and Identity:</strong> For many Greeks, Orthodox Christianity is inseparable from Greek identity. Even secular Greeks often identify as Orthodox culturally. The Church played a crucial role in preserving Greek identity during Ottoman rule.
+                </div>
+                
+                <h3>The Greek Orthodox Church</h3>
+                <ul>
+                    <li><strong>Autocephalous church:</strong> Independent branch of Eastern Orthodoxy</li>
+                    <li><strong>Historically influential:</strong> Church and state closely tied (though officially separate since 1975)</li>
+                    <li><strong>Monastery tradition:</strong> Mount Athos (Agio Oros) - autonomous monastic state</li>
+                    <li><strong>Patriarchate:</strong> Archbishop of Athens heads Church of Greece</li>
+                </ul>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Varies widely:</strong> From devout churchgoers to culturally Orthodox but non-practicing</li>
+                    <li><strong>Major holidays:</strong> High church attendance at Easter and Christmas</li>
+                    <li><strong>Name days:</strong> Celebrated often more than birthdays; saint's feast day for your name</li>
+                    <li><strong>Life events:</strong> Baptisms, weddings, funerals almost always Orthodox ceremonies</li>
+                    <li><strong>Icons in homes:</strong> Many Greek homes have icon corner (iconostasio)</li>
+                </ul>
+                
+                <h3>Major Religious Holidays</h3>
+                
+                <h4>Easter (Pascha):</h4>
+                <p>The most important holiday in Greek Orthodoxy - more significant than Christmas:</p>
+                <ul>
+                    <li><strong>Holy Week:</strong> Intense religious observances</li>
+                    <li><strong>Good Friday:</strong> Epitaphios processions in every village</li>
+                    <li><strong>Saturday midnight:</strong> Resurrection service - "Christos Anesti!" (Christ is Risen)</li>
+                    <li><strong>Easter Sunday:</strong> Family feast; roasted lamb; red eggs</li>
+                    <li><strong>Date:</strong> Follows Orthodox calendar (usually different from Western Easter)</li>
+                    <li><strong>Everything closes:</strong> Expect businesses shut from Friday through Monday</li>
+                </ul>
+                
+                <h4>Other Major Holidays:</h4>
+                <ul>
+                    <li><strong>Christmas:</strong> December 25 (religious services, family gatherings)</li>
+                    <li><strong>Epiphany (Theofania):</strong> January 6 - blessing of waters; dive for cross</li>
+                    <li><strong>Assumption (Dekapentavgoustos):</strong> August 15 - Dormition of Virgin Mary</li>
+                    <li><strong>Annunciation:</strong> March 25 (also Greek Independence Day)</li>
+                    <li><strong>Clean Monday (Kathara Deftera):</strong> First day of Lent; kite flying, outdoor feasts</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Experiencing Easter:</strong> If in Greece during Easter, participate respectfully in local traditions. Attend midnight service (bring a candle), try tsoureki (Easter bread) and mageiritsa (Easter soup), crack red eggs saying "Christos Anesti" (Christ is Risen) - "Alithos Anesti" (Truly He is Risen).
+                </div>
+                
+                <h3>Religious Practices in Daily Life</h3>
+                <ul>
+                    <li><strong>Fasting periods:</strong> Many observe Lent and other fasts (no meat/dairy)</li>
+                    <li><strong>Church services:</strong> Divine Liturgy on Sundays and feast days</li>
+                    <li><strong>Saints' days:</strong> Each profession, town, island has patron saint with celebrations</li>
+                    <li><strong>Blessings:</strong> New homes, businesses often blessed by priest</li>
+                    <li><strong>Memorials (mnimosino):</strong> Services for deceased at regular intervals</li>
+                </ul>
+                
+                <h3>Churches and Monasteries</h3>
+                <ul>
+                    <li><strong>Ubiquitous small churches:</strong> Chapels everywhere, even tiny islands</li>
+                    <li><strong>Iconography:</strong> Byzantine art tradition; icons venerated</li>
+                    <li><strong>Mount Athos:</strong> Men-only monastic peninsula; special permission to visit</li>
+                    <li><strong>Meteora:</strong> Famous cliff-top monasteries</li>
+                    <li><strong>Pilgrimage sites:</strong> Tinos (Panagia Evangelistria) major pilgrimage destination</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Church Etiquette:</strong>
+                    <ul>
+                        <li>Dress modestly - cover shoulders and knees (women sometimes given wrap-around skirts)</li>
+                        <li>Women traditionally cover head in some churches</li>
+                        <li>Remove sunglasses and hats</li>
+                        <li>Keep voices low; minimal photography during services</li>
+                        <li>Light a candle, venerate icons if comfortable (not required)</li>
+                        <li>Stand during service (limited seating for elderly/infirm)</li>
+                    </ul>
+                </div>
+                
+                <h3>Religious Diversity</h3>
+                <p>Greece is less religiously diverse than Western Europe:</p>
+                <ul>
+                    <li><strong>Muslim minority:</strong> In Thrace (Pomaks, Turks); historic communities; mosques present</li>
+                    <li><strong>Catholics:</strong> Small communities, especially Cyclades islands (Syros, Tinos)</li>
+                    <li><strong>Jews:</strong> Historic Sephardic communities in Thessaloniki and Athens (decimated in Holocaust)</li>
+                    <li><strong>Other Christians:</strong> Small Protestant, evangelical communities</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among youth, but still identify culturally as Orthodox</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Constitution guarantees freedom of religion</li>
+                    <li>Orthodox Church has "prevailing religion" status</li>
+                    <li>Proselytizing is sensitive and restricted</li>
+                    <li>Building non-Orthodox places of worship can face bureaucratic obstacles</li>
+                    <li>Some social pressure to conform to Orthodox traditions</li>
+                </ul>
+                
+                <h3>Islam in Greece</h3>
+                <ul>
+                    <li>Muslim minority in Thrace protected by Lausanne Treaty</li>
+                    <li>Mosques in Thrace; Athens mosque opened 2020 (first official mosque in Athens since 19th century)</li>
+                    <li>Halal food available in areas with Muslim populations and major cities</li>
+                    <li>Some prejudice exists due to historical Ottoman rule and recent migration</li>
+                </ul>
+                
+                <h3>Name Days</h3>
+                <p>Unique Greek tradition:</p>
+                <ul>
+                    <li>Each saint has feast day on Orthodox calendar</li>
+                    <li>People named after saint celebrate on that day</li>
+                    <li>Open house tradition - friends visit, bring small gifts</li>
+                    <li>Sometimes more important than birthday</li>
+                    <li>Common names have major celebrations (e.g., Maria/Mary on August 15)</li>
+                </ul>
+                
+                <h3>Education and Religion</h3>
+                <ul>
+                    <li>Greek Orthodox religion taught in public schools</li>
+                    <li>Non-Orthodox can opt out of religious instruction</li>
+                    <li>Religious holidays determine school calendar</li>
+                    <li>Morning prayers traditional in schools (less common now)</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li>Respect religious traditions even if not Orthodox</li>
+                    <li>Participate in cultural aspects of holidays (food, festivities)</li>
+                    <li>Understand religious holidays affect business hours</li>
+                    <li>Churches are cultural and architectural sites - visit respectfully</li>
+                    <li>Finding your own faith community may require effort in smaller places</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Learning basic religious greetings shows respect: "Christos Anesti" / "Alithos Anesti" at Easter, "Kali Anastasi" (Happy Resurrection), "Chronia Polla" (Many Years) on name days.
+                </div>
             `
         }
     },
@@ -5230,6 +7314,514 @@ const culturalData = {
                     <li>Respect for nature (jokamiehen oikeus - everyman's right)</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare System in Finland 💊",
+            content: `
+                <h3>Finnish Healthcare System</h3>
+                <p>Finland provides universal healthcare through municipalities. The system emphasizes prevention and primary care. Quality is excellent but non-urgent specialist care can involve waiting times.</p>
+                
+                <h3>Registration and Access</h3>
+                <ul>
+                    <li><strong>Municipality registration:</strong> Register residence to access healthcare</li>
+                    <li><strong>Kela (Social Insurance Institution):</strong> Handles health insurance and reimbursements</li>
+                    <li><strong>European Health Insurance Card:</strong> EU citizens have temporary coverage; register for permanent residence</li>
+                    <li><strong>Personal identity code (henkilötunnus):</strong> Essential for all healthcare access</li>
+                </ul>
+                
+                <h3>Primary Healthcare (Terveyskeskus)</h3>
+                <ul>
+                    <li><strong>Health centers:</strong> First point of contact; run by municipalities</li>
+                    <li><strong>GP appointments:</strong> Book through health center; may be waiting time</li>
+                    <li><strong>Nurse-led care:</strong> Nurses handle many routine issues</li>
+                    <li><strong>Phone consultations:</strong> Often first step; advice given over phone</li>
+                    <li><strong>Digital services:</strong> OmaOlo and similar platforms for symptom checking</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Appointment Booking:</strong> Call health center early in morning for appointments. Digital booking increasingly available. For urgent issues, explain clearly - triage nurses assess priority. Non-urgent issues may have longer waits.
+                </div>
+                
+                <h3>Costs</h3>
+                <ul>
+                    <li><strong>GP visit:</strong> Around €20-30 (varies by municipality)</li>
+                    <li><strong>Specialist visit:</strong> Around €40-50</li>
+                    <li><strong>Annual cap:</strong> After spending around €683/year, care becomes free (healthcare ceiling)</li>
+                    <li><strong>Children:</strong> Under 18 often free or heavily subsidized</li>
+                </ul>
+                
+                <h3>Specialist Care</h3>
+                <ul>
+                    <li><strong>Referral required:</strong> GP must refer to specialist</li>
+                    <li><strong>Waiting times:</strong> Can be significant for non-urgent care (weeks to months)</li>
+                    <li><strong>Hospital districts:</strong> Specialized hospitals serve regions</li>
+                    <li><strong>Quality excellent:</strong> Care is high-quality once accessed</li>
+                </ul>
+                
+                <h3>Emergency Care</h3>
+                <ul>
+                    <li><strong>112:</strong> Emergency number for ambulance, police, fire</li>
+                    <li><strong>Päivystys:</strong> Emergency department at hospitals; 24/7</li>
+                    <li><strong>Triage system:</strong> Assessed by urgency; non-urgent may wait hours</li>
+                    <li><strong>Costs:</strong> Emergency visit around €30-40</li>
+                </ul>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li><strong>Occupational health:</strong> Many employers provide private healthcare access</li>
+                    <li><strong>Private clinics:</strong> Faster appointments; Terveystalo, Mehiläinen are major providers</li>
+                    <li><strong>Kela reimbursements:</strong> Partial reimbursement even for private care</li>
+                    <li><strong>Costs higher:</strong> €80-150 for private GP visit</li>
+                </ul>
+                
+                <h3>Prescriptions and Pharmacies (Apteekki)</h3>
+                <ul>
+                    <li><strong>E-prescriptions:</strong> Sent electronically to all pharmacies</li>
+                    <li><strong>Green cross sign:</strong> Pharmacies are easily identified</li>
+                    <li><strong>Reimbursements:</strong> Kela reimburses 40-100% depending on medication</li>
+                    <li><strong>Chronic conditions:</strong> Special reimbursement rates (65-100%)</li>
+                    <li><strong>Prescription required:</strong> For almost all medications (stricter than many countries)</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li><strong>Public dental:</strong> Available through health centers; waiting times common</li>
+                    <li><strong>Emergency dental:</strong> Available for acute problems</li>
+                    <li><strong>Private dentists:</strong> Most adults use private care; expensive</li>
+                    <li><strong>Children:</strong> Free dental care up to age 18</li>
+                </ul>
+                
+                <h3>Mental Health Services</h3>
+                <ul>
+                    <li>Available through health centers (GP referral)</li>
+                    <li>Specialized psychiatric services for more complex issues</li>
+                    <li>Crisis helplines available (Mieli Mental Health Finland)</li>
+                    <li>Private psychologists widely available</li>
+                    <li>Strong emphasis on preventive mental health</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finland has excellent maternal and child health services. Neuvola (maternity and child health clinics) provide comprehensive free care for pregnant women and children up to school age. They're proactive and supportive!
+                </div>
+                
+                <h3>Unique Aspects</h3>
+                <ul>
+                    <li><strong>Baby box:</strong> All expectant parents receive free maternity package (or cash grant)</li>
+                    <li><strong>Preventive focus:</strong> Regular health checks, screenings emphasized</li>
+                    <li><strong>Digital health:</strong> Kanta services - electronic health records accessible to you</li>
+                    <li><strong>Sami healthcare:</strong> Special provisions for indigenous Sami population in Lapland</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Finland 📋",
+            content: `
+                <h3>Finnish Administration</h3>
+                <p>Finnish bureaucracy is efficient, digitized, and relatively straightforward - among Europe's best. Most services available online. English often spoken in offices. Systems work well once you understand them.</p>
+                
+                <div class="tip">
+                    <strong>Good News:</strong> Finnish bureaucracy is user-friendly compared to most countries. Digital services work well. Information is clear. Officials are helpful. Once you have your identity code, most things can be done online.
+                </div>
+                
+                <h3>Essential First Steps</h3>
+                
+                <h4>Upon Arrival (Priority Order):</h4>
+                <ul>
+                    <li><strong>1. Register residence:</strong> At local Digital and Population Data Services Agency (DVV/Maistraatti)</li>
+                    <li><strong>2. Get henkilötunnus:</strong> Personal identity code - essential for EVERYTHING</li>
+                    <li><strong>3. Register with Kela:</strong> Social insurance for healthcare, benefits</li>
+                    <li><strong>4. Open bank account:</strong> Requires identity code</li>
+                    <li><strong>5. Register for tax:</strong> Usually automatic but verify with Tax Administration</li>
+                </ul>
+                
+                <h3>Henkilötunnus (Personal Identity Code)</h3>
+                <p>This is the KEY to everything in Finland:</p>
+                <ul>
+                    <li>Format: DDMMYY-XXXC (birth date + personal identifier + check digit)</li>
+                    <li>Needed for: banking, healthcare, employment, housing, phone contracts, gym membership - literally everything</li>
+                    <li>Obtained when registering residence</li>
+                    <li>Temporary residents may get temporary code</li>
+                </ul>
+                
+                <h3>Key Government Services</h3>
+                
+                <h4>DVV (Digital and Population Data Services):</h4>
+                <ul>
+                    <li>Population register, identity codes, name changes, citizenship</li>
+                    <li>Local offices (Maistraatti) in all cities</li>
+                    <li>Much can be done online at dvv.fi</li>
+                </ul>
+                
+                <h4>Kela (Social Insurance Institution):</h4>
+                <ul>
+                    <li>Health insurance, parental benefits, unemployment, pensions, student aid</li>
+                    <li>Register as soon as you have residence permit and address</li>
+                    <li>Comprehensive online services at kela.fi</li>
+                    <li>OmaKela - your personal online portal</li>
+                </ul>
+                
+                <h4>Vero (Tax Administration):</h4>
+                <ul>
+                    <li>Income tax, VAT, tax deductions</li>
+                    <li>MyTax (OmaVero) - online portal for all tax matters</li>
+                    <li>Pre-filled tax returns (easy to approve online)</li>
+                    <li>Tax card (verokortti) - employer withholds based on this</li>
+                </ul>
+                
+                <h3>Digital Services</h3>
+                <ul>
+                    <li><strong>Suomi.fi:</strong> Central government services portal</li>
+                    <li><strong>Bank authentication:</strong> Online banking credentials used to login to government services</li>
+                    <li><strong>Digital signatures:</strong> Legally binding via bank authentication</li>
+                    <li><strong>OmaKanta:</strong> Your health records online</li>
+                    <li><strong>Kela app:</strong> Access benefits and services</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Bank Authentication System:</strong> Finnish digital services use bank credentials for secure login. This is why getting a bank account early is crucial. Your online banking codes become your digital ID for government services!
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Identity code required:</strong> Must have henkilötunnus to open account</li>
+                    <li><strong>Major banks:</strong> Nordea, OP, Danske Bank, S-Pankki</li>
+                    <li><strong>Bank authentication:</strong> Online banking credentials used everywhere</li>
+                    <li><strong>Cashless society:</strong> Cards and mobile payments dominant</li>
+                    <li><strong>Identification apps:</strong> Mobile banking app used for digital ID</li>
+                </ul>
+                
+                <h3>Employment and Work Permits</h3>
+                <ul>
+                    <li><strong>EU citizens:</strong> Right to work; just register residence</li>
+                    <li><strong>Non-EU:</strong> Work permit required (apply from home country or within Finland)</li>
+                    <li><strong>Tax number:</strong> Assigned automatically upon employment registration</li>
+                    <li><strong>Tax card:</strong> Request from tax office; give to employer</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Progressive system:</strong> 0-31.25% municipal + 0-31% state tax (total can reach ~50%+ for high earners)</li>
+                    <li><strong>Withheld at source:</strong> Employer deducts based on tax card</li>
+                    <li><strong>Pre-filled returns:</strong> Tax administration calculates; you review and approve</li>
+                    <li><strong>Deductions:</strong> Commuting, union fees, mortgage interest</li>
+                    <li><strong>Tax year:</strong> Calendar year; deadline spring following year</li>
+                </ul>
+                
+                <h3>Social Security</h3>
+                <ul>
+                    <li><strong>Comprehensive system:</strong> Unemployment, healthcare, pensions, family benefits</li>
+                    <li><strong>Kela benefits:</strong> Register to access (housing allowance, student aid, etc.)</li>
+                    <li><strong>Contributions:</strong> Through taxes and employer/employee payments</li>
+                    <li><strong>Unemployment:</strong> Register with TE-Toimisto (Employment Office)</li>
+                </ul>
+                
+                <h3>Housing Registration</h3>
+                <ul>
+                    <li>Must register address with DVV</li>
+                    <li>Notify within days of moving</li>
+                    <li>Landlords often require proof of income/employment</li>
+                    <li>Rental agreements straightforward; standard contracts</li>
+                </ul>
+                
+                <h3>Driving and Vehicles</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; some non-EU can exchange</li>
+                    <li><strong>Vehicle registration:</strong> Traficom handles all traffic matters</li>
+                    <li><strong>Annual inspection:</strong> Required for older vehicles</li>
+                    <li><strong>Winter tires:</strong> Mandatory December-February</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finland's administrative system rewards self-service. Learn to use online portals - they're efficient and available in English. If you need help, book appointment in advance. Walk-ins can mean long waits.
+                </div>
+                
+                <h3>Language Services</h3>
+                <ul>
+                    <li>Free Finnish language courses for immigrants</li>
+                    <li>Integration services for newly arrived</li>
+                    <li>Many government services available in Finnish, Swedish, and English</li>
+                    <li>Interpreters available for complex matters</li>
+                </ul>
+                
+                <h3>What Makes Finnish Bureaucracy Work</h3>
+                <ul>
+                    <li>High trust society - system assumes honesty</li>
+                    <li>Digital infrastructure excellent</li>
+                    <li>Clear rules, consistently applied</li>
+                    <li>Efficient processing times</li>
+                    <li>English widely available</li>
+                    <li>Helpful, professional officials</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Finland 📚",
+            content: `
+                <h3>World-Renowned Education System</h3>
+                <p>Finland consistently ranks among the world's best education systems. Emphasis on equality, well-being, play-based learning (especially early years), and trust in teachers. No standardized testing until final year. Education is completely free from pre-primary through university.</p>
+                
+                <div class="important">
+                    <strong>Finnish Education Philosophy:</strong> Focus on child well-being over competition. Less homework, more play. No tracking by ability. Trust in professional teachers. The goal: lifelong learners who love learning, not test-takers.
+                </div>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Early Childhood Education (1-6 years):</h4>
+                <ul>
+                    <li><strong>Päiväkoti (daycare):</strong> From 9 months; guaranteed right to subsidized care</li>
+                    <li><strong>Income-based fees:</strong> Maximum around €290/month, many pay less</li>
+                    <li><strong>Esiopetus (pre-primary):</strong> Age 6, free, optional but 98% attend</li>
+                    <li><strong>Play-based learning:</strong> Through age 7; less academic than many countries</li>
+                    <li><strong>Forest kindergartens:</strong> Outdoor education heavily emphasized</li>
+                </ul>
+                
+                <h4>Peruskoulu (Comprehensive School) - Ages 7-16:</h4>
+                <ul>
+                    <li><strong>9 years compulsory:</strong> Grades 1-9, completely free</li>
+                    <li><strong>No ability tracking:</strong> Mixed-ability classes; individual support as needed</li>
+                    <li><strong>Late start:</strong> School begins at age 7 (research shows benefits)</li>
+                    <li><strong>Short days:</strong> Shorter than most countries; max ~30 hours/week</li>
+                    <li><strong>Minimal homework:</strong> Especially early grades; less than 30 minutes/day initially</li>
+                    <li><strong>No standardized tests:</strong> Until final year; assessment is continuous</li>
+                    <li><strong>Recess every 45 minutes:</strong> 15-minute breaks between lessons (improves concentration)</li>
+                </ul>
+                
+                <h4>Upper Secondary (Lukio/Ammattiopisto) - Ages 16-19:</h4>
+                <ul>
+                    <li><strong>Optional but 95%+ continue:</strong> Two tracks equally valued</li>
+                    <li><strong>Lukio (general/academic):</strong> Prepares for university; 3 years</li>
+                    <li><strong>Ammattiopisto (vocational):</strong> Practical skills; 3 years; highly respected</li>
+                    <li><strong>Free education:</strong> Tuition, books, meals all free</li>
+                    <li><strong>Matriculation exam:</strong> Ylioppilastutkinto for lukio students</li>
+                </ul>
+                
+                <h3>What Makes Finnish Schools Special</h3>
+                <ul>
+                    <li><strong>Teacher quality:</strong> Master's degree required; highly selective profession; trusted completely</li>
+                    <li><strong>Teacher autonomy:</strong> Teachers design own lessons within national framework</li>
+                    <li><strong>Small class sizes:</strong> Usually under 20 students</li>
+                    <li><strong>Individual support:</strong> Special education integrated; every child gets help needed</li>
+                    <li><strong>No competition:</strong> No rankings, minimal testing; focus on personal progress</li>
+                    <li><strong>Equality:</strong> All schools excellent; minimal private schools</li>
+                    <li><strong>Well-being focused:</strong> School nurse, psychologist, social worker available</li>
+                </ul>
+                
+                <h3>School Day</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8-9 AM to 1-3 PM (younger children shorter days)</li>
+                    <li><strong>Free lunch:</strong> Hot, nutritious meal provided daily</li>
+                    <li><strong>Outdoor time:</strong> Even in -20°C; "no bad weather, only bad clothing"</li>
+                    <li><strong>Less structured:</strong> More autonomy, less rigid than many systems</li>
+                </ul>
+                
+                <h3>No School Uniforms, Minimal Formality</h3>
+                <ul>
+                    <li>Students call teachers by first name</li>
+                    <li>Relaxed atmosphere; comfort emphasized</li>
+                    <li>Shoes off indoors (Finnish custom)</li>
+                    <li>Students choose own seating in many classes</li>
+                </ul>
+                
+                <h3>Support Systems</h3>
+                <ul>
+                    <li><strong>Special education:</strong> ~30% receive some special support at some point</li>
+                    <li><strong>Three-tier support:</strong> General, intensified, special - escalating as needed</li>
+                    <li><strong>Inclusion:</strong> Students with needs integrated in regular classes when possible</li>
+                    <li><strong>Learning assistants:</strong> Support available in classroom</li>
+                    <li><strong>School welfare:</strong> Nurse, psychologist, social worker, counselor</li>
+                </ul>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Preparatory education:</strong> Finnish language courses for immigrant children (one year)</li>
+                    <li><strong>Mother tongue instruction:</strong> Support for maintaining native language</li>
+                    <li><strong>Integration support:</strong> Schools experienced with multicultural students</li>
+                    <li><strong>English taught:</strong> From grade 1, so good foundation</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Don't expect homework battles. Finnish philosophy: childhood is for playing and being outside. Learning happens at school. Homework increases gradually but remains reasonable. Trust the system - it works!
+                </div>
+                
+                <h3>University Education</h3>
+                <ul>
+                    <li><strong>Completely free:</strong> No tuition for EU/EEA citizens (fees for non-EU)</li>
+                    <li><strong>Two types:</strong> Universities (research-focused) and UAS (universities of applied sciences)</li>
+                    <li><strong>Competitive entrance:</strong> Exams required for most programs</li>
+                    <li><strong>Student benefits:</strong> Study grant, housing allowance, student loan guarantee</li>
+                    <li><strong>English programs:</strong> Many master's programs taught in English</li>
+                    <li><strong>Quality:</strong> Excellent research universities (Helsinki, Aalto particularly strong)</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Teachers are trusted professionals - less parent micromanagement</li>
+                    <li>Parent-teacher meetings twice yearly</li>
+                    <li>Wilma - digital platform for school communication</li>
+                    <li>Parents expected to support but not hover</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-mid-August (10 weeks)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Winter break:</strong> One week (ski holiday - hiihtoloma)</li>
+                    <li><strong>Autumn and spring:</strong> Short breaks</li>
+                </ul>
+                
+                <h3>Practical Considerations</h3>
+                <ul>
+                    <li><strong>School supplies minimal:</strong> Most provided by school</li>
+                    <li><strong>Outdoor clothing essential:</strong> Warm, waterproof gear for all-weather outdoor time</li>
+                    <li><strong>Dark winters:</strong> Schools adapted to seasonal light variation</li>
+                    <li><strong>After-school care:</strong> Available for working parents (iltapäiväkerho)</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Finland 🤝",
+            content: `
+                <h3>Secular Society with Lutheran Heritage</h3>
+                <p>Finland is predominantly secular but with Evangelical Lutheran heritage. While majority are church members, active practice is low. Religion is considered private. Freedom of belief is complete, and society is tolerant of diverse faiths.</p>
+                
+                <h3>Religious Landscape</h3>
+                <ul>
+                    <li><strong>Evangelical Lutheran:</strong> ~67% members (declining) but only 2% attend weekly</li>
+                    <li><strong>Finnish Orthodox:</strong> ~1% (second national church)</li>
+                    <li><strong>Other religions:</strong> Small Muslim, Catholic, Jewish, Buddhist communities</li>
+                    <li><strong>Non-religious:</strong> ~30% and growing, especially among youth</li>
+                    <li><strong>Cultural Christianity:</strong> Many members for tradition, not active faith</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Church Membership vs. Practice:</strong> Most Finns are baptized Lutheran and maintain membership for lifecycle events (baptisms, confirmations, weddings, funerals) but are not religiously active. Church is cultural institution more than spiritual for many.
+                </div>
+                
+                <h3>Evangelical Lutheran Church of Finland</h3>
+                <ul>
+                    <li><strong>State church until 1869:</strong> Still "national church" with special status</li>
+                    <li><strong>Two official churches:</strong> Lutheran and Orthodox both have official status</li>
+                    <li><strong>Church tax:</strong> Members pay 1-2% church tax (can opt out by leaving church)</li>
+                    <li><strong>Property and funding:</strong> Owns significant property; receives tax funding</li>
+                    <li><strong>Social services:</strong> Runs charities, elderly care, some social services</li>
+                </ul>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Very low church attendance:</strong> Most don't attend except major holidays/lifecycle events</li>
+                    <li><strong>Christmas:</strong> Main religious/cultural holiday; churchgoing common on Christmas Eve</li>
+                    <li><strong>Easter:</strong> Observed but less religious emphasis than Central/Southern Europe</li>
+                    <li><strong>Confirmation:</strong> ~80% of youth still go through Lutheran confirmation (rippileiri) - often seen as cultural tradition/coming-of-age</li>
+                </ul>
+                
+                <h3>Church Tax and Membership</h3>
+                <ul>
+                    <li>Members of Lutheran or Orthodox Church pay church tax (1-2% of income)</li>
+                    <li>Can leave church (eroakirkosta.fi) to avoid tax - simple online process</li>
+                    <li>Leaving church doesn't affect civil rights or social standing</li>
+                    <li>Can rejoin later if desired</li>
+                    <li>Church weddings still possible even for non-members (with fee)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Church Tax:</strong> When you register in Finland, you're asked about religious affiliation. If you join Lutheran/Orthodox Church, you pay church tax. You're not automatically enrolled - it's your choice. Consider whether church membership matters to you.
+                </div>
+                
+                <h3>Christian Holidays</h3>
+                <ul>
+                    <li><strong>Christmas (joulu):</strong> Major holiday; Christmas Eve most important (Dec 24)</li>
+                    <li><strong>Easter (pääsiäinen):</strong> Friday-Monday holiday; traditions include mämmi and painted eggs</li>
+                    <li><strong>Midsummer (juhannus):</strong> Secular but originally Christian (St. John); biggest holiday of year</li>
+                    <li><strong>All Saints:</strong> First Saturday of November; visiting graves traditional</li>
+                    <li><strong>Ascension Day:</strong> Thursday in May (public holiday)</li>
+                </ul>
+                
+                <h3>Other Religious Communities</h3>
+                
+                <h4>Islam:</h4>
+                <ul>
+                    <li>Growing community, mostly in larger cities (Helsinki, Turku, Tampere)</li>
+                    <li>Mosques and prayer spaces available</li>
+                    <li>Halal food increasingly available in supermarkets</li>
+                    <li>Integration generally good but some social tensions exist</li>
+                </ul>
+                
+                <h4>Judaism:</h4>
+                <ul>
+                    <li>Small community, mainly in Helsinki</li>
+                    <li>Synagogues in Helsinki and Turku</li>
+                    <li>Kosher food available</li>
+                    <li>Community well-established</li>
+                </ul>
+                
+                <h4>Catholicism:</h4>
+                <ul>
+                    <li>Small but growing (immigration)</li>
+                    <li>Churches in major cities</li>
+                    <li>International masses available</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Complete freedom of religion guaranteed</li>
+                    <li>Right to practice any faith or none</li>
+                    <li>No discrimination based on religion (illegal)</li>
+                    <li>Building places of worship allowed</li>
+                    <li>Religious clothing permitted (no face-covering ban)</li>
+                </ul>
+                
+                <h3>Religion in Daily Life</h3>
+                <ul>
+                    <li><strong>Rarely discussed:</strong> Religion very private; not topic of conversation</li>
+                    <li><strong>Secularism strong:</strong> Religion separate from public life and politics</li>
+                    <li><strong>Schools:</strong> Optional religious education (Lutheran, Orthodox, or ethics for non-religious)</li>
+                    <li><strong>Workplace:</strong> Religion not discussed; accommodations for prayer if needed</li>
+                    <li><strong>Public holidays:</strong> Christian holidays but celebrated secularly by most</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Social Expectations:</strong> Keep faith private. Proselytizing is unwelcome. Strong religiosity can make Finns uncomfortable - they value quiet faith. Evangelical or fundamentalist expressions may face social disapproval. Moderate, personal practice is the norm.
+                </div>
+                
+                <h3>Nature as "Religion"</h3>
+                <p>Many Finns describe nature/forest as their "church":</p>
+                <ul>
+                    <li>Deep spiritual connection to nature and forests</li>
+                    <li>Sauna as spiritual/cleansing ritual</li>
+                    <li>Seasonal celebrations tied to nature more than religion</li>
+                    <li>Midsummer bonfires, berry picking, mushroom hunting - semi-spiritual traditions</li>
+                </ul>
+                
+                <h3>Sami Spirituality</h3>
+                <ul>
+                    <li>Indigenous Sami people in Lapland have traditional spiritual practices</li>
+                    <li>Shamanic traditions (noaidi)</li>
+                    <li>Sacred sites (sieidi)</li>
+                    <li>Most Sami also Lutheran but maintain cultural traditions</li>
+                    <li>Respect for Sami culture and sacred sites important</li>
+                </ul>
+                
+                <h3>Finding Religious Community</h3>
+                <ul>
+                    <li>Search online for places of worship in your area</li>
+                    <li>International churches offer services in various languages</li>
+                    <li>Helsinki has most diverse religious communities</li>
+                    <li>Smaller cities have fewer options but communities exist</li>
+                </ul>
+                
+                <h3>Church Architecture and Culture</h3>
+                <ul>
+                    <li>Beautiful Lutheran churches worth visiting as cultural sites</li>
+                    <li>Temppeliaukio Church (Rock Church) in Helsinki famous</li>
+                    <li>Orthodox churches in eastern Finland</li>
+                    <li>Open for visitors; modest dress appreciated</li>
+                    <li>Often used for concerts and cultural events</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If you value religious community, actively seek it out. Finnish reserve means people won't reach out - you must take initiative. International churches and multicultural congregations often warmest welcome for newcomers.
+                </div>
+            `
         }
     },
     baltics: {
@@ -5385,6 +7977,576 @@ const culturalData = {
                     <li>Strong connection to nature</li>
                     <li>Recycling programs are standard</li>
                     <li>Outdoor activities are popular year-round</li>
+                </ul>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Baltics 💊",
+            content: `
+                <h3>Healthcare Overview</h3>
+                <p>The Baltic states (Estonia, Latvia, Lithuania) provide universal healthcare through social insurance systems. All three have modernized rapidly since independence. Estonia leads in digital health services. Quality is good, especially in cities.</p>
+                
+                <h3>Healthcare Registration</h3>
+                <ul>
+                    <li><strong>Mandatory health insurance:</strong> Required for all residents</li>
+                    <li><strong>Through employment:</strong> Employer contributions cover workers</li>
+                    <li><strong>Self-employed:</strong> Must register and pay independently</li>
+                    <li><strong>Personal ID required:</strong> Health services tied to personal identification code</li>
+                </ul>
+                
+                <h3>Estonia: Digital Healthcare Leader</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Estonian Health Insurance Fund (Haigekassa):</strong> Administers system</li>
+                    <li><strong>Coverage:</strong> Employed, children, pensioners, registered unemployed covered</li>
+                    <li><strong>E-health:</strong> Digital prescriptions, patient portal, electronic health records</li>
+                    <li><strong>Patient Portal:</strong> Access your health data online</li>
+                </ul>
+                
+                <h4>Accessing Care:</h4>
+                <ul>
+                    <li><strong>Family doctor (perearst):</strong> Choose and register with GP</li>
+                    <li><strong>Appointments:</strong> Book via phone, online, or patient portal</li>
+                    <li><strong>Specialist referral:</strong> GP refers to specialists</li>
+                    <li><strong>Emergency: 112</strong></li>
+                    <li><strong>Patient fees:</strong> Small co-payments (€5 for GP, €10 for specialist)</li>
+                </ul>
+                
+                <h3>Latvia: Healthcare System</h3>
+                <ul>
+                    <li><strong>National Health Service (NHS/VVD):</strong> Manages healthcare</li>
+                    <li><strong>Compulsory insurance:</strong> Through social tax</li>
+                    <li><strong>GP registration:</strong> Choose ģimenes ārsts (family doctor)</li>
+                    <li><strong>Patient fees:</strong> Generally low or free for insured</li>
+                    <li><strong>E-health developing:</strong> Digital services expanding</li>
+                    <li><strong>Emergency: 113</strong></li>
+                </ul>
+                
+                <h3>Lithuania: Healthcare System</h3>
+                <ul>
+                    <li><strong>National Health Insurance Fund (NHIF/PSDF):</strong> Administers system</li>
+                    <li><strong>Compulsory insurance:</strong> Through employment or state coverage</li>
+                    <li><strong>GP (šeimos gydytojas):</strong> Register with family doctor</li>
+                    <li><strong>Patient fees:</strong> Small co-payments for some services</li>
+                    <li><strong>Digital services:</strong> e-health system developing</li>
+                    <li><strong>Emergency: 112</strong></li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Common Across Baltics:</strong>
+                    <ul>
+                        <li>Free or low-cost care for insured residents</li>
+                        <li>Private healthcare available for faster service</li>
+                        <li>Quality better in capital cities than rural areas</li>
+                        <li>Waiting times exist for non-urgent specialist care</li>
+                        <li>English spoken in private clinics, less in public system</li>
+                    </ul>
+                </div>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li>Growing sector in all three countries</li>
+                    <li>Faster appointments and English-speaking doctors</li>
+                    <li>Moderate costs compared to Western Europe</li>
+                    <li>Often used alongside public system</li>
+                    <li>Major cities have modern private clinics</li>
+                </ul>
+                
+                <h3>Pharmacies (Aptieka/Vaistinė)</h3>
+                <ul>
+                    <li><strong>Well-stocked:</strong> Green cross sign</li>
+                    <li><strong>E-prescriptions:</strong> Especially Estonia (fully digital)</li>
+                    <li><strong>Prescription required:</strong> For most medications</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may offer cheaper alternatives</li>
+                    <li><strong>24-hour pharmacies:</strong> Available in larger cities</li>
+                </ul>
+                
+                <h3>Costs and Reimbursement</h3>
+                <ul>
+                    <li>Patient fees minimal for insured (€5-10 typical)</li>
+                    <li>Prescription drugs partially reimbursed</li>
+                    <li>Chronic conditions: higher reimbursement rates</li>
+                    <li>Annual caps on out-of-pocket expenses</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li>Basic emergency dental care covered</li>
+                    <li>Routine dental mostly private and out-of-pocket</li>
+                    <li>Children receive free or subsidized dental care</li>
+                    <li>Costs moderate; dental tourism destination for some</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Estonia's e-health system is world-class. 99% of prescriptions are digital, all health data is online, and you can access everything via patient portal. Latvia and Lithuania are catching up with digital services.
+                </div>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Services available but stigma still exists</li>
+                    <li>Improving awareness and access</li>
+                    <li>Private psychologists more accessible</li>
+                    <li>Crisis lines available in all three countries</li>
+                </ul>
+                
+                <h3>For EU Citizens</h3>
+                <ul>
+                    <li>European Health Insurance Card (EHIC) provides temporary coverage</li>
+                    <li>Register for permanent residence to access full benefits</li>
+                    <li>S1 form for pensioners/certain categories</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Baltics 📋",
+            content: `
+                <h3>Digital-First Governance</h3>
+                <p>The Baltic states, especially Estonia, are digital governance pioneers. E-government services are advanced, efficient, and user-friendly. Most administrative tasks can be completed online once you're registered in the system.</p>
+                
+                <div class="tip">
+                    <strong>Estonia's E-Government:</strong> Estonia is the world's most digitally advanced society. 99% of public services online, digital signatures legally binding, X-Road system connects all databases. It's a glimpse of the future - embrace it!
+                </div>
+                
+                <h3>Estonia: E-Estonia</h3>
+                
+                <h4>Essential Registration:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Within 1 month at local government</li>
+                    <li><strong>Personal identification code (isikukood):</strong> Assigned upon registration</li>
+                    <li><strong>Digital ID:</strong> ID-card or Mobile-ID enables all e-services</li>
+                    <li><strong>Health insurance:</strong> Register with Haigekassa</li>
+                    <li><strong>Tax:</strong> Register with Tax and Customs Board</li>
+                </ul>
+                
+                <h4>E-Services:</h4>
+                <ul>
+                    <li><strong>E-identity:</strong> ID-card or Mobile-ID for secure authentication</li>
+                    <li><strong>E-residency:</strong> Digital identity for non-residents (for entrepreneurs)</li>
+                    <li><strong>E-tax:</strong> File taxes online in minutes</li>
+                    <li><strong>E-prescription:</strong> 99% of prescriptions are digital</li>
+                    <li><strong>E-health:</strong> Access all health records online</li>
+                    <li><strong>E-banking:</strong> Fully integrated with government services</li>
+                    <li><strong>E-signature:</strong> Legally binding digital signatures</li>
+                </ul>
+                
+                <h3>Latvia: Latvija.lv Portal</h3>
+                
+                <h4>Essential Steps:</h4>
+                <ul>
+                    <li><strong>Register address:</strong> At Office of Citizenship and Migration Affairs (OCMA/PMLP)</li>
+                    <li><strong>Personal code (personas kods):</strong> Assigned upon registration</li>
+                    <li><strong>eParaksts:</strong> Electronic signature system</li>
+                    <li><strong>Tax registration:</strong> State Revenue Service (VID)</li>
+                </ul>
+                
+                <h4>Digital Services:</h4>
+                <ul>
+                    <li><strong>Latvija.lv:</strong> Central e-government portal</li>
+                    <li><strong>Growing e-services:</strong> Expanding digital government</li>
+                    <li><strong>eParaksts Mobile:</strong> Mobile digital signature</li>
+                    <li><strong>E-declaration system:</strong> For taxes</li>
+                </ul>
+                
+                <h3>Lithuania: E-Government Services</h3>
+                
+                <h4>Essential Registration:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> At Migration Department</li>
+                    <li><strong>Personal code (asmens kodas):</strong> Assigned at registration</li>
+                    <li><strong>Tax registration:</strong> State Tax Inspectorate (VMI)</li>
+                    <li><strong>Social insurance:</strong> Sodra (social security)</li>
+                </ul>
+                
+                <h4>Digital Services:</h4>
+                <ul>
+                    <li><strong>eGov gateway:</strong> Access to government e-services</li>
+                    <li><strong>E-signature:</strong> Mobile and smart-ID signature</li>
+                    <li><strong>E-tax:</strong> Online tax declarations</li>
+                    <li><strong>Developing systems:</strong> Modernization ongoing</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Personal ID Code is Key:</strong> Like Scandinavia, your personal identification code unlocks everything in the Baltics. You need it for banking, healthcare, employment, housing, phone contracts - everything. Get it immediately upon arrival.
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Personal ID required:</strong> Must have identification code</li>
+                    <li><strong>Proof of residence:</strong> Rental contract or registration certificate</li>
+                    <li><strong>Major banks:</strong> Swedbank, SEB, Luminor operate across Baltics</li>
+                    <li><strong>Online banking:</strong> Sophisticated; used for authentication of e-services</li>
+                    <li><strong>Euro currency:</strong> All three countries use Euro</li>
+                </ul>
+                
+                <h3>Documentation</h3>
+                <ul>
+                    <li><strong>Translated documents:</strong> Official translations required for foreign documents</li>
+                    <li><strong>Apostille:</strong> Foreign official documents need apostille</li>
+                    <li><strong>Digital copies:</strong> Scan everything - digital systems expect this</li>
+                    <li><strong>Less paperwork:</strong> Than traditional European bureaucracies</li>
+                </ul>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>EU citizens:</strong> Right to work; register residence</li>
+                    <li><strong>Non-EU:</strong> Work permit required</li>
+                    <li><strong>Employment contract:</strong> Registered digitally with authorities</li>
+                    <li><strong>Social contributions:</strong> Automatic through employment</li>
+                    <li><strong>Unemployment:</strong> Register with employment service if needed</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Estonia:</strong> 20% flat income tax; unique system (no tax on retained corporate profits)</li>
+                    <li><strong>Latvia:</strong> Progressive 20-31% income tax</li>
+                    <li><strong>Lithuania:</strong> 20% or 32% (two rates) income tax</li>
+                    <li><strong>Social contributions:</strong> Additional deductions for social security</li>
+                    <li><strong>E-declarations:</strong> File taxes online; often pre-filled</li>
+                </ul>
+                
+                <h3>Property and Utilities</h3>
+                <ul>
+                    <li>Rental contracts should be registered</li>
+                    <li>Utilities often included in rent or paid separately</li>
+                    <li>Online payment systems well-developed</li>
+                    <li>Property ownership: foreigners can buy (some restrictions on agricultural land)</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>EU licenses valid:</strong> Can use EU/EEA license</li>
+                    <li><strong>Non-EU exchange:</strong> May need to exchange license</li>
+                    <li><strong>Vehicle registration:</strong> Straightforward if importing</li>
+                    <li><strong>Annual inspection:</strong> Required for older vehicles</li>
+                    <li><strong>Winter tires:</strong> Mandatory in winter months</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Language:</strong> While digital systems often have English, knowing some local language helps with older officials and rural areas. English widely spoken by younger people in cities.
+                </div>
+                
+                <h3>What Makes Baltic Bureaucracy Work</h3>
+                <ul>
+                    <li><strong>Digital-first mindset:</strong> Paper increasingly rare</li>
+                    <li><strong>Efficiency valued:</strong> Soviet legacy rejected; modern systems prized</li>
+                    <li><strong>Transparency:</strong> Data sharing between agencies (with privacy protections)</li>
+                    <li><strong>Innovation:</strong> Willing to try new approaches</li>
+                    <li><strong>English available:</strong> Especially online services</li>
+                </ul>
+                
+                <h3>Business and E-Residency (Estonia)</h3>
+                <ul>
+                    <li>Estonia's e-Residency allows anyone globally to establish EU company digitally</li>
+                    <li>Remote business management entirely online</li>
+                    <li>Access to EU market</li>
+                    <li>Digital nomad and startup-friendly environment</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Baltics 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Baltic education systems combine Soviet legacy with modern European standards. Strong emphasis on academic achievement, multilingualism, and increasingly, digital learning. Education is free and compulsory through secondary level. Quality is good, particularly in cities.</p>
+                
+                <h3>School Structure (Similar Across Baltics)</h3>
+                
+                <h4>Pre-Primary (Ages 1-7):</h4>
+                <ul>
+                    <li><strong>Kindergarten/Pre-school:</strong> Available from age 1-2; subsidized</li>
+                    <li>Mandatory pre-primary year before school (age 6-7)</li>
+                    <li>Focus on play-based learning and school readiness</li>
+                    <li>Language immersion options in some areas</li>
+                </ul>
+                
+                <h4>Basic Education (Ages 7-16):</h4>
+                <ul>
+                    <li><strong>9 years compulsory:</strong> Free public education</li>
+                    <li><strong>Primary (1-4):</strong> General basic skills</li>
+                    <li><strong>Lower secondary (5-9):</strong> Subject specialization begins</li>
+                    <li>Strong academic focus; homework substantial</li>
+                    <li>Foreign language from early grades (typically English)</li>
+                </ul>
+                
+                <h4>Upper Secondary (Ages 16-19):</h4>
+                <ul>
+                    <li><strong>General academic track (gymnasium):</strong> Prepares for university</li>
+                    <li><strong>Vocational track:</strong> Professional education; increasingly valued</li>
+                    <li>Free education</li>
+                    <li>Final state exams determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Multilingualism:</strong> Baltic students typically learn 2-3 languages. English taught from early grades, often Russian or German/French as third language. High proficiency is normal - don't be surprised if children become trilingual!
+                </div>
+                
+                <h3>Estonia: Education Innovation</h3>
+                <ul>
+                    <li><strong>High PISA scores:</strong> Among Europe's best in math, science, reading</li>
+                    <li><strong>Digital education:</strong> E-schoolbag system; digital textbooks; coding from Grade 1</li>
+                    <li><strong>Teacher quality:</strong> Well-trained, respected profession</li>
+                    <li><strong>Language policy:</strong> Estonian-medium instruction; Russian-medium schools being transitioned</li>
+                    <li><strong>E-kooli:</strong> Digital diary connecting school, parents, students</li>
+                </ul>
+                
+                <h3>Latvia: Education System</h3>
+                <ul>
+                    <li><strong>Academic focus:</strong> Strong emphasis on academic achievement</li>
+                    <li><strong>Language transition:</strong> Moving to Latvian-medium instruction in all schools</li>
+                    <li><strong>Bilingual programs:</strong> Some schools offer bilingual Latvian-minority language programs</li>
+                    <li><strong>Song and dance traditions:</strong> Choral singing and folk dancing integral to education</li>
+                </ul>
+                
+                <h3>Lithuania: Education System</h3>
+                <ul>
+                    <li><strong>Traditional values:</strong> Academic rigor, respect for teachers</li>
+                    <li><strong>Lithuanian-medium:</strong> Instruction primarily in Lithuanian; minority language schools exist</li>
+                    <li><strong>Reform ongoing:</strong> Modernizing curriculum and teaching methods</li>
+                    <li><strong>Strong humanities:</strong> Literature, history emphasized</li>
+                </ul>
+                
+                <h3>School Culture</h3>
+                <ul>
+                    <li><strong>Respect for teachers:</strong> Authority figures; formal relationships</li>
+                    <li><strong>Academic pressure:</strong> Achievement valued; competitive environment</li>
+                    <li><strong>Homework substantial:</strong> From primary school onward</li>
+                    <li><strong>Grading:</strong> 1-10 scale typical; high standards</li>
+                    <li><strong>Exams important:</strong> State exams determine university entrance</li>
+                </ul>
+                
+                <h3>School Day</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 2:00/3:00 PM</li>
+                    <li><strong>Lunch:</strong> School meals provided (sometimes paid, often free/subsidized)</li>
+                    <li><strong>After-school:</strong> Activities and extended day programs available</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, high quality, majority attend</li>
+                    <li><strong>Private schools:</strong> Growing sector; often emphasize languages or alternative pedagogies</li>
+                    <li><strong>International schools:</strong> Available in capital cities; English instruction; expensive</li>
+                </ul>
+                
+                <h3>Higher Education</h3>
+                <ul>
+                    <li><strong>Universities and colleges:</strong> Academic and applied tracks</li>
+                    <li><strong>State-funded places:</strong> Free tuition for top performers</li>
+                    <li><strong>Paid places:</strong> Available for those not qualifying for state funding</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system (Bachelor, Master, PhD)</li>
+                    <li><strong>English programs:</strong> Many master's programs offered in English</li>
+                    <li><strong>Quality:</strong> Several ranked universities; strong in IT, sciences</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Estonia's Tech Education:</strong> Estonia has highest number of startups per capita in Europe. Education system emphasizes digital skills, entrepreneurship, and innovation. Children learn coding from Grade 1. Great for tech-oriented families!
+                </div>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Language barrier:</strong> Learning local language essential for public schools</li>
+                    <li><strong>Language support:</strong> Programs exist but vary by school and region</li>
+                    <li><strong>International schools:</strong> Easier transition but expensive</li>
+                    <li><strong>Fast integration:</strong> Children often pick up language quickly through immersion</li>
+                    <li><strong>Credential recognition:</strong> Foreign qualifications assessed for appropriate placement</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings regularly (quarterly or twice yearly)</li>
+                    <li>Digital communication systems (e-kooli in Estonia, etc.)</li>
+                    <li>Parents monitor homework and academic progress</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Active parent communities in most schools</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-August (3 months)</li>
+                    <li><strong>Winter:</strong> Christmas/New Year (2 weeks)</li>
+                    <li><strong>Spring:</strong> Easter break (1 week)</li>
+                    <li><strong>Autumn:</strong> Short break (1 week)</li>
+                    <li><strong>National holidays:</strong> Independence Days, Midsummer</li>
+                </ul>
+                
+                <h3>Unique Cultural Elements</h3>
+                <ul>
+                    <li><strong>Song festivals:</strong> Massive choral events involving thousands; schools participate</li>
+                    <li><strong>Outdoor education:</strong> Forest schools, nature education emphasized</li>
+                    <li><strong>National pride:</strong> History and national identity important in curriculum</li>
+                    <li><strong>STEM focus:</strong> Especially Estonia - strong math, science, IT education</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Teacher salaries modest (though improving)</li>
+                    <li>Rural-urban quality gap exists</li>
+                    <li>Language policy changes can be contentious</li>
+                    <li>Brain drain - educated youth often emigrate</li>
+                    <li>Declining birth rates affecting school populations</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Baltics 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Baltic states have diverse religious histories influenced by various occupations and migrations. Current religiosity is low compared to most of Europe, with secularism strong especially in Estonia. Each country has different religious composition and relationship with faith.</p>
+                
+                <h3>Estonia: Most Secular Country in Europe</h3>
+                <p>Estonia is one of the world's least religious societies:</p>
+                <ul>
+                    <li><strong>Non-religious:</strong> ~70-75% claim no religious affiliation</li>
+                    <li><strong>Lutheran heritage:</strong> Historically Protestant but very secularized</li>
+                    <li><strong>Orthodox minority:</strong> ~15% (mainly ethnic Russians)</li>
+                    <li><strong>Church attendance:</strong> Minimal (~5%)</li>
+                    <li><strong>Religion very private:</strong> Rarely discussed or displayed publicly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Estonian Secularity:</strong> Estonians often joke they worship nature and the internet more than God. Religion is deeply private. Even church buildings used primarily as cultural venues. Don't expect religious discussions or displays.
+                </div>
+                
+                <h3>Latvia: Lutheran and Catholic Mix</h3>
+                <ul>
+                    <li><strong>Lutheran:</strong> ~35% (traditional faith of ethnic Latvians)</li>
+                    <li><strong>Catholic:</strong> ~25% (particularly Latgale region)</li>
+                    <li><strong>Orthodox:</strong> ~15% (mainly ethnic Russians)</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among youth</li>
+                    <li><strong>More religious:</strong> Than Estonia but still largely secular</li>
+                </ul>
+                
+                <h3>Lithuania: Most Religious Baltic State</h3>
+                <ul>
+                    <li><strong>Catholic:</strong> ~80% identify as Catholic (though many non-practicing)</li>
+                    <li><strong>Orthodox:</strong> Small minority</li>
+                    <li><strong>Church attendance:</strong> Higher than other Baltics but declining</li>
+                    <li><strong>Catholic identity:</strong> Intertwined with Lithuanian national identity</li>
+                    <li><strong>More traditional:</strong> Religion plays larger cultural role than Estonia/Latvia</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Complete freedom of religion in all three countries</li>
+                    <li>No state church (though Lutheran churches have historical significance)</li>
+                    <li>Right to practice any faith or none</li>
+                    <li>Religious discrimination illegal</li>
+                    <li>Growing religious diversity through immigration</li>
+                </ul>
+                
+                <h3>Major Religious Traditions</h3>
+                
+                <h4>Lutheranism (Estonia, Latvia):</h4>
+                <ul>
+                    <li>Historical state religion</li>
+                    <li>Beautiful historic churches (often now museums or concert venues)</li>
+                    <li>Christmas and Easter observed culturally more than religiously</li>
+                    <li>Low church attendance</li>
+                </ul>
+                
+                <h4>Catholicism (Lithuania, Latgale region of Latvia):</h4>
+                <ul>
+                    <li>Stronger presence in Lithuania</li>
+                    <li>Pilgrimage sites (Hill of Crosses in Lithuania)</li>
+                    <li>Catholic holidays observed</li>
+                    <li>Pope John Paul II important figure for Lithuanians</li>
+                </ul>
+                
+                <h4>Orthodox Christianity:</h4>
+                <ul>
+                    <li>Primarily ethnic Russian communities</li>
+                    <li>Beautiful Orthodox churches and cathedrals</li>
+                    <li>Alexander Nevsky Cathedral (Tallinn), Orthodox churches (Riga)</li>
+                    <li>Follow Julian calendar (different holiday dates)</li>
+                </ul>
+                
+                <h3>Religious Holidays</h3>
+                <ul>
+                    <li><strong>Christmas:</strong> December 24-26 (public holidays in all three)</li>
+                    <li><strong>Easter:</strong> Western Easter (public holiday)</li>
+                    <li><strong>All Saints' Day:</strong> November 1 (particularly Lithuania)</li>
+                    <li>Holidays often observed as secular time off rather than religious observance</li>
+                </ul>
+                
+                <h3>Unique Cultural Celebrations</h3>
+                
+                <h4>Midsummer (Jāņi/Joninės/Jaanipäev):</h4>
+                <p>Most important holiday - pre-Christian, pagan-rooted celebration:</p>
+                <ul>
+                    <li><strong>June 23-24:</strong> Summer solstice celebration</li>
+                    <li><strong>Bonfires:</strong> All-night festivities</li>
+                    <li><strong>Nature rituals:</strong> Flower crowns, jumping over fires, searching for fern flower</li>
+                    <li><strong>Beer and singing:</strong> Traditional foods and folk songs</li>
+                    <li><strong>National holiday:</strong> Most important summer celebration</li>
+                </ul>
+                
+                <h4>Song Festivals:</h4>
+                <ul>
+                    <li>Mass choral events with thousands of singers</li>
+                    <li>Deeply cultural/national, not religious</li>
+                    <li>UNESCO Intangible Cultural Heritage</li>
+                    <li>Singing Revolution legacy - songs helped achieve independence</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Nature Spirituality:</strong> Like Finns, many Balts describe connection to nature as their "religion." Forests, Baltic Sea, ancient oak groves have spiritual significance. Midsummer celebration connects to pre-Christian nature worship.
+                </div>
+                
+                <h3>Other Religious Communities</h3>
+                <ul>
+                    <li><strong>Muslims:</strong> Small but growing communities, mainly in capitals</li>
+                    <li><strong>Jews:</strong> Historic communities decimated in Holocaust; small communities remain</li>
+                    <li><strong>Various Christian denominations:</strong> Baptists, Pentecostals, others</li>
+                    <li><strong>New Age/Spiritual:</strong> Growing interest in alternative spirituality</li>
+                </ul>
+                
+                <h3>Religion in Daily Life</h3>
+                <ul>
+                    <li><strong>Very private:</strong> Religion rarely discussed in social/work settings</li>
+                    <li><strong>Secularism strong:</strong> Especially Estonia and Latvia</li>
+                    <li><strong>Lifecycle events:</strong> Some still mark with religious ceremonies (baptisms, church weddings, funerals)</li>
+                    <li><strong>Schools:</strong> Religious education optional; comparative approach</li>
+                    <li><strong>Churches as culture:</strong> Historic churches often function as museums/concert halls</li>
+                </ul>
+                
+                <h3>Religious Sites</h3>
+                <ul>
+                    <li><strong>Tallinn:</strong> Alexander Nevsky Cathedral, St. Mary's Cathedral</li>
+                    <li><strong>Riga:</strong> Riga Cathedral, St. Peter's Church</li>
+                    <li><strong>Vilnius:</strong> Vilnius Cathedral, Gates of Dawn, Hill of Three Crosses</li>
+                    <li><strong>Hill of Crosses (Lithuania):</strong> Major pilgrimage site; powerful symbol of faith and resistance</li>
+                    <li>Most churches welcome respectful visitors</li>
+                </ul>
+                
+                <h3>Soviet Legacy</h3>
+                <ul>
+                    <li>50 years of Soviet atheism deeply affected religious practice</li>
+                    <li>Churches closed, clergy persecuted, religious practice suppressed</li>
+                    <li>Created generations with little religious upbringing</li>
+                    <li>Post-independence: freedom restored but secularization continued</li>
+                    <li>Religion associated by some with resistance to Soviet occupation (especially Lithuania)</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li><strong>Practice privately:</strong> Faith is personal matter; public displays uncommon</li>
+                    <li><strong>Proselytizing unwelcome:</strong> Evangelism viewed negatively</li>
+                    <li><strong>Finding community:</strong> Religious communities exist but may be small; search online</li>
+                    <li><strong>International churches:</strong> In capitals, various denominations offer English-language services</li>
+                    <li><strong>Respect secular culture:</strong> Don't assume religious observance or knowledge</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Cultural vs. Religious Identity:</strong> Many Balts identify culturally with Lutheran or Catholic heritage without religious belief. Christmas and Easter are cultural holidays, not primarily religious. Understand this distinction when discussing faith.
+                </div>
+                
+                <h3>Social Attitudes</h3>
+                <ul>
+                    <li>Tolerance for diverse beliefs (or non-belief)</li>
+                    <li>Strong religiosity can make people uncomfortable (especially Estonia)</li>
+                    <li>LGBTQ+ rights vary: Estonia most progressive, Lithuania most traditional</li>
+                    <li>Younger generations more secular than older</li>
+                    <li>Urban-rural divide: cities more secular, rural areas more traditional</li>
                 </ul>
             `
         }
