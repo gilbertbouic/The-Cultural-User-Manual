@@ -162,42 +162,9 @@ function stopHandTracking() {
     console.log('Hand tracking stopped');
 }
 
-// Auto-initialize when page loads
+// Auto-initialize when page loads (button removed as per user request)
+// Hand tracking can still be triggered programmatically if needed
 window.addEventListener('load', () => {
-    // Add a small button to toggle hand tracking
-    const toggleButton = document.createElement('button');
-    toggleButton.id = 'hand-tracking-toggle';
-    toggleButton.innerHTML = '📷 Enable Hand Tracking';
-    toggleButton.style.cssText = `
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        padding: 12px 20px;
-        background: linear-gradient(135deg, #6c63ff 0%, #5a52d4 100%);
-        color: white;
-        border: none;
-        border-radius: 25px;
-        cursor: pointer;
-        font-size: 0.9rem;
-        font-weight: 600;
-        box-shadow: 0 4px 15px rgba(108, 99, 255, 0.3);
-        z-index: 1000;
-        transition: all 0.3s ease;
-    `;
-    
-    toggleButton.addEventListener('click', async () => {
-        if (!isTracking) {
-            const success = await initHandTracking();
-            if (success) {
-                toggleButton.innerHTML = '📷 Disable Hand Tracking';
-                toggleButton.style.background = 'linear-gradient(135deg, #ff6b6b 0%, #c92a2a 100%)';
-            }
-        } else {
-            stopHandTracking();
-            toggleButton.innerHTML = '📷 Enable Hand Tracking';
-            toggleButton.style.background = 'linear-gradient(135deg, #6c63ff 0%, #5a52d4 100%)';
-        }
-    });
-    
-    document.body.appendChild(toggleButton);
+    // Hand tracking toggle button has been removed
+    // To enable hand tracking, call initHandTracking() from console
 });
