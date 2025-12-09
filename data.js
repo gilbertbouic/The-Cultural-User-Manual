@@ -6705,6 +6705,458 @@ const culturalData = {
                     <li>Easter is the most important holiday</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare System in Greece 💊",
+            content: `
+                <h3>National Healthcare System (ESY)</h3>
+                <p>Greece provides universal healthcare through ESY (Ethniko Systima Ygeias). EU citizens with European Health Insurance Card have access. The system faces challenges but provides essential care.</p>
+                
+                <h3>Healthcare Registration</h3>
+                <ul>
+                    <li><strong>AMKA number:</strong> Social security number required for healthcare access</li>
+                    <li><strong>IKA (Social Insurance Institute):</strong> Main provider for employed persons</li>
+                    <li><strong>Registration:</strong> Through employment or municipality for residents</li>
+                    <li><strong>EU citizens:</strong> EHIC provides temporary coverage; register for permanent residence</li>
+                </ul>
+                
+                <h3>Primary Care</h3>
+                <ul>
+                    <li><strong>Public health centers (Kentro Ygeias):</strong> Free basic care</li>
+                    <li><strong>GP services:</strong> Limited in public system; private GPs more accessible</li>
+                    <li><strong>Appointments:</strong> Can involve long waits in public system</li>
+                    <li><strong>No referral system:</strong> Can access specialists directly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Public vs. Private Reality:</strong> Many Greeks use public system for emergencies and serious illness but rely on private doctors for routine care. Private healthcare is more accessible but costs apply. Consider supplemental private insurance.
+                </div>
+                
+                <h3>Hospitals</h3>
+                <ul>
+                    <li><strong>Public hospitals:</strong> Free care but overcrowded; long waits common</li>
+                    <li><strong>Private clinics:</strong> Better facilities, shorter waits, English-speaking staff</li>
+                    <li><strong>Islands:</strong> Limited facilities; serious cases transferred to mainland</li>
+                    <li><strong>Emergency: 166</strong> (ambulance); 112 (general emergency)</li>
+                </ul>
+                
+                <h3>Pharmacies</h3>
+                <ul>
+                    <li><strong>Well-stocked:</strong> Green cross sign; pharmacists knowledgeable</li>
+                    <li><strong>Prescription required:</strong> For most medications</li>
+                    <li><strong>After-hours:</strong> Rotating duty pharmacies (farmakeio efimerevo) open 24/7</li>
+                    <li><strong>Costs:</strong> Prescription medicines have co-payments; reimbursement through social insurance</li>
+                </ul>
+                
+                <h3>Costs and Insurance</h3>
+                <ul>
+                    <li>Public healthcare theoretically free but unofficial payments (fakelaki) historically expected</li>
+                    <li>This practice declining but awareness helpful</li>
+                    <li>Private insurance recommended for comprehensive coverage</li>
+                    <li>International insurance useful, especially for dental and specialist care</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Islands have limited medical facilities. If living on an island, understand what care is available locally and where you'd need to travel for specialized treatment. Medical tourism to Athens is common from islands.
+                </div>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Services available but stigma still exists</li>
+                    <li>Private psychologists and psychiatrists more accessible</li>
+                    <li>Some English-speaking practitioners in Athens and major cities</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li>Not covered by public system except emergencies</li>
+                    <li>Private dentists widely available</li>
+                    <li>Costs moderate compared to Western Europe</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Greece 📋",
+            content: `
+                <h3>Greek Bureaucracy</h3>
+                <p>Greek bureaucracy has a reputation for complexity and inefficiency. Digital services are improving, but many processes still require in-person visits, patience, and persistence. Personal connections can help.</p>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Greek bureaucracy can be frustrating. Expect: multiple visits to offices, conflicting information from different officials, requests for additional documents, and longer processing times than stated. Patience is essential!
+                </div>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Key Numbers and Documents:</h4>
+                <ul>
+                    <li><strong>AFM (Tax Identification Number):</strong> Essential for everything - banking, employment, renting. Get this first!</li>
+                    <li><strong>AMKA (Social Security Number):</strong> Required for healthcare</li>
+                    <li><strong>Residence permit:</strong> Non-EU citizens apply at Immigration Office</li>
+                    <li><strong>Registration certificate:</strong> EU citizens register at municipality</li>
+                </ul>
+                
+                <h4>Where to Go:</h4>
+                <ul>
+                    <li><strong>Tax Office (Eforia):</strong> For AFM registration</li>
+                    <li><strong>Municipality (Dimos):</strong> For residence registration</li>
+                    <li><strong>AMKA office:</strong> Usually within IKA or municipality</li>
+                    <li><strong>KEP (Citizen Service Centers):</strong> One-stop shops for some services</li>
+                </ul>
+                
+                <h3>Getting Your AFM</h3>
+                <p>The tax number (AFM) is crucial:</p>
+                <ul>
+                    <li>Visit local tax office with passport and proof of residence</li>
+                    <li>May need address verification from landlord or police</li>
+                    <li>Process usually same day once you have all documents</li>
+                    <li>Some offices allow online appointment booking</li>
+                </ul>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>AFM required:</strong> Can't open bank account without tax number</li>
+                    <li><strong>Proof of residence:</strong> Rental contract or utility bill</li>
+                    <li><strong>Capital controls legacy:</strong> Some restrictions may still apply</li>
+                    <li><strong>International banks:</strong> May be easier for foreigners</li>
+                </ul>
+                
+                <h3>Documentation</h3>
+                <ul>
+                    <li><strong>Translations:</strong> Official translations required for foreign documents</li>
+                    <li><strong>Apostille:</strong> Foreign official documents need apostille stamp</li>
+                    <li><strong>Photocopies:</strong> Always bring originals plus multiple copies</li>
+                    <li><strong>Photos:</strong> Passport-style photos frequently needed</li>
+                    <li><strong>Receipts:</strong> Keep all paperwork and stamped receipts</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Survival Tips:</strong>
+                    <ul>
+                        <li>Arrive early - offices get busy and may have limited capacity</li>
+                        <li>Bring everything you might possibly need - passport, copies, photos, proof of everything</li>
+                        <li>Don't assume logic - processes may not make sense; just comply</li>
+                        <li>Be polite and patient - rudeness will not help</li>
+                        <li>Having a Greek-speaking friend is invaluable</li>
+                    </ul>
+                </div>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>Work permit:</strong> Non-EU citizens need work authorization</li>
+                    <li><strong>IKA registration:</strong> Social insurance through employer</li>
+                    <li><strong>Employment contract:</strong> Should be formalized and registered</li>
+                    <li><strong>Contributions:</strong> Both employer and employee pay into system</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Progressive rates; employer typically withholds</li>
+                    <li><strong>Annual declaration:</strong> Required even if taxes already withheld</li>
+                    <li><strong>TAXISnet:</strong> Online portal for tax declarations</li>
+                    <li><strong>Property tax (ENFIA):</strong> Annual tax on property ownership</li>
+                    <li><strong>Tax advisor:</strong> Accountant (logistis) recommended for complex situations</li>
+                </ul>
+                
+                <h3>Utilities and Services</h3>
+                <ul>
+                    <li>Electricity (DEI), water, telephone require AFM</li>
+                    <li>Contracts typically require deposit</li>
+                    <li>Bills can be paid at banks, post offices, or online</li>
+                    <li>Landlord may include some utilities in rent</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; non-EU may need Greek license</li>
+                    <li><strong>Vehicle registration:</strong> Complex if importing car</li>
+                    <li><strong>Insurance mandatory:</strong> Third-party minimum</li>
+                    <li><strong>Annual inspections (KTEO):</strong> Required for vehicles over 4 years old</li>
+                </ul>
+                
+                <h3>Real Estate</h3>
+                <ul>
+                    <li><strong>Notary required:</strong> All property transactions go through notary</li>
+                    <li><strong>Property tax (ENFIA):</strong> Annual tax based on location and value</li>
+                    <li><strong>Lawyer recommended:</strong> For property purchases to verify title</li>
+                    <li><strong>Fees substantial:</strong> Transfer taxes, legal fees, notary fees add up</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Economic Crisis Legacy:</strong> Greek bureaucracy expanded during crisis with additional taxes and controls. Some still exist. Systems are slowly modernizing with digital services, but paper processes remain common.
+                </div>
+                
+                <h3>Digital Services</h3>
+                <ul>
+                    <li><strong>TAXISnet:</strong> Tax-related services online</li>
+                    <li><strong>gov.gr:</strong> Central government services portal</li>
+                    <li><strong>Improving:</strong> More services going online but not all processes yet digital</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Greece 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Greek education is centralized with national curriculum. Education is free and compulsory through age 15. Traditional teaching methods prevail, with emphasis on classical education and memorization. Private tutoring (frontistirio) is extremely common.</p>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Pre-Primary (4-5 years):</h4>
+                <ul>
+                    <li><strong>Nipiagogio (kindergarten):</strong> Optional but free; widely attended</li>
+                    <li>Prepares children for primary school</li>
+                    <li>Play-based learning with some academic preparation</li>
+                </ul>
+                
+                <h4>Primary School (Dimotiko) - Ages 6-12:</h4>
+                <ul>
+                    <li><strong>6 grades:</strong> Compulsory, free public education</li>
+                    <li><strong>Core subjects:</strong> Greek, math, science, history, religion</li>
+                    <li><strong>Foreign language:</strong> English typically begins in Grade 3</li>
+                    <li><strong>Homework:</strong> Substantial from early grades</li>
+                    <li><strong>Traditional methods:</strong> Teacher-centered, emphasis on memorization</li>
+                </ul>
+                
+                <h4>Gymnasium (Lower Secondary) - Ages 12-15:</h4>
+                <ul>
+                    <li><strong>3 years:</strong> Compulsory, free</li>
+                    <li>Academic curriculum intensifies</li>
+                    <li>Second foreign language introduced (often French or German)</li>
+                    <li>Grading system: 0-20 scale (10+ is passing)</li>
+                </ul>
+                
+                <h4>Lykeio (Upper Secondary) - Ages 15-18:</h4>
+                <ul>
+                    <li><strong>3 years:</strong> Optional but most attend; free</li>
+                    <li><strong>General or vocational tracks</strong></li>
+                    <li>Intense preparation for university entrance exams (Panhellenic Examinations)</li>
+                    <li>Final year almost entirely focused on exam preparation</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Frontistirio Culture:</strong> Private afternoon tutoring schools (frontistiria) are ubiquitous. Most students attend them for extra lessons, especially in secondary school. This is essential for competitive university entrance. Budget for this if your child will attend Greek schools.
+                </div>
+                
+                <h3>School Schedule</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 1:30/2:30 PM (morning shift)</li>
+                    <li><strong>No lunch:</strong> Students go home after school; no cafeteria meals</li>
+                    <li><strong>Saturday:</strong> No school (used to have Saturday mornings)</li>
+                    <li><strong>Afternoon activities:</strong> Frontistirio, sports, music lessons</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, follow national curriculum, Greek language</li>
+                    <li><strong>Private schools:</strong> Tuition fees; some offer alternative curricula; better facilities often</li>
+                    <li><strong>International schools:</strong> In Athens and major cities; expensive; English or other languages; IB, British, or American curricula</li>
+                </ul>
+                
+                <h3>University Entrance</h3>
+                <ul>
+                    <li><strong>Panhellenic Examinations:</strong> National exams determine university placement</li>
+                    <li><strong>Extremely competitive:</strong> Limited university spots; high-stakes testing</li>
+                    <li><strong>Subject specialization:</strong> Students choose academic direction in Lykeio</li>
+                    <li><strong>Exam subjects:</strong> 4 subjects tested; scores determine which universities/programs possible</li>
+                    <li><strong>Frontistirio essential:</strong> School alone often insufficient for competitive exams</li>
+                </ul>
+                
+                <h3>University Education</h3>
+                <ul>
+                    <li><strong>Free public universities:</strong> No tuition at public institutions</li>
+                    <li><strong>Competitive entry:</strong> Exam-based; some programs extremely selective</li>
+                    <li><strong>Language:</strong> Taught in Greek; some postgraduate programs in English</li>
+                    <li><strong>Student life:</strong> Vibrant culture; affordable living (outside Athens)</li>
+                    <li><strong>Many study abroad:</strong> Due to competitive entrance, many Greeks study in other EU countries</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>For Foreign Students:</strong>
+                    <ul>
+                        <li>Greek language proficiency required for public schools</li>
+                        <li>Language support programs exist but vary</li>
+                        <li>International schools available for non-Greek instruction</li>
+                        <li>Foreign qualifications recognized for university with evaluation</li>
+                    </ul>
+                </div>
+                
+                <h3>School Culture</h3>
+                <ul>
+                    <li><strong>Teacher respect:</strong> Authority figures; formal relationships</li>
+                    <li><strong>Religion in curriculum:</strong> Greek Orthodox religion taught (opt-out possible)</li>
+                    <li><strong>National pride:</strong> Greek history and culture emphasized</li>
+                    <li><strong>Memorization valued:</strong> Learning by rote still common</li>
+                    <li><strong>Competitive environment:</strong> Academic pressure especially in secondary school</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings periodically</li>
+                    <li>Parents monitor homework closely</li>
+                    <li>School councils exist but teacher authority strong</li>
+                    <li>Parents often heavily involved in child's academic success</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-September (3 months!)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Easter:</strong> 2 weeks (Orthodox Easter - date varies)</li>
+                    <li><strong>Carnival:</strong> "Apokries" break</li>
+                    <li><strong>National holidays:</strong> March 25 (Independence Day), October 28 (Ohi Day)</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Underfunded public schools; infrastructure varies</li>
+                    <li>Teacher strikes occur periodically</li>
+                    <li>Frontistirio costs add up significantly</li>
+                    <li>High-stakes exam culture creates stress</li>
+                    <li>Brain drain - many educated young people emigrate</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Greece 🤝",
+            content: `
+                <h3>Greek Orthodox Christianity</h3>
+                <p>Greece is overwhelmingly Greek Orthodox Christian (90%+). The Greek Orthodox Church is closely tied to national identity and culture. Religion influences daily life, holidays, and social customs even for non-practicing Greeks.</p>
+                
+                <div class="important">
+                    <strong>Religion and Identity:</strong> For many Greeks, Orthodox Christianity is inseparable from Greek identity. Even secular Greeks often identify as Orthodox culturally. The Church played a crucial role in preserving Greek identity during Ottoman rule.
+                </div>
+                
+                <h3>The Greek Orthodox Church</h3>
+                <ul>
+                    <li><strong>Autocephalous church:</strong> Independent branch of Eastern Orthodoxy</li>
+                    <li><strong>Historically influential:</strong> Church and state closely tied (though officially separate since 1975)</li>
+                    <li><strong>Monastery tradition:</strong> Mount Athos (Agio Oros) - autonomous monastic state</li>
+                    <li><strong>Patriarchate:</strong> Archbishop of Athens heads Church of Greece</li>
+                </ul>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Varies widely:</strong> From devout churchgoers to culturally Orthodox but non-practicing</li>
+                    <li><strong>Major holidays:</strong> High church attendance at Easter and Christmas</li>
+                    <li><strong>Name days:</strong> Celebrated often more than birthdays; saint's feast day for your name</li>
+                    <li><strong>Life events:</strong> Baptisms, weddings, funerals almost always Orthodox ceremonies</li>
+                    <li><strong>Icons in homes:</strong> Many Greek homes have icon corner (iconostasio)</li>
+                </ul>
+                
+                <h3>Major Religious Holidays</h3>
+                
+                <h4>Easter (Pascha):</h4>
+                <p>The most important holiday in Greek Orthodoxy - more significant than Christmas:</p>
+                <ul>
+                    <li><strong>Holy Week:</strong> Intense religious observances</li>
+                    <li><strong>Good Friday:</strong> Epitaphios processions in every village</li>
+                    <li><strong>Saturday midnight:</strong> Resurrection service - "Christos Anesti!" (Christ is Risen)</li>
+                    <li><strong>Easter Sunday:</strong> Family feast; roasted lamb; red eggs</li>
+                    <li><strong>Date:</strong> Follows Orthodox calendar (usually different from Western Easter)</li>
+                    <li><strong>Everything closes:</strong> Expect businesses shut from Friday through Monday</li>
+                </ul>
+                
+                <h4>Other Major Holidays:</h4>
+                <ul>
+                    <li><strong>Christmas:</strong> December 25 (religious services, family gatherings)</li>
+                    <li><strong>Epiphany (Theofania):</strong> January 6 - blessing of waters; dive for cross</li>
+                    <li><strong>Assumption (Dekapentavgoustos):</strong> August 15 - Dormition of Virgin Mary</li>
+                    <li><strong>Annunciation:</strong> March 25 (also Greek Independence Day)</li>
+                    <li><strong>Clean Monday (Kathara Deftera):</strong> First day of Lent; kite flying, outdoor feasts</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Experiencing Easter:</strong> If in Greece during Easter, participate respectfully in local traditions. Attend midnight service (bring a candle), try tsoureki (Easter bread) and mageiritsa (Easter soup), crack red eggs saying "Christos Anesti" (Christ is Risen) - "Alithos Anesti" (Truly He is Risen).
+                </div>
+                
+                <h3>Religious Practices in Daily Life</h3>
+                <ul>
+                    <li><strong>Fasting periods:</strong> Many observe Lent and other fasts (no meat/dairy)</li>
+                    <li><strong>Church services:</strong> Divine Liturgy on Sundays and feast days</li>
+                    <li><strong>Saints' days:</strong> Each profession, town, island has patron saint with celebrations</li>
+                    <li><strong>Blessings:</strong> New homes, businesses often blessed by priest</li>
+                    <li><strong>Memorials (mnimosino):</strong> Services for deceased at regular intervals</li>
+                </ul>
+                
+                <h3>Churches and Monasteries</h3>
+                <ul>
+                    <li><strong>Ubiquitous small churches:</strong> Chapels everywhere, even tiny islands</li>
+                    <li><strong>Iconography:</strong> Byzantine art tradition; icons venerated</li>
+                    <li><strong>Mount Athos:</strong> Men-only monastic peninsula; special permission to visit</li>
+                    <li><strong>Meteora:</strong> Famous cliff-top monasteries</li>
+                    <li><strong>Pilgrimage sites:</strong> Tinos (Panagia Evangelistria) major pilgrimage destination</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Church Etiquette:</strong>
+                    <ul>
+                        <li>Dress modestly - cover shoulders and knees (women sometimes given wrap-around skirts)</li>
+                        <li>Women traditionally cover head in some churches</li>
+                        <li>Remove sunglasses and hats</li>
+                        <li>Keep voices low; minimal photography during services</li>
+                        <li>Light a candle, venerate icons if comfortable (not required)</li>
+                        <li>Stand during service (limited seating for elderly/infirm)</li>
+                    </ul>
+                </div>
+                
+                <h3>Religious Diversity</h3>
+                <p>Greece is less religiously diverse than Western Europe:</p>
+                <ul>
+                    <li><strong>Muslim minority:</strong> In Thrace (Pomaks, Turks); historic communities; mosques present</li>
+                    <li><strong>Catholics:</strong> Small communities, especially Cyclades islands (Syros, Tinos)</li>
+                    <li><strong>Jews:</strong> Historic Sephardic communities in Thessaloniki and Athens (decimated in Holocaust)</li>
+                    <li><strong>Other Christians:</strong> Small Protestant, evangelical communities</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among youth, but still identify culturally as Orthodox</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Constitution guarantees freedom of religion</li>
+                    <li>Orthodox Church has "prevailing religion" status</li>
+                    <li>Proselytizing is sensitive and restricted</li>
+                    <li>Building non-Orthodox places of worship can face bureaucratic obstacles</li>
+                    <li>Some social pressure to conform to Orthodox traditions</li>
+                </ul>
+                
+                <h3>Islam in Greece</h3>
+                <ul>
+                    <li>Muslim minority in Thrace protected by Lausanne Treaty</li>
+                    <li>Mosques in Thrace; Athens mosque opened 2020 (first official mosque in Athens since 19th century)</li>
+                    <li>Halal food available in areas with Muslim populations and major cities</li>
+                    <li>Some prejudice exists due to historical Ottoman rule and recent migration</li>
+                </ul>
+                
+                <h3>Name Days</h3>
+                <p>Unique Greek tradition:</p>
+                <ul>
+                    <li>Each saint has feast day on Orthodox calendar</li>
+                    <li>People named after saint celebrate on that day</li>
+                    <li>Open house tradition - friends visit, bring small gifts</li>
+                    <li>Sometimes more important than birthday</li>
+                    <li>Common names have major celebrations (e.g., Maria/Mary on August 15)</li>
+                </ul>
+                
+                <h3>Education and Religion</h3>
+                <ul>
+                    <li>Greek Orthodox religion taught in public schools</li>
+                    <li>Non-Orthodox can opt out of religious instruction</li>
+                    <li>Religious holidays determine school calendar</li>
+                    <li>Morning prayers traditional in schools (less common now)</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li>Respect religious traditions even if not Orthodox</li>
+                    <li>Participate in cultural aspects of holidays (food, festivities)</li>
+                    <li>Understand religious holidays affect business hours</li>
+                    <li>Churches are cultural and architectural sites - visit respectfully</li>
+                    <li>Finding your own faith community may require effort in smaller places</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Learning basic religious greetings shows respect: "Christos Anesti" / "Alithos Anesti" at Easter, "Kali Anastasi" (Happy Resurrection), "Chronia Polla" (Many Years) on name days.
+                </div>
+            `
         }
     },
     finland: {
