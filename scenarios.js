@@ -1344,6 +1344,270 @@ const scenarios = {
                 ]
             }
         }
+    },
+    documentationPathways: {
+        title: "📋 Documentation & Pathways to Employment",
+        description: "Navigate documentation requirements and prepare for workforce entry",
+        contexts: {
+            documentationStatus: {
+                title: "Understanding Your Documentation Status",
+                situations: [
+                    {
+                        scenario: "Waiting for visa or work permit decisions",
+                        dosAndDonts: {
+                            dos: [
+                                "Keep all documentation organized and accessible",
+                                "Track application status regularly through official channels",
+                                "Understand your current legal rights and limitations",
+                                "Seek advice from reputable immigration advisors or NGOs",
+                                "Use waiting time productively for language learning and skill development",
+                                "Build networks through community organizations and cultural centers"
+                            ],
+                            donts: [
+                                "Pay for unverified 'fast-track' services",
+                                "Work illegally while waiting for permits",
+                                "Share sensitive documents with unverified parties",
+                                "Ignore communication from immigration authorities",
+                                "Rely solely on unofficial advice from social media",
+                                "Give up on skill development during waiting periods"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "NHS services may be available during processing. Check eligibility for support services.",
+                            centralEurope: "Strict documentation requirements. Integration courses often mandatory and valuable.",
+                            scandinavia: "Strong social support systems. Language courses typically free and essential.",
+                            mediterranean: "Processing times vary. Community networks crucial for navigation and support."
+                        }
+                    },
+                    {
+                        scenario: "Credential recognition and qualification transfer",
+                        dosAndDonts: {
+                            dos: [
+                                "Research credential recognition agencies early",
+                                "Get official translations of diplomas and certificates",
+                                "Understand equivalency frameworks in your target country",
+                                "Document all work experience with references",
+                                "Consider bridge programs or supplementary qualifications",
+                                "Keep digital and physical copies of all credentials"
+                            ],
+                            donts: [
+                                "Assume your qualifications automatically transfer",
+                                "Wait until you have work permit to start recognition process",
+                                "Dismiss the value of local certifications",
+                                "Exaggerate qualifications on applications",
+                                "Give up if initial recognition is partial"
+                            ]
+                        }
+                    }
+                ]
+            },
+            preparingForWorkforce: {
+                title: "Preparing While Waiting",
+                situations: [
+                    {
+                        scenario: "Language learning and improvement",
+                        dosAndDonts: {
+                            dos: [
+                                "Enroll in free or subsidized language courses (library, community centers, NGOs)",
+                                "Practice daily with language learning apps (Duolingo, Babbel, local apps)",
+                                "Join language exchange meetups or conversation groups",
+                                "Watch local TV, news, and movies with subtitles",
+                                "Read local newspapers and community notices",
+                                "Focus on professional vocabulary for your field"
+                            ],
+                            donts: [
+                                "Only speak your native language in your community",
+                                "Be afraid to make mistakes when practicing",
+                                "Skip learning local idioms and cultural expressions",
+                                "Ignore regional dialects and accents",
+                                "Wait for 'perfect' fluency before using the language"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "British English has many regional variations. Local libraries offer free courses.",
+                            centralEurope: "German language critical. VHS (Volkshochschule) offers affordable courses.",
+                            scandinavia: "Local language essential despite English proficiency. Free courses widely available.",
+                            mediterranean: "Local language shows commitment. English alone limits opportunities significantly."
+                        }
+                    },
+                    {
+                        scenario: "Volunteering and community engagement",
+                        dosAndDonts: {
+                            dos: [
+                                "Verify that volunteering is legal under your current visa status",
+                                "Look for volunteer opportunities at charities, food banks, community centers",
+                                "Gain references from volunteer supervisors",
+                                "Develop transferable skills through volunteering",
+                                "Build professional network through volunteer work",
+                                "Document volunteer experience on CV/resume"
+                            ],
+                            donts: [
+                                "Accept 'volunteer' roles that are actually paid positions",
+                                "Volunteer excessively at the expense of your wellbeing",
+                                "Skip informing authorities if required to report activities",
+                                "View volunteering as beneath your qualifications"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Skills development and online learning",
+                        dosAndDonts: {
+                            dos: [
+                                "Take advantage of free online courses (Coursera, edX, FutureLearn, Khan Academy)",
+                                "Focus on in-demand skills: digital literacy, coding, data analysis",
+                                "Get certificates to prove learning completion",
+                                "Join professional online communities in your field",
+                                "Learn local software and tools used in your industry",
+                                "Build portfolio projects to demonstrate skills"
+                            ],
+                            donts: [
+                                "Pay for expensive courses you can't afford",
+                                "Only focus on theory without practical application",
+                                "Ignore soft skills like communication and teamwork",
+                                "Dismiss non-traditional learning paths"
+                            ]
+                        }
+                    }
+                ]
+            },
+            financialSurvival: {
+                title: "Financial Navigation While Waiting",
+                situations: [
+                    {
+                        scenario: "Managing limited resources",
+                        dosAndDonts: {
+                            dos: [
+                                "Research available support services (food banks, community aid, NGO assistance)",
+                                "Learn about benefits you may be eligible for during processing",
+                                "Find free or low-cost activities and resources (libraries, community centers)",
+                                "Connect with mutual aid networks in immigrant communities",
+                                "Budget carefully and track expenses",
+                                "Seek financial advice from reputable advisors or NGOs"
+                            ],
+                            donts: [
+                                "Be too proud to seek available assistance",
+                                "Fall prey to loan sharks or predatory lending",
+                                "Spend limited resources on non-essentials",
+                                "Isolate yourself due to financial stress",
+                                "Engage in illegal work that risks your status"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Alternative income opportunities",
+                        dosAndDonts: {
+                            dos: [
+                                "Understand exactly what work is legal under your current status",
+                                "Explore freelance platforms if permitted (writing, translation, tutoring)",
+                                "Develop skills for remote work opportunities in permitted areas",
+                                "Document any legal income for tax purposes",
+                                "Seek guidance from immigration lawyers about permitted activities"
+                            ],
+                            donts: [
+                                "Engage in any work not permitted by your visa status",
+                                "Accept cash-in-hand jobs without proper documentation",
+                                "Assume 'everyone does it' regarding unauthorized work",
+                                "Risk your immigration status for short-term income"
+                            ]
+                        }
+                    }
+                ]
+            },
+            mentalResilience: {
+                title: "Maintaining Mental Health and Resilience",
+                situations: [
+                    {
+                        scenario: "Coping with uncertainty and waiting periods",
+                        dosAndDonts: {
+                            dos: [
+                                "Establish daily routines and structure",
+                                "Connect with support groups for migrants in similar situations",
+                                "Access mental health resources (many NGOs offer free counseling)",
+                                "Stay physically active - walking, exercising, sports groups",
+                                "Set small achievable goals to maintain sense of progress",
+                                "Maintain connections with family and friends"
+                            ],
+                            donts: [
+                                "Isolate yourself from support networks",
+                                "Ignore signs of depression or anxiety",
+                                "Compare your journey to others' timelines",
+                                "Give up on planning for the future",
+                                "Let uncertainty paralyze all activity"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Building confidence for future employment",
+                        dosAndDonts: {
+                            dos: [
+                                "Practice interview skills through mock interviews",
+                                "Research workplace culture in your target country",
+                                "Prepare your 'story' explaining your journey positively",
+                                "Build professional online presence (LinkedIn, professional portfolio)",
+                                "Connect with employment support organizations",
+                                "Identify transferable skills from all your experiences"
+                            ],
+                            donts: [
+                                "View gap periods as complete negatives",
+                                "Apologize excessively for your situation",
+                                "Hide your background or status unnecessarily",
+                                "Give up on professional aspirations"
+                            ]
+                        }
+                    }
+                ]
+            },
+            pathwaysToEmployment: {
+                title: "Pathways to Employment",
+                situations: [
+                    {
+                        scenario: "Understanding the job market and realistic expectations",
+                        dosAndDonts: {
+                            dos: [
+                                "Research labor shortages and in-demand occupations",
+                                "Understand entry-level requirements in your target field",
+                                "Consider stepping-stone jobs to build local experience",
+                                "Learn about apprenticeship and training programs",
+                                "Network with people working in your field locally",
+                                "Join professional associations in your industry"
+                            ],
+                            donts: [
+                                "Only apply for positions matching your previous level",
+                                "Dismiss opportunities outside your exact specialization",
+                                "Ignore the value of local work experience",
+                                "Expect immediate placement at your previous salary level"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Healthcare, hospitality, and trades often have opportunities. Local references crucial.",
+                            centralEurope: "Formal qualifications highly valued. Apprenticeship (Ausbildung) system well-regarded.",
+                            scandinavia: "Strong social safety net but competitive job market. Networking essential.",
+                            mediterranean: "Personal connections important. Informal economy exists but focus on formal paths."
+                        }
+                    },
+                    {
+                        scenario: "CV/Resume preparation for local market",
+                        dosAndDonts: {
+                            dos: [
+                                "Research local CV format expectations (e.g., UK vs. EU format)",
+                                "Get CV reviewed by employment services or career advisors",
+                                "Translate and adapt your experience to local context",
+                                "Include volunteer work and skill development during waiting period",
+                                "Highlight language skills and cultural adaptability",
+                                "Provide explanation for gaps positively and briefly"
+                            ],
+                            donts: [
+                                "Use identical CV for all applications",
+                                "Include photo if not customary (UK/Ireland)",
+                                "Leave unexplained gaps in employment",
+                                "Exaggerate language proficiency levels",
+                                "Use overly complex language or jargon"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
     }
 };
 
@@ -1916,6 +2180,12 @@ const roleProfiles = {
         icon: "🌅",
         focusAreas: ["healthcare", "socialServices", "leisureActivities", "communityIntegration"],
         relevantScenarios: ["healthcare", "hobbies", "volunteerWork", "socialClubs"]
+    },
+    awaitingDocumentation: {
+        title: "Awaiting Documentation",
+        icon: "📋",
+        focusAreas: ["documentationProcesses", "languageLearning", "skillDevelopment", "volunteerWork", "mentalResilience"],
+        relevantScenarios: ["documentationPathways", "volunteering", "languageLearning", "communityIntegration", "skillBuilding"]
     }
 };
 

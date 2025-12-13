@@ -4,6 +4,8 @@
 
 An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals moving to Europe. Now featuring interactive quizzes, role-based personalization, and B2B corporate onboarding capabilities.
 
+**✨ NEW: Special guidance for migrants awaiting documentation and preparing for workforce entry**
+
 ---
 
 ## 📖 About
@@ -12,7 +14,8 @@ The Cultural User Manual helps immigrants successfully integrate into European c
 
 - **Depth over Breadth**: Highly structured, scenario-based cultural guidance tailored to specific contexts (workplace, healthcare, bureaucracy, social gatherings)
 - **Interactive Learning**: Quizzes, "dos/don'ts" cards, simulations, and etiquette scoreboards
-- **Role-Based Guidance**: Personalized content for students, remote workers, spouses, professionals, entrepreneurs, and retirees
+- **Role-Based Guidance**: Personalized content for students, remote workers, spouses, professionals, entrepreneurs, retirees, and **migrants awaiting documentation**
+- **Pathways to Employment**: Comprehensive guidance for those preparing to enter the workforce, including credential recognition, language learning, and alternative pathways
 - **Professional Onboarding**: B2B capabilities for companies to use for multicultural team onboarding
 - **Localized Nuance**: Detailed guidance on dialects, nonverbal cues, negotiation styles, humor, and gifting customs
 - **Privacy-Friendly**: No ads, no tracking, minimal data collection—all progress stored locally on your device
@@ -39,6 +42,7 @@ Navigate real-life situations with confidence:
 - **Healthcare Situations**: Doctor visits, pharmacy services, medical appointments
 - **Bureaucratic Procedures**: Registration, tax setup, official documentation
 - **Social Gatherings**: Dinner invitations, pub culture, event etiquette
+- **Documentation & Pathways**: Navigate documentation requirements, credential recognition, language learning, volunteering, and preparing for workforce entry
 
 Each scenario includes:
 - Step-by-step guidance
@@ -64,6 +68,7 @@ Select your profile for tailored guidance:
 - 💼 Working Professional
 - 🚀 Entrepreneur/Business Owner
 - 🌅 Retiree
+- 📋 **Awaiting Documentation** (NEW!)
 
 ### 📊 Progress Tracking
 
@@ -421,6 +426,7 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 - **Remote Workers**: Understand virtual workplace culture
 - **Trailing Spouses**: Integrate into local communities
 - **Professionals**: Master business etiquette
+- **Migrants Awaiting Documentation**: Prepare for workforce entry, learn language, build skills, and navigate documentation processes while waiting
 
 ### For Organizations
 - **HR Departments**: Onboard international hires
@@ -428,6 +434,35 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 - **Relocation Services**: Provide value-added cultural training
 - **Consulting Firms**: Cultural competency for global teams
 - **NGOs**: Support refugee and immigrant integration
+- **Immigration Services**: Provide cultural preparation for clients awaiting documentation
+
+---
+
+## 📋 For Migrants Awaiting Documentation
+
+### Special Resources for Those Preparing to Enter the Workforce
+
+We understand that many migrants arrive in Europe with hope and qualifications but face waiting periods while documentation is processed. This guide offers dedicated resources to help you make productive use of this time:
+
+#### What You'll Find:
+- **Documentation Navigation**: Understanding visa processes, credential recognition, and documentation requirements across European countries
+- **Language Learning Strategies**: Free and low-cost resources, practice methods, and tips for achieving job-ready language proficiency
+- **Skills Development**: Online learning opportunities, certification programs, and ways to build portfolios while waiting
+- **Volunteer Pathways**: Legal volunteering opportunities to gain local experience, references, and professional networks
+- **Financial Survival**: Managing limited resources, accessing support services, and understanding what work is legal during waiting periods
+- **Mental Resilience**: Coping strategies for uncertainty, maintaining motivation, and building confidence for future employment
+- **Alternative Pathways**: Bridge programs, apprenticeships, stepping-stone opportunities, and unconventional routes to employment
+- **CV/Resume Preparation**: Adapting your credentials to local market expectations and explaining gaps positively
+
+#### Your Time Waiting Is Not Wasted:
+- Build language proficiency that opens doors
+- Develop understanding of workplace culture and expectations
+- Create networks through community engagement and volunteering
+- Gain local references and experience
+- Prepare mentally and practically for successful integration
+- Learn regional nuances that help you stand out to employers
+
+**Remember**: Successful integration begins before formal employment. Use this resource to transform waiting time into preparation time.
 
 ---
 
