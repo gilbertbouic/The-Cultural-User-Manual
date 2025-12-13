@@ -170,7 +170,7 @@ setTimeout(() => {
     });
 }, 100);
 
-// Scroll to feedback section
+// Scroll to feedback section (attached as global function for inline onclick handler)
 function scrollToFeedback() {
     const feedbackSection = document.getElementById('feedback-section');
     if (feedbackSection) {
