@@ -59,13 +59,17 @@ const scenarios = {
                                 "Come prepared with agenda items reviewed",
                                 "Wait for appropriate moments to speak",
                                 "Support your points with clear reasoning",
-                                "Acknowledge others' contributions"
+                                "Acknowledge others' contributions",
+                                "Take notes on action items",
+                                "Follow up on commitments made"
                             ],
                             donts: [
                                 "Dominate the discussion",
                                 "Interrupt or talk over colleagues",
                                 "Check your phone during presentations",
-                                "Introduce new topics without relevance"
+                                "Introduce new topics without relevance",
+                                "Arrive late without apology",
+                                "Leave early without explanation"
                             ]
                         },
                         culturalNuances: {
@@ -73,6 +77,27 @@ const scenarios = {
                             centralEurope: "Direct communication expected. Silence means thinking, not agreement.",
                             scandinavia: "Consensus-driven. Everyone's opinion matters equally regardless of rank.",
                             mediterranean: "Animated discussion is normal. Overlap in conversation is acceptable."
+                        }
+                    },
+                    {
+                        scenario: "Video conference etiquette",
+                        dosAndDonts: {
+                            dos: [
+                                "Test technology before the meeting",
+                                "Use a professional background or blur",
+                                "Mute when not speaking",
+                                "Look at the camera when speaking",
+                                "Dress professionally from waist up",
+                                "Have good lighting on your face"
+                            ],
+                            donts: [
+                                "Eat during video calls",
+                                "Have distracting backgrounds",
+                                "Multitask obviously",
+                                "Forget to unmute when speaking",
+                                "Attend from bed or inappropriate locations",
+                                "Have poor lighting making you hard to see"
+                            ]
                         }
                     }
                 ]
@@ -87,13 +112,64 @@ const scenarios = {
                                 "Use appropriate greetings (Dear/Hi based on relationship)",
                                 "Keep messages clear and concise",
                                 "Use proper grammar and punctuation",
-                                "Sign off professionally (Best regards, Kind regards)"
+                                "Sign off professionally (Best regards, Kind regards)",
+                                "Include clear subject lines",
+                                "Respond within 24 hours"
                             ],
                             donts: [
                                 "Use excessive exclamation marks",
                                 "Write in all caps",
                                 "Send emails late at night expecting immediate responses",
-                                "Use emojis in formal business communication"
+                                "Use emojis in formal business communication",
+                                "Reply-all unnecessarily",
+                                "Forward without context"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Using instant messaging at work",
+                        dosAndDonts: {
+                            dos: [
+                                "Set status to indicate availability",
+                                "Keep messages professional",
+                                "Use threads to organize conversations",
+                                "Respect 'Do Not Disturb' status",
+                                "Use appropriate channels for topics",
+                                "Respond within reasonable time during work hours"
+                            ],
+                            donts: [
+                                "Message people constantly without regard to their status",
+                                "Share sensitive information via chat",
+                                "Use excessive GIFs or memes",
+                                "Expect instant responses outside work hours",
+                                "Have important discussions that should be in email",
+                                "Send 'hello' and wait for response before asking question"
+                            ]
+                        }
+                    }
+                ]
+            },
+            presentations: {
+                title: "Presentations & Public Speaking",
+                situations: [
+                    {
+                        scenario: "Giving workplace presentations",
+                        dosAndDonts: {
+                            dos: [
+                                "Practice your presentation beforehand",
+                                "Prepare for technical difficulties",
+                                "Start with clear objectives",
+                                "Use visual aids appropriately",
+                                "Engage your audience with questions",
+                                "End with clear takeaways and next steps"
+                            ],
+                            donts: [
+                                "Read slides word-for-word",
+                                "Go over allocated time",
+                                "Use too much jargon",
+                                "Ignore audience questions",
+                                "Have cluttered, text-heavy slides",
+                                "Turn your back to the audience"
                             ]
                         }
                     }
@@ -143,13 +219,75 @@ const scenarios = {
                                 "Understand prescription charges in your country",
                                 "Ask pharmacist for advice on minor ailments",
                                 "Keep prescription records organized",
-                                "Set up repeat prescription systems if needed"
+                                "Set up repeat prescription systems if needed",
+                                "Check medication instructions carefully",
+                                "Ask about potential side effects"
                             ],
                             donts: [
                                 "Expect immediate availability of all medications",
                                 "Argue about prescription charges",
                                 "Self-diagnose serious conditions",
-                                "Skip doses or alter prescribed amounts"
+                                "Skip doses or alter prescribed amounts",
+                                "Share prescription medications",
+                                "Ignore pharmacist's advice"
+                            ]
+                        }
+                    }
+                ]
+            },
+            mentalHealth: {
+                title: "Mental Health Services",
+                situations: [
+                    {
+                        scenario: "Accessing mental health support",
+                        dosAndDonts: {
+                            dos: [
+                                "Talk to your GP as first step",
+                                "Be honest about your symptoms",
+                                "Ask about available services and waiting times",
+                                "Consider both NHS and private options",
+                                "Use helplines for immediate support",
+                                "Follow through with recommended treatments"
+                            ],
+                            donts: [
+                                "Minimize your symptoms to appear 'strong'",
+                                "Wait until crisis point to seek help",
+                                "Stop medication without consulting doctor",
+                                "Be ashamed to ask for help",
+                                "Ignore warning signs in yourself or others",
+                                "Dismiss therapy as 'not for you'"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Mental health increasingly accepted. NHS provides services. Use IAPT for therapy referral.",
+                            centralEurope: "Professional support available. Less stigma than past. Private options common.",
+                            scandinavia: "Mental health support strong. Work-life balance emphasized. Open discussion encouraged.",
+                            mediterranean: "Growing awareness. Family support important. Professional services expanding."
+                        }
+                    }
+                ]
+            },
+            specialists: {
+                title: "Seeing Specialists",
+                situations: [
+                    {
+                        scenario: "Attending specialist appointments",
+                        dosAndDonts: {
+                            dos: [
+                                "Bring referral letter from GP",
+                                "Arrive with all medical records and test results",
+                                "Write down questions beforehand",
+                                "Take notes during the appointment",
+                                "Ask about next steps and follow-up",
+                                "Understand treatment options and timelines"
+                            ],
+                            donts: [
+                                "Attend without proper referral",
+                                "Be late for appointments",
+                                "Withhold medical history",
+                                "Forget to ask about costs (if private)",
+                                "Ignore follow-up appointments",
+                                "Self-discharge against medical advice"
                             ]
                         }
                     }
@@ -199,13 +337,69 @@ const scenarios = {
                                 "Register for tax immediately when starting work",
                                 "Keep all income and expense records",
                                 "File tax returns on time",
-                                "Seek professional help if needed"
+                                "Seek professional help if needed",
+                                "Understand tax brackets and allowances",
+                                "Keep correspondence from tax authorities"
                             ],
                             donts: [
                                 "Ignore tax obligations",
                                 "Miss filing deadlines",
                                 "Mix personal and business finances",
-                                "Assume your home country tax rules apply"
+                                "Assume your home country tax rules apply",
+                                "Ignore letters from tax authorities",
+                                "Claim false deductions"
+                            ]
+                        }
+                    }
+                ]
+            },
+            visaImmigration: {
+                title: "Visa & Immigration Matters",
+                situations: [
+                    {
+                        scenario: "Managing visa requirements",
+                        dosAndDonts: {
+                            dos: [
+                                "Keep track of visa expiry dates",
+                                "Apply for extensions well in advance",
+                                "Maintain required documentation",
+                                "Report address changes if required",
+                                "Understand your visa conditions and restrictions",
+                                "Keep copies of all immigration documents"
+                            ],
+                            donts: [
+                                "Let visa expire",
+                                "Work beyond visa restrictions",
+                                "Ignore correspondence from immigration",
+                                "Travel without proper documentation",
+                                "Provide false information",
+                                "Miss biometric appointments"
+                            ]
+                        }
+                    }
+                ]
+            },
+            utilities: {
+                title: "Setting Up Utilities",
+                situations: [
+                    {
+                        scenario: "Connecting utilities and services",
+                        dosAndDonts: {
+                            dos: [
+                                "Set up utilities before moving in if possible",
+                                "Take meter readings on moving day",
+                                "Compare providers and tariffs",
+                                "Set up direct debit payments",
+                                "Understand contract terms and cancellation policies",
+                                "Keep records of all communications"
+                            ],
+                            donts: [
+                                "Assume utilities transfer automatically",
+                                "Ignore final bills from previous address",
+                                "Sign long contracts without reading terms",
+                                "Forget to notify when moving out",
+                                "Leave bills unpaid",
+                                "Share utility accounts with strangers"
                             ]
                         }
                     }
@@ -255,20 +449,103 @@ const scenarios = {
                                 "Participate in 'rounds' system where applicable",
                                 "Know your drinking limits",
                                 "Engage in friendly conversation",
-                                "Say goodbye when leaving"
+                                "Say goodbye when leaving",
+                                "Order at the bar (not table service)",
+                                "Respect personal space in crowded venues"
                             ],
                             donts: [
                                 "Skip your round",
                                 "Get excessively drunk",
                                 "Discuss sensitive work matters",
-                                "Sneak away without saying goodbye (Irish goodbye)"
+                                "Sneak away without saying goodbye (Irish goodbye)",
+                                "Be loud or disruptive",
+                                "Pressure others to drink more"
                             ]
                         },
                         culturalNuances: {
                             england: "Rounds system is important. Don't lean on the bar. Queue properly.",
-                            centralEurope: "Beer culture is serious. Quality over quantity.",
-                            scandinavia: "Alcohol is expensive. Pre-drinking is common.",
-                            mediterranean: "Wine with meals. Coffee culture may be stronger than alcohol."
+                            centralEurope: "Beer culture is serious. Quality over quantity. Toast properly.",
+                            scandinavia: "Alcohol is expensive. Pre-drinking is common. Know your limits.",
+                            mediterranean: "Wine with meals. Coffee culture may be stronger than alcohol. Social, not excessive."
+                        }
+                    }
+                ]
+            },
+            celebrations: {
+                title: "Celebrations & Gift-Giving",
+                situations: [
+                    {
+                        scenario: "Birthday and holiday celebrations",
+                        dosAndDonts: {
+                            dos: [
+                                "Acknowledge colleagues' birthdays",
+                                "Contribute to group gifts when appropriate",
+                                "Respect different holiday traditions",
+                                "Bring treats if it's your birthday (some cultures)",
+                                "Send cards or messages for major holidays",
+                                "Be inclusive of all celebrations"
+                            ],
+                            donts: [
+                                "Assume everyone celebrates the same holidays",
+                                "Give overly expensive or inappropriate gifts",
+                                "Force participation in celebrations",
+                                "Forget to thank gift-givers",
+                                "Make holidays all about your religion",
+                                "Ignore office birthday traditions"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Wedding and formal event invitations",
+                        dosAndDonts: {
+                            dos: [
+                                "RSVP by the deadline",
+                                "Follow dress code specified",
+                                "Give gifts from registry if provided",
+                                "Arrive on time",
+                                "Stay for the ceremony and meal",
+                                "Thank hosts before leaving"
+                            ],
+                            donts: [
+                                "Bring uninvited guests",
+                                "Wear white to weddings (unless bride)",
+                                "Get drunk and cause scenes",
+                                "Leave immediately after dinner",
+                                "Complain about food or venue",
+                                "Post photos before the couple does"
+                            ]
+                        }
+                    }
+                ]
+            },
+            dating: {
+                title: "Dating & Romantic Social Situations",
+                situations: [
+                    {
+                        scenario: "Dating etiquette and expectations",
+                        dosAndDonts: {
+                            dos: [
+                                "Be honest about your intentions",
+                                "Respect boundaries and consent",
+                                "Split bills or take turns paying",
+                                "Communicate clearly about expectations",
+                                "Be punctual for dates",
+                                "Accept rejection gracefully"
+                            ],
+                            donts: [
+                                "Pressure anyone into activities",
+                                "Move too fast without consent",
+                                "Play games or be dishonest",
+                                "Discuss marriage on first dates",
+                                "Stalk on social media excessively",
+                                "Ghost people without explanation"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Dating apps common. Split bills increasingly normal. Reserved at first.",
+                            centralEurope: "More traditional gender roles may exist. Direct communication valued.",
+                            scandinavia: "Very egalitarian. Equality expected. Casual dating common.",
+                            mediterranean: "Family involvement earlier. More traditional courtship in some areas."
                         }
                     }
                 ]
