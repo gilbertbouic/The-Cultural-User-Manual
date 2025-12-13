@@ -838,17 +838,6 @@
         font-size: 0.7rem;
     }
 }
-    }
-
-    .dos-donts-card {
-        height: auto;
-        min-height: 400px;
-    }
-
-    .role-grid {
-        grid-template-columns: 1fr;
-    }
-}
 
 /* Utility Classes */
 .hidden {
