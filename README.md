@@ -32,6 +32,14 @@ The Cultural-Assimilation-Manual helps immigrants successfully integrate into ne
 
 ---
 
+## 🔗 Quick Links
+
+- **🌐 Live Site**: [https://gilbertbouic.github.io/Cultural-Assimilation-Manual/](https://gilbertbouic.github.io/Cultural-Assimilation-Manual/)
+- **⚙️ Configuration Guide**: [CONFIGURATION.md](CONFIGURATION.md)
+- **🔒 Privacy Policy**: [PRIVACY.md](PRIVACY.md)
+
+---
+
 ## ✨ Key Features
 
 ### 🎯 Scenario-Based Learning
@@ -142,7 +150,7 @@ This project is designed to be hosted on GitHub Pages:
 
 1. **Enable GitHub Pages** in your repository settings
 2. Select "main" branch and "/ (root)" directory as the source
-3. Your site will be live at `https://[username].github.io/The-Cultural-User-Manual/`
+3. Your site will be live at `https://gilbertbouic.github.io/Cultural-Assimilation-Manual/`
 
 See [CONFIGURATION.md](CONFIGURATION.md) for detailed setup instructions, including how to configure the feedback form and customize features.
 
