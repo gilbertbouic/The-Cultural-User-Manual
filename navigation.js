@@ -13,7 +13,8 @@
 
         // Toggle mobile menu visibility
         menuToggle.addEventListener('click', () => {
-            mainNav.classList.toggle('active');
+            const isActive = mainNav.classList.toggle('active');
+            menuToggle.setAttribute('aria-expanded', isActive);
         });
 
         // Handle navigation link clicks with smooth scrolling
@@ -26,6 +27,7 @@
                 if (targetSection) {
                     targetSection.scrollIntoView({ behavior: 'smooth' });
                     mainNav.classList.remove('active'); // Close menu on link click
+                    menuToggle.setAttribute('aria-expanded', 'false');
                 }
             });
         });
