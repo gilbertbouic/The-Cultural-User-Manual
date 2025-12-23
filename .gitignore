@@ -6,6 +6,7 @@
 # Android build artifacts
 *.iml
 .gradle
+local.properties
 /local.properties
 /.idea/caches
 /.idea/libraries
