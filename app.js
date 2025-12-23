@@ -40,7 +40,7 @@ function showIntro() {
     currentCategory = null;
     
     // Remove all background classes
-    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics', 'country-usa');
     document.body.classList.remove('country-selection-active');
     
     // Add intro background
@@ -71,7 +71,7 @@ function selectCountry(country) {
     
     // Remove white background and apply country-specific background
     document.body.classList.remove('country-selection-active');
-    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics', 'country-usa');
     document.body.classList.add(`country-${country}`);
     
     countrySelection.classList.add('hidden');
