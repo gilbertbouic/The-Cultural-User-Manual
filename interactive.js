@@ -1,4 +1,3 @@
-copilot/refactor-front-end-javascript
 /**
  * Cultural Assimilation Manual - Interactive Module
  * Handles all interactive features: quizzes, scenarios, progress tracking, and snapshot generation.
@@ -202,64 +201,63 @@ copilot/refactor-front-end-javascript
          * @returns {HTMLElement} Question element
          */
         createQuestionElement: function(question, index, quiz) {
-            const questionElement = document.createElement('div');
+            // Use fieldset for better accessibility
+            const questionElement = document.createElement('fieldset');
             questionElement.classList.add('quiz-question');
             
-            const questionText = document.createElement('p');
-            questionText.innerText = `${index + 1}. ${question.question}`;
-            questionElement.appendChild(questionText);
+            // Use legend for the question text
+            const legend = document.createElement('legend');
+            legend.innerText = `${index + 1}. ${question.question}`;
+            questionElement.appendChild(legend);
 
             const optionsContainer = document.createElement('div');
             optionsContainer.classList.add('quiz-options');
+            optionsContainer.setAttribute('role', 'radiogroup');
+            optionsContainer.setAttribute('aria-labelledby', `question-${quiz.id}-${index}-legend`);
+            legend.id = `question-${quiz.id}-${index}-legend`;
 
             const questionName = `question-${index}-${quiz.id}`;
 
-            // Create option inputs
+            // Create option inputs with explicit labels
+            let optionIndex = 0;
             for (const key in question.options) {
-                const optionLabel = document.createElement('label');
+                const optionId = `${questionName}-option-${key}`;
+                
                 const optionInput = document.createElement('input');
                 optionInput.type = 'radio';
                 optionInput.name = questionName;
                 optionInput.value = key;
-
-                optionLabel.appendChild(optionInput);
-                optionLabel.appendChild(document.createTextNode(question.options[key]));
-                optionsContainer.appendChild(optionLabel);
+                optionInput.id = optionId;
+                optionInput.classList.add('quiz-radio-input');
+                
+                const optionLabel = document.createElement('label');
+                optionLabel.setAttribute('for', optionId);
+                optionLabel.classList.add('quiz-option-label');
+                optionLabel.innerText = question.options[key];
+                
+                const optionWrapper = document.createElement('div');
+                optionWrapper.classList.add('quiz-option');
+                optionWrapper.appendChild(optionInput);
+                optionWrapper.appendChild(optionLabel);
+                
+                optionsContainer.appendChild(optionWrapper);
+                optionIndex++;
             }
 
             questionElement.appendChild(optionsContainer);
 
-            // Feedback element
-            const feedbackElement = document.createElement('p');
+            // Feedback element with ARIA live region
+            const feedbackElement = document.createElement('div');
             feedbackElement.classList.add('quiz-feedback');
+            feedbackElement.setAttribute('role', 'status');
+            feedbackElement.setAttribute('aria-live', 'polite');
+            feedbackElement.setAttribute('aria-atomic', 'true');
             questionElement.appendChild(feedbackElement);
 
             // Answer change handler
             const self = this;
             optionsContainer.addEventListener('change', (event) => {
-            copilot/refactor-front-end-javascript
                 self.handleAnswerSelection(event, question, quiz, feedbackElement);
-                const selectedOption = event.target.value;
-                const previouslyCorrect = event.target.dataset.answeredCorrectly === 'true';
-
-                if (selectedOption === question.correct) {
-                    feedbackElement.innerText = "Correct! " + question.explanation;
-                    feedbackElement.style.color = 'green';
-                    if (!previouslyCorrect) {
-                        progress.quizzes[quiz.id].score++;
-                        event.target.dataset.answeredCorrectly = 'true';
-                    }
-                } else {
-                    feedbackElement.innerText = `Incorrect. The correct answer is ${question.correct.toUpperCase()}. ${question.explanation}`;
-                    feedbackElement.style.color = 'red';
-                    if (previouslyCorrect) {
-                        progress.quizzes[quiz.id].score--;
-                        event.target.dataset.answeredCorrectly = 'false';
-                    }
-                }
-                saveProgress();
-                renderProgress();
-        main
             });
 
             return questionElement;
@@ -276,16 +274,27 @@ copilot/refactor-front-end-javascript
             const selectedOption = event.target.value;
             const previouslyCorrect = event.target.dataset.answeredCorrectly === 'true';
 
+            // Remove previous feedback classes
+            feedbackElement.classList.remove('correct', 'incorrect');
+
             if (selectedOption === question.correct) {
-                feedbackElement.innerText = "Correct! " + question.explanation;
-                feedbackElement.style.color = 'green';
+                // Add text-based cue and class for styling
+                feedbackElement.innerHTML = '<strong>✓ Correct!</strong> ' + question.explanation;
+                feedbackElement.classList.add('correct');
+                
+                if (!this.progress.quizzes[quiz.title]) {
+                    this.progress.quizzes[quiz.title] = { score: 0, total: 0 };
+                }
+                
                 if (!previouslyCorrect) {
                     this.progress.quizzes[quiz.title].score++;
                     event.target.dataset.answeredCorrectly = 'true';
                 }
             } else {
-                feedbackElement.innerText = `Incorrect. The correct answer is ${question.correct.toUpperCase()}. ${question.explanation}`;
-                feedbackElement.style.color = 'red';
+                // Add text-based cue and class for styling
+                feedbackElement.innerHTML = `<strong>✗ Incorrect.</strong> The correct answer is ${question.correct.toUpperCase()}. ${question.explanation}`;
+                feedbackElement.classList.add('incorrect');
+                
                 if (previouslyCorrect) {
                     this.progress.quizzes[quiz.title].score--;
                     event.target.dataset.answeredCorrectly = 'false';
@@ -410,6 +419,9 @@ copilot/refactor-front-end-javascript
         createFlipCard: function(title, items) {
             const card = document.createElement('div');
             card.classList.add('flip-card');
+            card.setAttribute('role', 'button');
+            card.setAttribute('tabindex', '0');
+            card.setAttribute('aria-label', `Flip card: ${title}. Press Enter or Space to flip.`);
 
             const cardInner = document.createElement('div');
             cardInner.classList.add('flip-card-inner');
@@ -422,6 +434,7 @@ copilot/refactor-front-end-javascript
 
             const cardBack = document.createElement('div');
             cardBack.classList.add('flip-card-back');
+            cardBack.setAttribute('aria-hidden', 'true');
             const backList = document.createElement('ul');
             items.forEach(item => {
                 const listItem = document.createElement('li');
@@ -433,6 +446,21 @@ copilot/refactor-front-end-javascript
             cardInner.appendChild(cardFront);
             cardInner.appendChild(cardBack);
             card.appendChild(cardInner);
+
+            // Add click and keyboard support for flipping
+            const toggleFlip = () => {
+                const isFlipped = card.classList.toggle('flipped');
+                cardBack.setAttribute('aria-hidden', !isFlipped);
+                card.setAttribute('aria-expanded', isFlipped);
+            };
+
+            card.addEventListener('click', toggleFlip);
+            card.addEventListener('keydown', (event) => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault();
+                    toggleFlip();
+                }
+            });
 
             return card;
         }
@@ -565,39 +593,24 @@ copilot/refactor-front-end-javascript
             let totalScore = 0;
             let totalPossible = 0;
 
-            // Use CAM_DATA namespace, fallback to global
-            const culturalData = window.CAM_DATA ? window.CAM_DATA.culturalData : window.culturalData;
+            // Use DataLoader to get quiz data
+            const quizzes = DataLoader.getAllQuizzes();
             
-            if (culturalData && culturalData.quizzes) {
-                for (const key in culturalData.quizzes) {
-                    const quizTitle = culturalData.quizzes[key].title;
-                    if (this.progress.quizzes[quizTitle]) {
-                        totalScore += this.progress.quizzes[quizTitle].score;
-                        totalPossible += this.progress.quizzes[quizTitle].total;
-                    }
+            for (const key in quizzes) {
+                const quizTitle = quizzes[key].title;
+                if (this.progress.quizzes[quizTitle]) {
+                    totalScore += this.progress.quizzes[quizTitle].score;
+                    totalPossible += this.progress.quizzes[quizTitle].total;
                 }
             }
 
-       copilot/refactor-front-end-javascript
-            // Use CAM_SCENARIOS namespace, fallback to global
-            const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
+            // Use DataLoader to get scenario data
+            const scenarios = DataLoader.getAllScenarios();
             
             if (scenarios) {
                 let scenarioCount = 0;
                 for (const countryCode in scenarios) {
                     scenarioCount += Object.keys(scenarios[countryCode]).length;
-
-        function calculateOverallProgress() {
-        let totalScore = 0;
-        let totalPossible = 0;
-
-        if (culturalData && culturalData.quizzes) {
-            for (const key in culturalData.quizzes) {
-                const quiz = culturalData.quizzes[key];
-                if (quiz.id && progress.quizzes[quiz.id]) {
-                    totalScore += progress.quizzes[quiz.id].score;
-                    totalPossible += progress.quizzes[quiz.id].total;
-        main
                 }
                 totalScore += this.progress.scenarios.length;
                 totalPossible += scenarioCount;
@@ -646,58 +659,8 @@ copilot/refactor-front-end-javascript
                 quizProgress.innerHTML += '<p>No quizzes attempted yet.</p>';
             }
 
-      copilot/refactor-front-end-javascript
             this.container.appendChild(quizProgress);
         },
-
-        return totalPossible > 0 ? (totalScore / totalPossible) * 100 : 0;
-    }
-
-    function renderProgress() {
-        progressContainer.innerHTML = ''; // Clear previous progress
-
-        const overallProgress = calculateOverallProgress();
-        const overallProgressBarContainer = document.createElement('div');
-        overallProgressBarContainer.classList.add('progress-bar-container');
-        const overallProgressBar = document.createElement('div');
-        overallProgressBar.classList.add('progress-bar');
-        overallProgressBar.style.width = `${overallProgress}%`;
-        overallProgressBar.innerText = `${Math.round(overallProgress)}%`;
-        overallProgressBarContainer.appendChild(overallProgressBar);
-        progressContainer.appendChild(overallProgressBarContainer);
-
-        const quizProgress = document.createElement('div');
-        quizProgress.innerHTML = '<h4>Quiz Scores</h4>';
-        if (Object.keys(progress.quizzes).length > 0) {
-            for (const quizId in progress.quizzes) {
-                const quiz = progress.quizzes[quizId];
-                const percentage = (quiz.score / quiz.total) * 100;
-                
-                // Find the quiz title from the ID
-                let quizTitle = quizId; // Fallback to ID if title not found
-                if (culturalData && culturalData.quizzes) {
-                    for (const key in culturalData.quizzes) {
-                        if (culturalData.quizzes[key].id === quizId) {
-                            quizTitle = culturalData.quizzes[key].title;
-                            break;
-                        }
-                    }
-                }
-                
-                const progressBarContainer = document.createElement('div');
-                progressBarContainer.classList.add('progress-bar-container');
-                const progressBar = document.createElement('div');
-                progressBar.classList.add('progress-bar');
-                progressBar.style.width = `${percentage}%`;
-                progressBar.innerText = `${Math.round(percentage)}%`;
-                quizProgress.appendChild(document.createTextNode(quizTitle));
-                progressBarContainer.appendChild(progressBar);
-                quizProgress.appendChild(progressBarContainer);
-            }
-        } else {
-            quizProgress.innerHTML += '<p>No quizzes attempted yet.</p>';
-        }
-      main
 
         /**
          * Render completed scenarios section
@@ -752,15 +715,6 @@ copilot/refactor-front-end-javascript
                 }
                 if (this.progress.scenarios.length < scenarioCount) {
                     allScenariosCompleted = false;
-
-        let allQuizzesCompleted = true;
-        if (culturalData && culturalData.quizzes) {
-            for (const key in culturalData.quizzes) {
-                const quiz = culturalData.quizzes[key];
-                if (!quiz.id || !progress.quizzes[quiz.id] || progress.quizzes[quiz.id].score < progress.quizzes[quiz.id].total) {
-                    allQuizzesCompleted = false;
-                    break;
-     main
                 }
             }
 
@@ -877,7 +831,6 @@ copilot/refactor-front-end-javascript
                 }
             }
         }
-       copilot/refactor-front-end-javascript
 
         // Initial setup
         loadUserRole();
@@ -886,14 +839,3 @@ copilot/refactor-front-end-javascript
         ProgressRenderer.render();
     });
 })();
-
-    }
-
-    // Initial setup
-    migrateProgress();
-    loadUserRole();
-    renderQuizzes();
-    renderScenarios();
-    renderProgress();
-});
- main

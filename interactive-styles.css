@@ -1,3 +1,4 @@
+/* Quiz Question Styles - Fieldset based for accessibility */
 .quiz-question {
     background-color: var(--card-bg-color);
     padding: 25px;
@@ -7,9 +8,23 @@
     box-shadow: 0 4px 12px var(--shadow-color);
 }
 
-.quiz-options label {
-    display: block;
+.quiz-question legend {
+    font-weight: 600;
+    font-size: 1.1em;
+    padding: 0 10px;
+    color: var(--text-color);
+}
+
+.quiz-options {
+    margin-top: 15px;
+}
+
+.quiz-option {
     margin: 12px 0;
+}
+
+.quiz-option-label {
+    display: block;
     padding: 15px;
     background-color: var(--background-color);
     border-radius: 8px;
@@ -18,40 +33,47 @@
     border: 2px solid transparent;
 }
 
-.quiz-options label:hover {
+.quiz-option-label:hover {
     background-color: #E9ECEF;
+    border-color: #CED4DA;
 }
 
-.quiz-options input[type="radio"]:checked + span {
+.quiz-radio-input {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.quiz-radio-input:focus + .quiz-option-label,
+.quiz-radio-input:focus-visible + .quiz-option-label {
+    outline: 2px solid var(--primary-color);
+    outline-offset: 2px;
+}
+
+.quiz-radio-input:checked + .quiz-option-label {
     font-weight: 600;
     color: var(--primary-color);
+    border-color: var(--primary-color);
 }
 
-.quiz-options label.correct {
-    border-color: var(--secondary-color);
-    background-color: #E8F5E9;
-}
-
-.quiz-options label.incorrect {
-    border-color: #FFCDD2;
-    background-color: #FFEBEE;
-}
-
+/* Feedback Styles with WCAG compliant contrast */
 .quiz-feedback {
     margin-top: 20px;
     font-weight: 600;
     padding: 15px;
     border-radius: 8px;
+    border: 2px solid transparent;
 }
 
 .quiz-feedback.correct {
     background-color: #E8F5E9;
-    color: #2E7D32;
+    color: #1B5E20;  /* Darker green for better contrast (WCAG AA compliant) */
+    border-color: #4CAF50;
 }
 
 .quiz-feedback.incorrect {
     background-color: #FFEBEE;
-    color: #C62828;
+    color: #B71C1C;  /* Darker red for better contrast (WCAG AA compliant) */
+    border-color: #F44336;
 }
 
 .scenario-step {
@@ -72,6 +94,14 @@
     max-width: 400px;
     height: 280px;
     perspective: 1200px;
+    cursor: pointer;
+}
+
+/* Focus styles for keyboard navigation */
+.flip-card:focus {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 4px;
+    border-radius: 12px;
 }
 
 .flip-card-inner {
@@ -85,7 +115,9 @@
     border-radius: 12px;
 }
 
-.flip-card:hover .flip-card-inner {
+/* Flip on hover OR when clicked/activated */
+.flip-card:hover .flip-card-inner,
+.flip-card.flipped .flip-card-inner {
     transform: rotateY(180deg);
 }
 
