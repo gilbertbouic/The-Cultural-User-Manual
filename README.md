@@ -567,15 +567,19 @@ Help us improve by:
 
 ## 📜 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [Mozilla Public License 2.0 (MPL-2.0)](LICENSE).
 
 ### What This Means
 - ✅ Free to use, modify, and distribute
 - ✅ Commercial use allowed
+- ✅ File-level copyleft (modifications to MPL-licensed files must remain MPL)
+- ✅ Can be combined with proprietary code in larger works
+- ✅ Patent grant included
 - ✅ No warranty provided
-- ✅ Must include original license
 
-See the LICENSE file for full details.
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at [https://mozilla.org/MPL/2.0/](https://mozilla.org/MPL/2.0/).
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
