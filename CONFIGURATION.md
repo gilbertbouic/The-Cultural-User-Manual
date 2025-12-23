@@ -33,6 +33,62 @@ This prevents issues with browser security policies related to local file access
 
 This application is designed for easy deployment on static hosting platforms like GitHub Pages.
 
-1.  **Enable GitHub Pages**: In your repository settings, go to the "Pages" section.
-2.  **Select Source**: Choose the `main` branch and the `/(root)` folder as the source.
-3.  **Deploy**: Your site will be live shortly.
+### GitHub Pages Setup
+
+#### Enabling GitHub Pages
+
+1. **Navigate to Repository Settings**:
+   - Go to your GitHub repository
+   - Click on "Settings" tab
+   - Scroll down to the "Pages" section in the left sidebar
+
+2. **Configure the Source**:
+   - Under "Build and deployment", select "Deploy from a branch"
+   - Choose the `main` branch
+   - Select `/ (root)` as the folder
+   - Click "Save"
+
+3. **Wait for Deployment**:
+   - GitHub will build and deploy your site automatically
+   - This usually takes 1-2 minutes
+   - You'll see a green checkmark and your site URL once it's live
+
+4. **Access Your Site**:
+   - Your site will be available at: `https://[your-username].github.io/Cultural-Assimilation-Manual/`
+   - For this repository: `https://gilbertbouic.github.io/Cultural-Assimilation-Manual/`
+
+#### Path Considerations for GitHub Pages
+
+This application uses **relative paths** throughout to ensure compatibility with GitHub Pages:
+
+**Service Worker (`sw.js`)**:
+- Uses relative paths like `./` and `./index.html`
+- These paths work correctly whether the app is at the root domain or in a subdirectory
+- No changes needed for GitHub Pages deployment
+
+**Web App Manifest (`manifest.json`)**:
+- `start_url: "./"` - starts at the current directory
+- `scope: "./"` - limits the service worker scope to the app directory
+- Icon paths use `./icons/` for relative referencing
+- Works automatically with GitHub Pages subdirectory structure
+
+**Best Practices**:
+- ✅ Always use relative paths (e.g., `./`, `./styles.css`, `./app.js`)
+- ✅ Avoid absolute paths starting with `/` unless at root domain
+- ✅ Test locally with `python -m http.server` or `npx serve .` in subdirectories
+- ✅ Service worker and manifest are already configured correctly
+
+**Custom Domain (Optional)**:
+- If using a custom domain, update it in GitHub Pages settings
+- The relative paths will continue to work without code changes
+- Update the CNAME file if using a custom domain
+
+### Other Static Hosting Platforms
+
+The app works on any static hosting service:
+- **Netlify**: Drag and drop the folder or connect your GitHub repo
+- **Vercel**: Import your GitHub repository
+- **Cloudflare Pages**: Connect your repo and deploy
+- **AWS S3 + CloudFront**: Upload files to S3 bucket and configure CloudFront
+
+All platforms work with the existing relative path structure.
