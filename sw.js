@@ -9,7 +9,7 @@
  * Cache versioning: Increment version number when assets change significantly
  */
 
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `cultural-assimilation-manual-cache-${CACHE_VERSION}`;
 
 // Core assets to cache for offline functionality
@@ -17,13 +17,24 @@ const CACHE_NAME = `cultural-assimilation-manual-cache-${CACHE_VERSION}`;
 const urlsToCache = [
   './',
   './index.html',
-  './styles.css',
-  './interactive-styles.css',
-  './app.js',
-  './data.js',
-  './scenarios.js',
-  './interactive.js',
-  './navigation.js',
+  './styles/styles.css',
+  './styles/interactive-styles.css',
+  './scripts/core/data.core.js',
+  './scripts/app.js',
+  './scripts/navigation.js',
+  './scripts/interactive.js',
+  './scripts/regions/united_states.data.js',
+  './scripts/regions/united_kingdom.data.js',
+  './scripts/regions/central_europe.data.js',
+  './scripts/regions/scandinavia.data.js',
+  './scripts/regions/finland.data.js',
+  './scripts/regions/baltics.data.js',
+  './scripts/regions/balkans.data.js',
+  './scripts/regions/greece.data.js',
+  './scripts/regions/mediterranean.data.js',
+  './scripts/scenarios/united_states.scenarios.js',
+  './scripts/scenarios/united_kingdom.scenarios.js',
+  './scripts/scenarios/central_europe.scenarios.js',
   './manifest.json',
   './icons/icon-192x192.svg'
 ];
