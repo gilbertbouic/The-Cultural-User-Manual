@@ -192,7 +192,7 @@
         },
         'eastern-europe': {
             title: 'Eastern Europe & Balkans',
-            countries: '🇷🇸 Serbia • 🇭🇷 Croatia • 🇧🇦 Bosnia & Herzegovina • 🇲🇪 Montenegro • 🇲🇰 North Macedonia • 🇦🇱 Albania • 🇷🇴 Romania • 🇧🇬 Bulgaria • 🇬🇪 Georgia • 🇸🇮 Slovenia',
+            countries: '🇷🇸 Serbia • 🇭🇷 Croatia • 🇧🇦 Bosnia & Herzegovina • 🇲🇪 Montenegro • 🇲🇰 North Macedonia • 🇦🇱 Albania • 🇷🇴 Romania • 🇧🇬 Bulgaria • 🇬🇪 Georgia • 🇸🇮 Slovenia • 🇸🇰 Slovakia',
             keyTraits: ['Hospitality - Guests are treated like family, and generosity is central to social life',
                        'Respect for Tradition - Locals value age-old customs, family hierarchy, and religious practices',
                        'Bureaucracy & Patience - Official processes often require persistence and an understanding of formal etiquette'],
