@@ -287,6 +287,48 @@ footer a:hover {
     transform: translateX(5px);
 }
 
+/* Phrases Section */
+.phrases-section {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #7B68EE, #9370DB);
+    color: white;
+    border-radius: 12px;
+    margin-top: 40px;
+}
+
+.phrases-section h2 {
+    font-size: 2.2rem;
+    margin: 0 0 20px 0;
+    color: white;
+}
+
+.phrases-description {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    max-width: 700px;
+    margin: 0 auto 30px;
+    opacity: 0.95;
+}
+
+.phrases-cta {
+    background: white;
+    color: #7B68EE;
+    border: none;
+    padding: 15px 40px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.phrases-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
 /* Cluster Detail Page */
 #cluster-detail {
     min-height: 100vh;
@@ -364,5 +406,13 @@ footer a:hover {
     
     .clusters-grid {
         grid-template-columns: 1fr;
+    }
+
+    .phrases-section h2 {
+        font-size: 1.8rem;
+    }
+
+    .phrases-description {
+        font-size: 1rem;
     }
 }
